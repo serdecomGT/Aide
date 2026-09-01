@@ -1,1 +1,29 @@
+C# (pronunciado C-Sharp) es un lenguaje de programación multiparadigma, moderno y orientado a objetos, desarrollado por Microsoft en el año 2000 como parte de su plataforma .NET.Puedes consultar todos los detalles técnicos en la guía oficial de Microsoft Learn ¿Para qué sirve?Desarrollo web: Creación de aplicaciones y APIs robustas con ASP.NET Core y frontend interactivo con Blazor.Aplicaciones de escritorio: Construcción de software para Windows usando WPF o WinForms.Desarrollo móvil: Programación de aplicaciones nativas para Android e iOS mediante .NET MAUI.Videojuegos: Es el lenguaje principal del motor Unity, uno de los más usados ​​del mundo.Servicios en la nube: Creación de microservicios y aplicaciones escalables optimizadas para entornos cloud.Sintaxis de C#Es un lenguaje de tipado fuerte (las variables deben tener un tipo de dato definido) y su sintaxis es muy similar a la de C, C++ y Java. Para que el código sea mejor, más limpio, moderno y rápido de escribir, C# introdujo características avanzadas en sus últimas versiones. Esta es la sintaxis "mejorada" y profesional que se utiliza hoy en día:1. Sentencias Superiores (Top-Level Statements)Ya no necesitas escribir clases, namespaces ni el método Main para programas sencillos. El archivo se lee directamente de arriba a abajo.Antes: 15 líneas de estructura pesada.Ahora (Mejor):csharpusing System;
 
+string saludo = "¡Hola, mundo!";
+Consola.WriteLine(saludo);
+Utilice el código con precaución.2. Coincidencia de Patrones (Pattern Matching)Reemplaza los bloques if/else largos o los switch antiguos por una sintaxis ultra compacta y expresiva.csharpint edad = 20;
+
+// Expresión switch directa
+string categoria = edad switch
+{
+< 12 => "Niño",
+< 18 => "Adolescente",
+_ => "Adulto" // El guion bajo (_) es el caso por defecto
+};
+
+Console.WriteLine(categoría);
+Utilice el código con precaución.3. Inicialización de Objetos SimplificadaNo hace falta repetir el nombre de la clase al usar new. El compilador ya sabe qué objeto estás creando.csharp// Antes: Persona usuario = new Persona("Carlos");
+Persona usuario = new("Carlos");
+
+// Inicialización de propiedades sin constructor
+Producto item = new() { Id = 1, Nombre = "Laptop", Precio = 899.99 };
+Utilice el código con precaución.4. Tipos Registro (Records)Ideales para modelar datos puros de forma inmutable (que no cambian). Cree una clase completa con propiedades, constructor y comparadores en una sola línea.csharppublic record Cliente(int Id, string Nombre, string Email);
+
+// Uso automático
+Cliente cliente1 = new(1, "Ana", " ana@email.com ");
+Utilice el código con precaución.5. Expresiones Lambda para Métodos CortosSi una función solo tiene una línea de código, elimina las llaves {} y el return usando el operador flecha (=>).csharp// Antes: public int Sumar(int a, int b) { return a + b; }
+public int Sumar(int a, int b) => a + b;
+
+public void MostrarMensaje() => Console.WriteLine("Acción ejecutada");
+Utilice el código con precaución.
