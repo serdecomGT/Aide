@@ -1,4 +1,4 @@
-Reporte Detallado de Diagnóstico de Hardware Fecha: Lunes, 1 de septiembre de 2026
+***Reporte Detallado de Diagnóstico de Hardware Fecha:*** Lunes, 1 de septiembre de 2026
 
 Equipo Técnico: Personal y Daniela López Durante la jornada técnica de la tarde, mi compañera Daniela y yo nos enfocamos en la revisión profunda de tres equipos de cómpu que presentaban fallas críticas de rendimiento y estabilidad. Tras realizar las pruebas de diagnóstico correspondientes, determinamos que los tres computadores compartían exactamente el mismo patrón de averías en sus componentes principales. Fallas en el Disco Duro: Las unidades de almacenamiento presentaron sectores defectuosos y una velocidad de lectura/escritura sumamente baja.
 
