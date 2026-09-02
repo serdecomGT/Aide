@@ -9,6 +9,7 @@
 ## Sección A — Conocimientos generales
 
 1. ¿Qué es Blazor y quién lo desarrolló?
+   
  Blazor es un framework de código abierto desarrollado por Microsoft que permite crear interfaces web interactivas usando C# en lugar de depender principalmente de JavaScript. Permite compartir lógica entre el cliente y el servidor, y se integra con HTML y CSS.
 
 3. ¿Qué lenguaje de programación utiliza Blazor para crear interfaces web?
