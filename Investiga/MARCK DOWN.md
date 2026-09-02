@@ -1,24 +1,30 @@
-Markdown es un lenguaje de marcado ligero que permite dar formato a un texto plano usando símbolos sencillos en lugar de botones o códigos complejos.¿Para qué sirve?Crear contenido rápido: Permite escribir con formato (como negritas, títulos o listas) sin apartar las manos del teclado.Leer en cualquier lugar: Los archivos usan texto plano (.md), por lo que se pueden abrir y leer en cualquier dispositivo o editor básico.Convertir a HTML: Se transforma fácilmente en páginas web, documentos PDF o notas enriquecidas.Ejemplos básicos de sintaxisCursiva: Un asterisco a cada lado, como *texto*.Negrita: Dos asteriscos a cada lado, como **texto**.Títulos: Se usa el símbolo de numeral # al inicio (más símbolos significan un título más pequeño, como # Título 1).Listas: Se usan guiones - o asteriscos * al principio de cada línea.
-¿Qué es Markdown?
+# MARCK DOWN
+
+Markdown es un lenguaje de marcado ligero que permite dar formato a un texto plano usando símbolos sencillos en lugar de botones o códigos complejos.
+## ¿Para qué sirve?Crear contenido rápido: 
+Permite escribir con formato (como negritas, títulos o listas) sin apartar las manos del teclado.Leer en cualquier lugar: Los archivos usan texto plano (.md), por lo que se pueden abrir y leer en cualquier dispositivo o editor básico.Convertir a HTML: Se transforma fácilmente en páginas web, documentos PDF o notas enriquecidas.Ejemplos básicos de sintaxisCursiva: Un asterisco a cada lado, como *texto*.Negrita: Dos asteriscos a cada lado, como **texto**.Títulos: Se usa el símbolo de numeral # al inicio (más símbolos significan un título más pequeño, como # Título 1).Listas: Se usan guiones - o asteriscos * al principio de cada línea.
+
+## ¿Qué es Markdown?
 
 Markdown es un lenguaje de marcado de texto plano, creado para escribir contenido con formato de manera muy sencilla. En lugar de usar menús, botones o códigos complejos como en procesadores de texto, se usan símbolos simples como #, *, - o [] para dar estructura y estilo al texto.
 
 Fue creado en 2004 por John Gruber (con la colaboración de Aaron Swartz) con el objetivo de lograr un formato que sea fácil de escribir y fácil de leer tanto en su forma de código como cuando se ve formateado. Su nombre viene de la idea de convertir "marcas" en lenguaje de marcado.
 
 Aunque a veces se escriba como "Marck Down" o "Marco Down" por error, el nombre correcto es Markdown.
-¿Para qué sirve?
+
+## ¿Para qué sirve?
 
 Markdown sirve para dar estructura y formato a cualquier tipo de texto: documentación, notas, informes, páginas web, mensajes, libros, etc. Se usa muchísimo en el mundo de la programación y la tecnología porque es:
 
-* Sencillo de aprender: se aprende lo básico en minutos.
+***Sencillo de aprender:*** se aprende lo básico en minutos.
 
-*  Legible: el código se entiende aunque no se vea formateado.
+***Legible:*** el código se entiende aunque no se vea formateado.
 
-*  Portable: se abre en cualquier computadora, celular o sistema operativo.
+***Portable:*** se abre en cualquier computadora, celular o sistema operativo.
 
-* Universal: funciona en miles de plataformas y programas.
+***Universal:*** funciona en miles de plataformas y programas.
 
-Algunos lugares donde se usa Markdown:
+**Algunos lugares donde se usa Markdown:**
 
 * GitHub — en los archivos README.md que explican los proyectos.
 
