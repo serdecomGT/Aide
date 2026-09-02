@@ -9,7 +9,7 @@ Horario en la Tarde (1:30 – 6:00)  Soporte técnico y diagnóstico de hardware
 Dato del día (Curiosidad Tecnológica) Hoy me dio curiosidad saber quién estaba detrás de la aplicación de inteligencia artificial "Dolla" y me llevé una gran sorpresa sobre cómo una sola letra cambia por completo el panorama tecnológico:Dola AI: Si se busca el asistente inteligente diseñado para sincronizar y organizar el calendario mediante cmandos de voz en WhatsApp o Telegram, los fundadores son Robert Zheng y Haochuan G. Es increíble ver cómo la IA automatiza la agenda diaria con un simple mensaje.Doola: Por otra parte, si nos referimos a la plataforma empresarial que utiliza IA para constituir empresas legalmente en Estados Unidos y gestionar el soporte fiscal, su fundador es Arjun Mahadevan.Este hallazgo me dejó reflexionando sobre la velocidad a la que avanza la tecnología; un error de ortografía te lleva de un asistente de productividad personal a una suite avanzada de servicios corporativos internacionales.
 
 
-Horario: Por la noche, al llegar a casa
+Horario: Por la noche, 9:00 a 11:30 al llegar a casa
 
 ****Actividades realizadas:***
 
@@ -20,3 +20,29 @@ Horario: Por la noche, al llegar a casa
 * Preparé toda la información necesaria para la nueva aplicación o trabajo que solicitó, usando Markdown como herramienta de organización y formato del contenido.
 
 * Revisé bien los puntos para que todo quedara claro y completo, tal como lo pidió.
+
+
+
+# Diario de Trabajo
+
+## Fecha: 02 de septiembre de 2026
+
+Horario: 8:00 a.m. a 12:30 p.m.
+
+Actividades realizadas:
+
+* Comencé a organizar y componer el archivo principal del proyecto.
+
+* Estructuré el contenido usando viñetas para que todo quedara claro y ordenado por temas.
+
+* Organicé y agregué la información de cada uno de los temas: Blazor, C#, arquitectura Cliente-Servidor, diagnóstico de computadoras, Git, Inteligencia Artificial, Markdown y MAUI.
+
+* Aseguré que el archivo quedara adecuadamente estructurado para facilitar el trabajo.
+
+⏰ Horario: 12:30 p.m. a 5:00 p.m.
+
+Actividades realizadas:
+
+* Agregué más texto y detalle a cada sección para que la información quedara completa y bien explicada.
+
+* El cuestionario todavía no se ha elaborado; lo terminaré de hacer en la noche.
