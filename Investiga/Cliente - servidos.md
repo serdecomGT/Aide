@@ -1,11 +1,14 @@
+# Cliente _ servidores
+
 El modelo cliente-servidor es una arquitectura de red que divide las tareas entre un programa o dispositivo que solicita un servicio (el cliente) y otro que lo proporciona (el servidor).Se usa para organizar la comunicación y el intercambio de información en una red de computadoras, permitiendo que múltiples usuarios accedan a datos, programas y recursos centralizados de forma ordenada y segura.¿Cómo funciona?El Cliente: Es el dispositivo o aplicación (como tu navegador web, una app en el celular o un programa de correo) que usa el usuario y envía una petición (request).El Servidor: Es una máquina o programa potente que recibe esa petición, la procesa, busca la información o realiza los cálculos necesarios y devuelve una respuesta al cliente.Ejemplos de uso cotidianoPáginas web: Tu navegador es el cliente que pide ver un sitio; el servidor web almacena las páginas y se las envía para que las veas. Correo electrónico: Lees tus mensajes en una app (cliente) conectado a un servidor de correo que guarda todos tus mensajes. Bases de datos y aplicaciones de empresas: Muchos empleados usan sus computadoras para consultar o guardar datos que se guardan en un único servidor central de la compañía. ( P2P )
-¿Qué es la arquitectura cliente-servidor?
+
+## ¿Qué es la arquitectura cliente-servidor?
 
 La arquitectura cliente-servidor es una forma de organizar programas que se conectan por una red. En lugar de que todo el programa funcione en una sola computadora, se divide en dos partes que se comunican entre sí: el cliente, que es lo que ve y usa el usuario, y el servidor, que es quien guarda los datos y procesa la información.
 
 Esta arquitectura es la base de internet: cada vez que abres una página web, tu celular o computadora actúa como cliente y solicita información a un servidor que puede estar en cualquier parte del mundo.
 
-El Cliente
+**El Cliente**
 
 El cliente es la interfaz visible de la aplicación. Es la ventana, la página web o la pantalla del celular donde aparecen los botones, los formularios, los menús y los resultados. Su trabajo es:
 
@@ -19,7 +22,7 @@ El cliente es la interfaz visible de la aplicación. Es la ventana, la página w
 
 El cliente no guarda la información de forma permanente. Si cierras la aplicación y la vuelves a abrir, todo se vuelve a cargar desde el servidor. Esto es bueno porque puedes entrar desde cualquier dispositivo y ver tus mismos datos.
 
-El Servidor
+***El Servidor***
 
 El servidor es el programa que recibe las peticiones del cliente, las procesa y responde. Generalmente está instalado en una computadora más potente que está encendida las 24 horas, para que cualquiera pueda conectarse en cualquier momento. Su trabajo es:
 
@@ -35,7 +38,7 @@ El servidor es el programa que recibe las peticiones del cliente, las procesa y 
 
 Un servidor puede atender a muchos clientes al mismo tiempo. Por ejemplo, en una red social, miles de personas publican y leen al mismo tiempo, y el servidor se encarga de organizar todo.
 
-¿Cómo se comunican?
+**¿Cómo se comunican?**
 
 Para entenderse, cliente y servidor usan protocolos, que son como reglas de conversación. Los más comunes son:
 
@@ -43,7 +46,7 @@ Para entenderse, cliente y servidor usan protocolos, que son como reglas de conv
 
 * WebSocket: permite una comunicación en tiempo real, ideal para chats o notificaciones instantáneas.
 
-El flujo de información suele ser así:
+**El flujo de información suele ser así:**
 
 1. El usuario llena un formulario y da clic en "Guardar".
 
@@ -55,7 +58,7 @@ El flujo de información suele ser así:
 
 5. El cliente muestra el mensaje al usuario.
 
-Ventajas de esta arquitectura
+**Ventajas de esta arquitectura**
 
 * Centralización: la información se guarda en un solo lugar, lo que facilita hacer copias de seguridad y mantenerla segura.
 
@@ -67,7 +70,7 @@ Ventajas de esta arquitectura
 
 * Escalabilidad: si aumenta la cantidad de usuarios, se puede mejorar el servidor sin tener que cambiar las computadoras de todos.
 
-Desventajas y retos
+**Desventajas y retos**
 
 * Depende de la red: si se va el internet, no se puede usar la aplicación.
 
@@ -75,14 +78,14 @@ Desventajas y retos
 
 * Seguridad: al estar conectado a la red, hay que protegerse contra intentos de acceso no autorizados.
 
-Variantes de la arquitectura
+**Variantes de la arquitectura**
 
 * Arquitectura de dos capas: la más simple, cliente se conecta directo al servidor y a la base de datos.
 * Arquitectura en la nube: el servidor no está en tu escuela o casa, sino en empresas como Microsoft Azure o Amazon Web Services, que se encargan de mantenerlo funcionando.
 
-Ejemplo práctico
+## jemplo práctico
 
-Imagina un sistema de notas escolares:
+**Imagina un sistema de notas escolares:**
 
 * Cliente: la página web donde el maestro escribe las calificaciones y donde el estudiante las consulta.
 
