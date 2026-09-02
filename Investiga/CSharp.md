@@ -1,3 +1,5 @@
+# CSharp.md
+
 C# (pronunciado C-Sharp) es un lenguaje de programación multiparadigma, moderno y orientado a objetos, desarrollado por Microsoft en el año 2000 como parte de su plataforma .NET.Puedes consultar todos los detalles técnicos en la guía oficial de Microsoft Learn ¿Para qué sirve?Desarrollo web: Creación de aplicaciones y APIs robustas con ASP.NET Core y frontend interactivo con Blazor.Aplicaciones de escritorio: Construcción de software para Windows usando WPF o WinForms.Desarrollo móvil: Programación de aplicaciones nativas para Android e iOS mediante .NET MAUI.Videojuegos: Es el lenguaje principal del motor Unity, uno de los más usados ​​del mundo.Servicios en la nube: Creación de microservicios y aplicaciones escalables optimizadas para entornos cloud.Sintaxis de C#Es un lenguaje de tipado fuerte (las variables deben tener un tipo de dato definido) y su sintaxis es muy similar a la de C, C++ y Java. Para que el código sea mejor, más limpio, moderno y rápido de escribir, C# introdujo características avanzadas en sus últimas versiones. Esta es la sintaxis "mejorada" y profesional que se utiliza hoy en día:1. Sentencias Superiores (Top-Level Statements)Ya no necesitas escribir clases, namespaces ni el método Main para programas sencillos. El archivo se lee directamente de arriba a abajo.Antes: 15 líneas de estructura pesada.Ahora (Mejor):csharpusing System;
 
 string saludo = "¡Hola, mundo!";
@@ -29,10 +31,11 @@ public void MostrarMensaje() => Console.WriteLine("Acción ejecutada");
 Utilice el código con precaución.
 
 
-¿Qué es C#?  (se pronuncia "C Sharp") es un lenguaje de programación moderno, orientado a objetos y fuertemente tipado, desarrollado por Anders Hejlsberg y su equipo en Microsoft en el año 2000. Forma parte del ecosistema .NET, siendo uno de los lenguajes principales de esta plataforma. Su diseño combina la potencia de lenguajes como C++ con la facilidad de uso de lenguajes como Java, permitiendo a los desarrolladores crear aplicaciones de manera eficiente y segura.
+**¿Qué es C#?**
+(se pronuncia "C Sharp") es un lenguaje de programación moderno, orientado a objetos y fuertemente tipado, desarrollado por Anders Hejlsberg y su equipo en Microsoft en el año 2000. Forma parte del ecosistema .NET, siendo uno de los lenguajes principales de esta plataforma. Su diseño combina la potencia de lenguajes como C++ con la facilidad de uso de lenguajes como Java, permitiendo a los desarrolladores crear aplicaciones de manera eficiente y segura.
 C# es multiplataforma y versátil: con él se pueden desarrollar desde simples programas de consola hasta complejas aplicaciones empresariales, videojuegos, aplicaciones móviles, servicios en la nube y sistemas embebidos. A lo largo de los años ha evolucionado constantemente, incorporando características como programación asincrónica, manejo de valores nulos, registros y funcionalidades de inteligencia artificial.
 
-Historia y evolución
+**Historia y evolución**
 
 * 2000: Nace C# 1.0 junto con .NET Framework 1.0, como parte de la estrategia de Microsoft para competir con Java.
 
@@ -44,7 +47,7 @@ Historia y evolución
 
 * 2020 en adelante: Con .NET 5 y versiones posteriores, C# se vuelve verdaderamente multiplataforma, corriendo nativamente en Windows, Linux y macOS. Se incorporan registros, mejora de rendimiento y soporte nativo para procesamiento de datos grandes.
 
-Características principales
+**Características principales**
 
 1. Orientado a objetos: Todo se organiza en clases y objetos, lo que facilita reutilizar código, mantenerlo y trabajarlo en equipo. Soporta herencia, polimorfismo, encapsulamiento y abstracción.
 
@@ -58,9 +61,9 @@ Características principales
 
 6. Seguridad: Tiene mecanismos integrados para validar accesos, manejar datos sensibles y prevenir errores comunes de memoria.
 
-Sintaxis básica
+**Sintaxis básica**
 
-La sintaxis de C# es clara y estructurada:
+***La sintaxis de C# es clara y estructurada:***
 
 * Las instrucciones terminan con punto y coma ;.
 
@@ -96,7 +99,7 @@ namespace MiPrograma
     }
 }
 
-¿Para qué se usa?
+**¿Para qué se usa?**
 
 * Aplicaciones de escritorio: Programas que se instalan en la computadora, como sistemas de facturación o control de inventario, usando Windows Forms o WPF.
 
@@ -110,9 +113,9 @@ namespace MiPrograma
 
 * Ciencia de datos e IA: Se integra con bibliotecas de procesamiento de datos y modelos de inteligencia artificial.
 
-Ventajas y desventajas
+# Ventajas y desventajas
 
-Ventajas:
+**Ventajas:**
 
 * Lenguaje muy documentado y con gran comunidad de apoyo.
 
@@ -122,7 +125,7 @@ Ventajas:
 
 * Curva de aprendizaje accesible para quienes ya conocen otros lenguajes similares.
 
-Desventajas:
+**Desventajas:**
 
 * Históricamente estuvo muy ligado a Windows, aunque hoy en día ya es multiplataforma.
 
