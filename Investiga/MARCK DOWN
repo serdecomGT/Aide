@@ -1,1 +1,197 @@
+Markdown es un lenguaje de marcado ligero que permite dar formato a un texto plano usando símbolos sencillos en lugar de botones o códigos complejos.¿Para qué sirve?Crear contenido rápido: Permite escribir con formato (como negritas, títulos o listas) sin apartar las manos del teclado.Leer en cualquier lugar: Los archivos usan texto plano (.md), por lo que se pueden abrir y leer en cualquier dispositivo o editor básico.Convertir a HTML: Se transforma fácilmente en páginas web, documentos PDF o notas enriquecidas.Ejemplos básicos de sintaxisCursiva: Un asterisco a cada lado, como *texto*.Negrita: Dos asteriscos a cada lado, como **texto**.Títulos: Se usa el símbolo de numeral # al inicio (más símbolos significan un título más pequeño, como # Título 1).Listas: Se usan guiones - o asteriscos * al principio de cada línea.
+¿Qué es Markdown?
 
+Markdown es un lenguaje de marcado de texto plano, creado para escribir contenido con formato de manera muy sencilla. En lugar de usar menús, botones o códigos complejos como en procesadores de texto, se usan símbolos simples como #, *, - o [] para dar estructura y estilo al texto.
+
+Fue creado en 2004 por John Gruber (con la colaboración de Aaron Swartz) con el objetivo de lograr un formato que sea fácil de escribir y fácil de leer tanto en su forma de código como cuando se ve formateado. Su nombre viene de la idea de convertir "marcas" en lenguaje de marcado.
+
+Aunque a veces se escriba como "Marck Down" o "Marco Down" por error, el nombre correcto es Markdown.
+¿Para qué sirve?
+
+Markdown sirve para dar estructura y formato a cualquier tipo de texto: documentación, notas, informes, páginas web, mensajes, libros, etc. Se usa muchísimo en el mundo de la programación y la tecnología porque es:
+
+* ✅ Sencillo de aprender: se aprende lo básico en minutos.
+
+* ✅ Legible: el código se entiende aunque no se vea formateado.
+
+* ✅ Portable: se abre en cualquier computadora, celular o sistema operativo.
+
+* ✅ Universal: funciona en miles de plataformas y programas.
+
+Algunos lugares donde se usa Markdown:
+
+* GitHub — en los archivos README.md que explican los proyectos.
+
+* GitLab, Bitbucket — plataformas similares de código.
+
+* Notion, Obsidian, Joplin — aplicaciones para tomar notas.
+
+* Foros y blogs — como Reddit o plataformas educativas.
+
+* Documentación técnica — manuales, guías y libros digitales.
+
+* Plataformas de aprendizaje — como Coursera o Moodle.
+¿Cómo funciona?
+
+La idea es muy simple: escribes texto normal y le agregas símbolos para indicar qué estilo debe tener. Luego, un programa o plataforma convierte ese texto con símbolos a un formato visual: títulos, negritas, listas, enlaces, imágenes, etc.
+
+Markdown no reemplaza a procesadores potentes como Word, pero es ideal para todo lo que sea texto estructurado sin diseños muy complejos.
+Sintaxis básica — Los elementos más usados
+
+Aquí tienes todos los elementos principales que puedes usar:
+
+1. Títulos
+
+Se crean con el símbolo # al principio de la línea. Cuantos más #, más pequeño es el título:
+# Título principal (nivel 1)
+## Título secundario (nivel 2)
+### Título de sección (nivel 3)
+#### Título pequeño (nivel 4)
+2. Párrafos y saltos de línea
+
+* Simplemente escribe el texto normal.
+
+* Para separar párrafos, deja una línea en blanco entre ellos.
+
+* Para un salto de línea sin separar párrafo, termina la línea con dos espacios.
+
+3. Énfasis — Negrita y Cursiva
+Texto en cursiva
+Texto en cursiva también
+
+*Texto en negrita*
+_Texto en negrita también_
+
+**Negrita y cursiva juntas**
+4. Listas
+
+Listas con viñetas (sin orden):
+- Primer elemento
+- Segundo elemento
+- Tercer elemento
+También se puede usar * o + en lugar de -.
+
+Listas numeradas:
+1. Primer paso
+2. Segundo paso
+3. Tercer paso
+No importa si escribes siempre el número 1., Markdown los ordena solos.
+
+Listas anidadas (dentro de otra):
+- Frutas
+  - Manzana
+  - Plátano
+- Verduras
+  - Zanahoria
+Solo agrega espacios antes del guion.
+
+5. Enlaces
+[Texto que se ve aquí](https://www.ejemplo.com "Título opcional")
+* Entre corchetes []: lo que el usuario lee.
+
+* Entre paréntesis (): la dirección web.
+
+* Las comillas con el título aparecen al pasar el cursor.
+
+6. Imágenes
+
+Son iguales que los enlaces pero con un signo de exclamación ! al principio:
+![Texto alternativo si no carga la imagen](ruta-de-la-imagen.jpg)
+El texto alternativo es importante para personas que no pueden ver la imagen.
+
+7. Citas
+
+Para resaltar frases o textos de otra fuente, usa el símbolo >:
+> "La educación es el arma más poderosa para cambiar el mundo."
+> — Nelson Mandela
+8. Código
+
+Código corto dentro de una frase:
+
+Usa acento grave ` alrededor del código:
+Para usar la función calcularTotal() es necesario definirla primero.
+Bloques de código más largos:
+
+Usa tres acentos graves al principio y al final:
+
+nombre = "María"
+edad = 18
+print(f"Hola, me llamo {nombre} y tengo {edad} años.")
+
+También puedes indicar el lenguaje para que se coloree:
+python
+nombre = "María"
+edad = 18
+### 9. Líneas separadoras
+Para dividir secciones, escribe tres o más guiones, asteriscos o guiones bajos seguidos:
+markdown
+---
+10. Tablas
+
+Se arman con guiones y barras verticales:
+| Nombre    | Edad | Ciudad     |
+|-----------|------|------------|
+| María     | 18   | Quetzaltenango |
+| Juan      | 20   | Guatemala  |
+La fila de guiones del medio es obligatoria para que se reconozca como tabla.
+
+11. Tachado
+
+Para mostrar texto eliminado o corregido, usa dos virgulillas:
+~Este texto ya no sirve~
+12. Listas de tareas
+
+Muy útiles para organizar proyectos:
+- [x] Terminar la investigación
+- [ ] Revisar ortografía
+- [ ] Entregar el trabajo
+¿Dónde se escribe y se ve Markdown?
+
+Editores donde puedes escribirlo:
+
+* Visual Studio Code — gratis, muy popular, con vista previa.
+
+* Typora — se ve formateado mientras escribes.
+
+* Obsidian — para organizar notas y conocimientos.
+
+* Notepad++, Sublime Text, Vim — cualquier editor de texto sirve.
+
+Plataformas que lo muestran ya formateado:
+
+* GitHub — cuando subes un archivo .md, se ve bonito automáticamente.
+
+* GitLab — igual que GitHub.
+
+* Discord — soporta negrita, cursiva, listas y enlaces.
+
+* Slack, Teams — también soportan gran parte de la sintaxis.
+
+* Blogs y CMS — como WordPress, Ghost o Jekyll.
+Ventajas de usar Markdown
+
+✅ No dependes de un programa específico: cualquier editor de texto lo abre.
+✅ Los archivos pesan casi nada: no ocupan espacio innecesario.
+✅ No se rompe el formato: si abres el archivo en otra computadora, se ve igual.
+✅ Se convierte a otros formatos fácilmente: se puede pasar a PDF, HTML, Word, EPUB, diapositivas y más con herramientas como Pandoc.
+✅ Te enfocas en el contenido, no en el diseño: escribes y estructuras, no pierdes tiempo moviendo botones.
+✅ Es compatible con versiones futuras: como es texto plano, siempre se podrá leer.
+Cosas que hay que tener en cuenta
+
+❌ No sirve para diseños muy complejos: no puedes poner una imagen a la derecha y texto a la izquierda fácilmente, ni cambiar colores o fuentes directamente.
+❌ No es un procesador de texto completo: no tiene corrector ortográfico integrado ni revisión de cambios.
+❌ Hay pequeñas variaciones: algunas plataformas agregan sus propias reglas (por ejemplo, GitHub tiene su versión llamada "GitHub Flavored Markdown").
+¿Cómo empezar a usarlo?
+
+1. Abre un editor de texto simple (Notepad, Notepad++, Visual Studio Code).
+
+2. Escribe usando la sintaxis que vimos arriba.
+
+3. Guarda el archivo con la extensión .md, por ejemplo: trabajo-investigacion.md.
+
+4. Ábrelo en una plataforma que lo interprete o usa un editor con vista previa.
+
+No necesitas instalar nada especial para empezar: con lo básico ya puedes escribir documentos bien organizados.
+Conclusión
+
+Markdown es una herramienta fundamental hoy en día, especialmente si estudias o trabajas con computación. No es un lenguaje de programación, pero es un lenguaje que te ayuda a organizar, documentar y comunicar tus ideas de forma clara, ordenada y universal. Aprenderlo te ahorra tiempo, te permite colaborar mejor con otras personas y te da una habilidad muy solicitada en el mundo laboral y académico. Lo mejor es que no toma mucho tiempo dominarlo: con practicar los elementos básicos ya puedes empezar a usarlo en tus tareas, proyectos y notas desde hoy.
