@@ -64,6 +64,9 @@ Blazor usa componentes, que son partes reutilizables de la interfaz: botones, fo
 
 Ciclo de vida de un componente
 
+
+
+
 Cada vez que se carga o se actualiza un componente, sigue una secuencia de pasos:
 
 1. Inicialización: Se crean las variables y se establecen los valores iniciales.
