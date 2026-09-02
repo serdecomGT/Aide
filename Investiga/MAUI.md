@@ -3,7 +3,7 @@
 ## ¿Para qué se usa? Desarrollo multiplataforma:
 Permite programar una aplicación una sola vez y desplegarla en Android, iOS, macOS y Windows. Interfaz de usuario única: Utiliza elementos visuales compartidos que se transforman automáticamente en los componentes nativos de cada sistema operativo. ligero. Tecnologías que utilizaC#: El lenguaje de programación principal para escribir la lógica del negocio.XAML: El lenguaje usuario de marcado utilizado para diseñar y estructurar la interfaz.MVVM / Blazor Hybrid: Soporta patrones de diseño modernos y permite integrar componentes web de Blazor dentro de la aplicación nativa. Ventajas frente a otras opcionesCódigo unificado: Las imágenes, fuentes y configuraciones de cada plataforma se gestionan desde una única carpeta del proyecto.Rendimiento nativo: No utiliza contenedores web pesados; el código se compila directamente para el procesador de cada dispositivo. Respaldo corporativo: Cuenta con el soporte oficial de Microsoft y una integración total con Visual Studio. Si quieres empezar a desarrollar con esta tecnología, dime si te gustaría que revisemos: Los requisitos e instalación en Visual Studio La estructura de un proyecto Hola Mundo en MAUI Las diferencias clave contra competidores como Flutter o React Native
 
-**¿Qué es .NET MAUI?**
+**¿Qué es NET MAUI?**
 
 .NET MAUI (acrónimo de Multi-platform App UI, o Interfaz de Aplicación Multiplataforma) es un framework de interfaz de usuario de código abierto y gratuito, desarrollado por Microsoft, que permite crear aplicaciones nativas para Android, iOS, macOS y Windows a partir de un único código base compartido. Es la evolución moderna de Xamarin.Forms, llevando el desarrollo multiplataforma al ecosistema unificado de .NET.
 
