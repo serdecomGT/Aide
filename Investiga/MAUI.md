@@ -1,12 +1,15 @@
-¿Para qué se usa? Desarrollo multiplataforma: Permite programar una aplicación una sola vez y desplegarla en Android, iOS, macOS y Windows. Interfaz de usuario única: Utiliza elementos visuales compartidos que se transforman automáticamente en los componentes nativos de cada sistema operativo. ligero. Tecnologías que utilizaC#: El lenguaje de programación principal para escribir la lógica del negocio.XAML: El lenguaje usuario de marcado utilizado para diseñar y estructurar la interfaz.MVVM / Blazor Hybrid: Soporta patrones de diseño modernos y permite integrar componentes web de Blazor dentro de la aplicación nativa. Ventajas frente a otras opcionesCódigo unificado: Las imágenes, fuentes y configuraciones de cada plataforma se gestionan desde una única carpeta del proyecto.Rendimiento nativo: No utiliza contenedores web pesados; el código se compila directamente para el procesador de cada dispositivo. Respaldo corporativo: Cuenta con el soporte oficial de Microsoft y una integración total con Visual Studio. Si quieres empezar a desarrollar con esta tecnología, dime si te gustaría que revisemos: Los requisitos e instalación en Visual Studio La estructura de un proyecto Hola Mundo en MAUI Las diferencias clave contra competidores como Flutter o React Native
+# MAUI
 
-¿Qué es .NET MAUI?
+## ¿Para qué se usa? Desarrollo multiplataforma:
+Permite programar una aplicación una sola vez y desplegarla en Android, iOS, macOS y Windows. Interfaz de usuario única: Utiliza elementos visuales compartidos que se transforman automáticamente en los componentes nativos de cada sistema operativo. ligero. Tecnologías que utilizaC#: El lenguaje de programación principal para escribir la lógica del negocio.XAML: El lenguaje usuario de marcado utilizado para diseñar y estructurar la interfaz.MVVM / Blazor Hybrid: Soporta patrones de diseño modernos y permite integrar componentes web de Blazor dentro de la aplicación nativa. Ventajas frente a otras opcionesCódigo unificado: Las imágenes, fuentes y configuraciones de cada plataforma se gestionan desde una única carpeta del proyecto.Rendimiento nativo: No utiliza contenedores web pesados; el código se compila directamente para el procesador de cada dispositivo. Respaldo corporativo: Cuenta con el soporte oficial de Microsoft y una integración total con Visual Studio. Si quieres empezar a desarrollar con esta tecnología, dime si te gustaría que revisemos: Los requisitos e instalación en Visual Studio La estructura de un proyecto Hola Mundo en MAUI Las diferencias clave contra competidores como Flutter o React Native
+
+**¿Qué es .NET MAUI?**
 
 .NET MAUI (acrónimo de Multi-platform App UI, o Interfaz de Aplicación Multiplataforma) es un framework de interfaz de usuario de código abierto y gratuito, desarrollado por Microsoft, que permite crear aplicaciones nativas para Android, iOS, macOS y Windows a partir de un único código base compartido. Es la evolución moderna de Xamarin.Forms, llevando el desarrollo multiplataforma al ecosistema unificado de .NET.
 
 La idea central es simple pero poderosa: escribir el código una sola vez y que funcione en todos los sistemas operativos. En lugar de aprender lenguajes distintos para cada plataforma (Swift para iPhone, Kotlin para Android, C# para Windows, Objective-C para Mac), se usa C# y XAML para definir tanto la lógica como el diseño, y MAUI se encarga de adaptar todo a las características de cada dispositivo.
 
-Historia y origen
+**Historia y origen**
 
 * 2014: Nace Xamarin.Forms, permitiendo compartir la interfaz de usuario entre móviles.
 
@@ -16,7 +19,7 @@ Historia y origen
 
 * Actualidad: Se actualiza con cada versión de .NET, mejorando rendimiento, controles y herramientas.
 
-¿Cómo funciona?
+**¿Cómo funciona?**
 
 MAUI no crea una "aplicación web disfrazada": genera aplicaciones nativas reales. Esto significa que lo que se ve en la pantalla son los botones, menús y controles propios de cada sistema operativo, no copias que se parecen pero no funcionan igual.
 
@@ -28,7 +31,7 @@ La arquitectura se divide en dos partes:
 
 Características principales
 
-🔹 Multiplataforma real
+**Multiplataforma real**
 
 * Android: se compila en una aplicación nativa con el mismo formato que las que se descargan de Google Play.
 
@@ -38,7 +41,7 @@ Características principales
 
 * Windows: se compila como aplicación moderna para Windows 10 y 11.
 
-🔹 Lenguajes y herramientas
+**Lenguajes y herramientas**
 
 * Se programa principalmente en C# para la lógica y en XAML para el diseño visual.
 
@@ -46,7 +49,7 @@ Características principales
 
 * Se integra con todo el ecosistema de .NET: bibliotecas, bases de datos, servicios en la nube, etc.
 
-🔹 Controles y diseño
+**Controles y diseño**
 
 MAUI trae una biblioteca completa de controles que se adaptan solos a cada sistema: botones, campos de texto, listas, menús, calendarios, mapas, gráficas, cámaras, etc. También se puede personalizar todo: colores, fuentes, tamaños, formas.
 
@@ -60,29 +63,29 @@ Para organizar la pantalla se usan contenedores como:
 
 * FlexLayout: distribuye los elementos de forma flexible según el tamaño de la pantalla.
 
-🔹 Acceso a funciones del dispositivo
+***Acceso a funciones del dispositivo***
 
 MAUI incluye una API que permite acceder a las capacidades del celular o computadora sin necesidad de escribir código especial por plataforma:
 
-* 📷 Cámara y galería de fotos
+**Cámara y galería de fotos**
 
-* 📍 GPS y ubicación
+  **GPS y ubicación**
 
-* 📶 Estado de la conexión a internet
+  **Estado de la conexión a internet**
 
-* 🔔 Notificaciones
+  **Notificaciones**
 
-* 💾 Almacenamiento de archivos
+  **Almacenamiento de archivos**
 
-* 📇 Contactos
+  **Contactos**
 
-* 🔋 Estado de la batería
+   **Estado de la batería**
 
-* 📱 Información del dispositivo
+  **Información del dispositivo**
 
-🔹 Arquitectura recomendada: MVVM
+**Arquitectura recomendada:** MVVM
 
-Para mantener el código ordenado, MAUI se recomienda usar el patrón MVVM (Model-View-ViewModel):
+***Para mantener el código ordenado, MAUI se recomienda usar el patrón MVVM (Model-View-ViewModel):***
 
 * Modelo: representa los datos, por ejemplo: "Usuario", "Producto", "Nota".
 
@@ -92,7 +95,7 @@ Para mantener el código ordenado, MAUI se recomienda usar el patrón MVVM (Mode
 
 Esto permite que el diseño y la lógica evolucionen por separado, facilitando que una persona trabaje en lo visual y otra en la parte funcional.
 
-Ciclo de desarrollo con MAUI
+***Ciclo de desarrollo con MAUI***
 
 1. Diseñar la interfaz: en XAML, definir cómo se ven las pantallas.
 
