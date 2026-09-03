@@ -61,4 +61,26 @@ Dato del día (Curiosidad Tecnológica) Hoy me dio curiosidad saber quién estab
 * Finalicé con el cuestionario de Git y GitHub, organizando los comandos, flujos de trabajo y formas de colaborar en equipo.
 
 * Estructuré todo el contenido de forma clara y ordenada, asegurándome de que cada respuesta se entendiera bien y reflejara lo aprendido.
+
+
+Diario de Trabajo
+
+Fecha: 03 de septiembre de 2026
+
+⏰ 10:00 a.m. — 12:30 p.m.
+Me dediqué a organizar y completar los temas que tenía pendientes de sesiones anteriores. Revisé cuáles eran los puntos que me faltaban y los fui trabajando uno por uno para tener todo al día y bien ordenado  sobre los cusestionarios.
+
+⏰ 1:30 p.m. — 5:00 p.m.
+En este horario estoy trabajando en lo que te falto .Estoy revisando cada pregunta y respondiendo las encuestas y cuestionarios uno por uno, asegurándome de que cada respuesta quede clara y con mis propias palabras. tambien tuvimos una reunion sobre que es la inteligencia artifical 
+
+
+
+
+
+
+
+
+
+
+  
   
