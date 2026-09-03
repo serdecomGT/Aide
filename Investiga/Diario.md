@@ -9,9 +9,9 @@ Horario en la Tarde (1:30 – 6:00)  Soporte técnico y diagnóstico de hardware
 Dato del día (Curiosidad Tecnológica) Hoy me dio curiosidad saber quién estaba detrás de la aplicación de inteligencia artificial "Dolla" y me llevé una gran sorpresa sobre cómo una sola letra cambia por completo el panorama tecnológico:Dola AI: Si se busca el asistente inteligente diseñado para sincronizar y organizar el calendario mediante cmandos de voz en WhatsApp o Telegram, los fundadores son Robert Zheng y Haochuan G. Es increíble ver cómo la IA automatiza la agenda diaria con un simple mensaje.Doola: Por otra parte, si nos referimos a la plataforma empresarial que utiliza IA para constituir empresas legalmente en Estados Unidos y gestionar el soporte fiscal, su fundador es Arjun Mahadevan.Este hallazgo me dejó reflexionando sobre la velocidad a la que avanza la tecnología; un error de ortografía te lleva de un asistente de productividad personal a una suite avanzada de servicios corporativos internacionales.
 
 
-Horario: Por la noche, 9:00 a 11:30 al llegar a casa
+# Horario: Por la noche, 9:00 a 11:30 al llegar a casa
 
-****Actividades realizadas:***
+**Actividades realizadas:**
 
 * Al llegar a casa en la noche, me puse a trabajar en lo que nos pidió el profesor Don Carlos Mike.
 
@@ -27,9 +27,9 @@ Horario: Por la noche, 9:00 a 11:30 al llegar a casa
 
 ## Fecha: 02 de septiembre de 2026
 
-Horario: 8:00 a.m. a 12:30 p.m.
+# Horario: 8:00 a.m. a 12:30 p.m.
 
-Actividades realizadas:
+**Actividades realizadas:**
 
 * Comencé a organizar y componer el archivo principal del proyecto.
 
@@ -39,10 +39,26 @@ Actividades realizadas:
 
 * Aseguré que el archivo quedara adecuadamente estructurado para facilitar el trabajo.
 
-⏰ Horario: 12:30 p.m. a 5:00 p.m.
+# Horario: 12:30 p.m. a 5:00 p.m.
 
-Actividades realizadas:
+**Actividades realizadas:**
 
 * Agregué más texto y detalle a cada sección para que la información quedara completa y bien explicada.
 
 * El cuestionario todavía no se ha elaborado; lo terminaré de hacer en la noche.
+
+  
+# Horario: por la noche 9:00 a.m. a 12:30 p.m.
+
+**Actividades realizadas:** 
+
+* Elaboré y redacté las respuestas del cuestionario sobre Blazor, explicando cada concepto con palabras sencillas y ejemplos prácticos.
+
+* Continué con el cuestionario de C#, cubriendo desde los conocimientos básicos hasta la programación orientada a objetos.
+
+* Trabajé en el cuestionario de Arquitectura Cliente-Servidor, detallando cómo se comunican los sistemas, los protocolos y sus componentes.
+
+* Finalicé con el cuestionario de Git y GitHub, organizando los comandos, flujos de trabajo y formas de colaborar en equipo.
+
+* Estructuré todo el contenido de forma clara y ordenada, asegurándome de que cada respuesta se entendiera bien y reflejara lo aprendido.
+  
