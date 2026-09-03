@@ -63,9 +63,9 @@ Dato del día (Curiosidad Tecnológica) Hoy me dio curiosidad saber quién estab
 * Estructuré todo el contenido de forma clara y ordenada, asegurándome de que cada respuesta se entendiera bien y reflejara lo aprendido.
 
 
-Diario de Trabajo
+## Diario de Trabajo
 
-Fecha: 03 de septiembre de 2026
+# Fecha: 03 de septiembre de 2026
 
 ⏰ 10:00 a.m. — 12:30 p.m.
 Me dediqué a organizar y completar los temas que tenía pendientes de sesiones anteriores. Revisé cuáles eran los puntos que me faltaban y los fui trabajando uno por uno para tener todo al día y bien ordenado  sobre los cusestionarios.
