@@ -131,4 +131,5 @@ Sección E — Pregunta reflexiva
 ## Sección E — Pregunta reflexiva
 
 21. ¿En qué situaciones considerarías que C# es una buena elección frente a otros lenguajes como Python o Java?
+    
 Lo elegiría cuando quiera hacer aplicaciones que se vean bien y funcionen rápido en computadoras, celulares o páginas web, especialmente si usamos el ecosistema de Microsoft. También para videojuegos con Unity. En cambio, para empezar a programar muy rápido o para análisis de datos, Python puede ser más sencillo. Si queremos que funcione en cualquier sistema sin instalar mucho, Java puede ser otra opción. Pero si ya aprendemos C#, sirve para muchísimos tipos de proyectos distintos.
