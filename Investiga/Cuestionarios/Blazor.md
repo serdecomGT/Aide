@@ -41,9 +41,10 @@ Es como una pieza o parte de la página: un botón, un formulario, una tarjeta. 
 Los componentes se guardan con la extensión .razor.
 
 8. ¿Qué son los parámetros de componente ([Parameter]) en Blazor? Da un ejemplo.
+   
 Son valores que le podemos mandar a un componente desde otro para que cambie su información o su comportamiento sin tener que escribirlo de nuevo. Por ejemplo, si tenemos un componente de tarjeta, le podemos mandar un título distinto cada vez que lo usamos.
 
-9. ¿Qué es el data binding (enlace de datos) en Blazor?
+10. ¿Qué es el data binding (enlace de datos) en Blazor?
 
    Explica la diferencia entre one-way binding y two-way binding.
 Es la conexión automática entre lo que tenemos en el código y lo que se ve en la pantalla.
