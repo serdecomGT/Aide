@@ -8,15 +8,18 @@
 
 ## Sección A — Conocimientos generales
 1. ¿Qué es Blazor y quién lo desarrolló?
+   
 Blazor es una herramienta que nos permite crear páginas web interactivas usando C# en vez de usar principalmente JavaScript. Lo creó la empresa Microsoft.
 
-2. ¿Qué lenguaje de programación utiliza Blazor para crear interfaces web?
+3. ¿Qué lenguaje de programación utiliza Blazor para crear interfaces web?
+   
 Usa C# junto con una sintaxis que mezcla código con HTML, que se llama Razor. Así no necesitamos aprender otro lenguaje distinto para la parte visual.
 
-3. ¿Qué significa que Blazor permite crear aplicaciones web con C# en lugar de JavaScript?
+5. ¿Qué significa que Blazor permite crear aplicaciones web con C# en lugar de JavaScript?
 Significa que todo lo que normalmente se haría con JavaScript —como validar formularios o cambiar cosas en la página sin recargarla— lo podemos hacer directamente con C#. Así usamos el mismo lenguaje en el programa y en la página web.
 
-4. ¿Cuál es la diferencia entre Blazor Server y Blazor WebAssembly?
+6. ¿Cuál es la diferencia entre Blazor Server y Blazor WebAssembly?
+
 
 * Blazor Server: el programa corre en el servidor, y el navegador solo recibe los cambios. Es rápido al iniciar pero necesita internet todo el tiempo.
 
