@@ -16,9 +16,10 @@ Blazor es una herramienta que nos permite crear páginas web interactivas usando
 Usa C# junto con una sintaxis que mezcla código con HTML, que se llama Razor. Así no necesitamos aprender otro lenguaje distinto para la parte visual.
 
 5. ¿Qué significa que Blazor permite crear aplicaciones web con C# en lugar de JavaScript?
+   
 Significa que todo lo que normalmente se haría con JavaScript —como validar formularios o cambiar cosas en la página sin recargarla— lo podemos hacer directamente con C#. Así usamos el mismo lenguaje en el programa y en la página web.
 
-6. ¿Cuál es la diferencia entre Blazor Server y Blazor WebAssembly?
+7. ¿Cuál es la diferencia entre Blazor Server y Blazor WebAssembly?
 
 
 * Blazor Server: el programa corre en el servidor, y el navegador solo recibe los cambios. Es rápido al iniciar pero necesita internet todo el tiempo.
@@ -26,6 +27,7 @@ Significa que todo lo que normalmente se haría con JavaScript —como validar f
 * Blazor WebAssembly: el código se descarga al navegador y ahí se ejecuta. Puede funcionar incluso sin internet después de cargar.
 
 5. ¿Qué es un componente en Blazor?
+   
 Es como una pieza o parte de la página: un botón, un formulario, una tarjeta. Cada uno está en su propio archivo y se puede reutilizar en varias páginas sin volver a escribir todo.
 
 ## Sección B — Conceptos fundamentales
