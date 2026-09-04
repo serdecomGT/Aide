@@ -83,7 +83,7 @@ Para entenderse, cliente y servidor usan protocolos, que son como reglas de conv
 * Arquitectura de dos capas: la más simple, cliente se conecta directo al servidor y a la base de datos.
 * Arquitectura en la nube: el servidor no está en tu escuela o casa, sino en empresas como Microsoft Azure o Amazon Web Services, que se encargan de mantenerlo funcionando.
 
-## jemplo práctico
+## Ejemplo práctico
 
 **Imagina un sistema de notas escolares:**
 
