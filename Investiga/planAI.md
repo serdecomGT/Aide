@@ -1,5 +1,5 @@
 
-Plan de Desarrollo — App de Control de Asistencia
+## Plan de Desarrollo — App de Control de Asistencia
 
 # Objetivo
 
@@ -9,7 +9,7 @@ Crear una aplicación móvil multiplataforma (Android, iOS, Windows) que funcion
 
 Definimos las tablas necesarias para guardar toda la información:
 
- ## Tabla 1: Organizaciones
+ # Tabla 1: Organizaciones
 
 * ID (clave primaria)
 
