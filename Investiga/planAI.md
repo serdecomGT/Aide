@@ -207,256 +207,155 @@ Siempre se debe seleccionar un rango de fechas (fecha inicial y fecha final) ant
 
 ##  Version 2
 
- # 1. Nombre de la Aplicación
+ 
+## Plan Alternativo — Versión 2
 
-App de Control de Asistencia para Grupos y Actividades
+Nombre del proyecto: Segundo Olán — Control de Asistencia
 
-2. ***Objetivo General***
+Objetivo
 
-Crear una aplicación móvil multiplataforma que funcione en modo local, sin necesidad de conexión a internet, para registrar, consultar y gestionar la asistencia de los integrantes de uno o más grupos a actividades organizadas por categorías. La aplicación permitirá filtrar toda la información por un rango de fechas determinado.
+Desarrollar una aplicación móvil multiplataforma (Android, iOS, Windows) que funcione completamente en modo local, para gestionar y registrar la asistencia de los integrantes de grupos a actividades organizadas por categorías, permitiendo consultar y filtrar la información por un rango de fechas específico.
 
-3.***Funcionalidades Principales***
+ 
+ Entidades de Negocio Definidas
 
-La aplicación debe cumplir con las siguientes funciones:
+1. Grupo
 
-3.1 ***Gestión de Configuración***
+• Nombre del grupo
 
-• Registrar los datos de una o más organizaciones.
+• Descripción del grupo
 
-• Crear y gestionar grupos pertenecientes a cada organización.
+• Responsable del grupo (seleccionado de entre los participantes)
 
-• Asignar un encargado a cada grupo.
+• Teléfono del responsable
 
-3.2 ***Gestión de Integrantes***
+• Organización a la que pertenece
 
-• Registrar los datos personales de cada integrante.
+2. Participante
 
-• Asignar cada integrante a un grupo específico.
+• Nombres y apellidos
 
-• Identificar si un integrante es encargado de un grupo.
+• Dirección de residencia
 
-• Consultar, editar y eliminar registros de integrantes.
+• Número de teléfono
 
-3.3 ***Gestión de Categorías***
+• Grupo al que pertenece
+
+• ¿Es responsable del grupo? (Sí / No)
+
+3. Categoría de Actividad
+
+• Nombre de la categoría (ej: capacitación, deporte, reunión, cultural)
+
+4. Actividad
+
+• Nombre de la actividad
+
+• Fecha y hora
+
+• Lugar
+
+• Categoría a la que pertenece
+
+• Grupo responsable
+
+5. Asistencia
+
+• Actividad a la que se refiere
+
+• Participante que se registra
+
+• ¿Asistió? (Sí / No)
+
+• Fecha de registro
+
+📱 Estructura de Módulos
+
+1. **Configuración de Grupo**
+
+• Registrar los datos del grupo: nombre, descripción, organización.
+
+• Asignar al responsable del grupo, seleccionándolo de los participantes ya registrados.
+
+• Registrar el teléfono del responsable.
+
+2. **Gestión de Integrantes (Participantes)**
+
+• Registrar cada participante con: nombres, apellidos, dirección, teléfono.
+
+• Asignar al grupo al que pertenece.
+
+• Marcar si es el responsable del grupo.
+
+• Permitir editar o eliminar registros.
+
+3. **Gestión de Categorías de Actividades**
 
 • Crear categorías para clasificar las actividades.
 
-• Editar y eliminar categorías según sea necesario.
+• Editar o eliminar categorías según sea necesario.
 
-3.4 ***Gestión de Actividades***
+4. **Gestión de Actividades**
 
-• Registrar actividades con su nombre, fecha, hora, lugar, categoría y grupo responsable.
+• Registrar cada actividad: nombre, fecha, hora, lugar, categoría y grupo responsable.
 
-• Editar o eliminar actividades ya registradas.
+• Editar o eliminar actividades.
 
-3.5 ***Registro de Asistencia***
+5. **Registro de Asistencia**
 
-• Seleccionar una actividad registrada.
+• Seleccionar la actividad de la lista.
 
-• Mostrar la lista de integrantes del grupo asignado a esa actividad.
+• Aparece la lista de participantes del grupo responsable.
 
-• Marcar quiénes asistieron y quiénes no.
+• Marcar quién asistió y quién no.
 
-• Guardar el registro de asistencia en la base de datos.
+• Guardar el registro.
 
-3.6 ***Consultas y Reportes***
+6. **Consultas y Reportes**
 
-Todas las consultas deben permitir seleccionar un rango de fechas para filtrar la información.
+# Siempre se selecciona un rango de fechas antes de consultar:
 
-Las consultas requeridas son:
+1. ¿Quiénes asistieron a una actividad determinada? → Lista de participantes presentes.
 
-1. ¿Quiénes asistieron a una actividad específica?
+2. ¿Quiénes y cuántas veces asistieron a las actividades de una categoría? → Nombres + contador de asistencias.
 
-2. ¿Quiénes y cuántas veces asistieron a las actividades de una categoría determinada?
+3. ¿Quiénes y cuántas veces asistieron a todas las actividades? → Todos los participantes con su total de asistencias.
 
-3. ¿Quiénes y cuántas veces asistieron a todas las actividades registradas?
+4. ¿Cuántos asistentes hubo por categoría? → Resumen: categoría ↔ cantidad total de personas.
+   
+**Tecnologías**
 
-4. ¿Cuántos asistentes hubo por categoría en un período determinado?
-4. Tecnologías a Utilizar
+• Base de datos: SQLite — todo en un archivo local, sin servidor.
 
-• Base de datos: SQLite
-Permite almacenar toda la información localmente en un solo archivo, sin necesidad de un servidor.
+• Interfaz y lógica: C#, Blazor, .NET MAUI — funciona en celular y computadora.
 
-• Lenguaje de programación: C#
-Lenguaje orientado a objetos, adecuado para el desarrollo de aplicaciones móviles y de escritorio.
+*Pasos de Desarrollo*
 
-• Framework de interfaz: .NET MAUI + Blazor
-Permite desarrollar la aplicación una sola vez y ejecutarla en Android, iOS y Windows.
-5. Diseño de la Base de Datos
+**Paso 1 — Diseñar la Base de Datos**
 
-La base de datos estará compuesta por seis tablas principales:
+• Crear las 5 tablas con sus campos y relaciones.
 
-5.1 Tabla: Organizaciones
-Campo Tipo Descripción 
-ID Clave primaria Identificador único de la organización 
-Nombre Texto Nombre de la organización 
-Dirección Texto Dirección física de la organización 
-Teléfono Texto Número de contacto de la organización 
+• Configurar claves primarias y foráneas.
 
-5.2 Tabla: Grupos
-Campo Tipo Descripción 
-ID Clave primaria Identificador único del grupo 
-Nombre Texto Nombre del grupo 
-ID_Organización Clave foránea Relaciona el grupo con su organización 
-ID_Encargado Clave foránea Relaciona el grupo con su encargado 
+**Paso 2 — Crear el Proyecto**
 
-5.3 Tabla: Integrantes
-Campo Tipo Descripción 
-ID Clave primaria Identificador único del integrante 
-Nombres Texto Nombres del integrante 
-Apellidos Texto Apellidos del integrante 
-Dirección Texto Dirección de residencia 
-Teléfono Texto Número de contacto 
-ID_Grupo Clave foránea Relaciona el integrante con su grupo 
-Es_Encargado Booleano Indica si el integrante es encargado del grupo 
+• Abrir Visual Studio → nuevo proyecto .NET MAUI Blazor.
 
-5.4 Tabla: Categorías
-Campo Tipo Descripción 
-ID Clave primaria Identificador único de la categoría 
-Nombre Texto Nombre de la categoría de actividades 
+• Conectar con SQLite.
 
-5.5 Tabla: Actividades
-Campo Tipo Descripción 
-ID Clave primaria Identificador único de la actividad 
-Nombre Texto Nombre de la actividad 
-FechaHora Fecha/Hora Fecha y hora de realización 
-Lugar Texto Lugar donde se realiza la actividad 
-ID_Categoría Clave foránea Relaciona la actividad con su categoría 
-ID_Grupo Clave foránea Relaciona la actividad con el grupo responsable 
+**Paso 3 — Desarrollar los Módulos**
 
-5.6 Tabla: Asistencia
-Campo Tipo Descripción 
-ID Clave primaria Identificador único del registro de asistencia 
-ID_Actividad Clave foránea Relaciona el registro con la actividad 
-ID_Integrante Clave foránea Relaciona el registro con el integrante 
-Asistio Booleano Indica si el integrante asistió a la actividad 
-FechaRegistro Fecha/Hora Fecha y hora en que se registró la asistencia 
+• Pantalla por cada módulo: configuración, participantes, categorías, actividades, asistencia, reportes.
 
-6. ***Estructura de la Aplicación***
+• Validar que los campos obligatorios no queden vacíos.
 
-La aplicación se organizará en los siguientes módulos:
+**Paso 4 — Probar**
 
-6.1 ***Módulo de Configuración***
+• Verificar que se guarde todo bien.
 
-• Registro de organizaciones.
+• Comprobar que las consultas filtren por fechas correctamente.
 
-• Registro de grupos.
-
-• Asignación de encargados.
-
-6.2 ***Módulo de Integrantes***
-
-• Registro de integrantes.
-
-• Asignación a grupos.
-
-• Consulta, edición y eliminación de integrantes.
-
-6.3 ***Módulo de Categorías***
-
-• Creación, edición y eliminación de categorías.
-
-6.4 ***Módulo de Actividades***
-
-• Registro de actividades.
-
-• Edición y eliminación de actividades.
-
-6.5 ***Módulo de Registro de Asistencia***
-
-• Selección de actividad.
-
-• Visualización de integrantes del grupo.
-
-• Registro de asistencia.
-
-6.6 ***Módulo de Reportes***
-
-• Selección de rango de fechas.
-
-• Consulta de asistencia por actividad.
-
-• Consulta de asistencia por categoría.
-
-• Consulta de asistencia general por integrante.
-
-• Resumen de asistentes por categoría.
-
-7. ## Flujo de Trabajo del Desarrollo
-
-Paso 1: Diseñar la Base de Datos
-
-• Definir las tablas, campos y relaciones.
-
-• Crear el archivo de base de datos SQLite.
-
-• Configurar las claves primarias y foráneas.
-
-**Paso 2: Configurar el Proyecto**
-
-• Crear el proyecto en Visual Studio con .NET MAUI Blazor.
-
-• Instalar los paquetes necesarios para conectar con SQLite.
-
-• Establecer la conexión al archivo de base de datos local.
-
-**Paso 3: Desarrollar los Módulos de Registro**
-
-• Crear las pantallas para registrar organizaciones, grupos, integrantes, categorías y actividades.
-
-• Agregar validaciones para que los campos obligatorios no queden vacíos.
-
-***Paso 4: Desarrollar el Módulo de Asistencia***
-
-• Crear la pantalla para seleccionar actividades.
-
-• Cargar la lista de integrantes correspondientes al grupo de la actividad.
-
-• Implementar la función para marcar y guardar la asistencia.
-
-**Paso 5: Desarrollar los Reportes**
-
-• Agregar controles para seleccionar el rango de fechas.
-
-• Programar las cuatro consultas requeridas.
-
-• Mostrar los resultados en listas o resúmenes claros.
-
-**Paso 6: Probar la Aplicación**
-
-• Verificar que los datos se guarden correctamente.
-
-• Comprobar que las consultas filtren por fechas.
-
-• Asegurar que la aplicación funcione sin conexión a internet.
-
-• Corregir errores y mejorar la usabilidad.
-
-**8. Consideraciones Importantes**
-
-• Toda la aplicación funciona en modo local.
-
-• No se requiere servidor ni conexión a internet para utilizarla.
-
-• Cada grupo tiene un encargado, que debe ser uno de los integrantes registrados.
-
-• Los datos personales de los integrantes son obligatorios: nombres, apellidos, dirección y teléfono.
-
-• Todas las consultas y reportes deben filtrarse por un rango de fechas.
-
-• La base de datos permite registrar varias organizaciones, grupos, categorías y actividades.
-
-• La aplicación debe ser fácil de usar, clara y adaptable a diferentes tamaños de pantalla.
-
-**9. Resultado Final Esperado**
-
-Una aplicación móvil y de escritorio funcional, que permita gestionar organizaciones, grupos, integrantes, categorías, actividades y registros de asistencia, almacenando toda la información en una base de datos SQLite local, y generando reportes filtrados por fechas de manera rápida y sencilla.
-
-
-
-
-
-
+• Asegurarse de que funcione sin internet.
 
 
 
