@@ -1,1 +1,50 @@
+# SQLite 
 
+## ¿Qué es SQLite?
+
+SQLite es un sistema de gestión de bases de datos relacionales, pero con una gran diferencia: no es como los demás. Mientras que MySQL, PostgreSQL o SQL Server funcionan como programas grandes que se instalan en un servidor aparte, SQLite es liviano, portátil y no necesita un servidor.
+
+De hecho, el nombre lo dice todo: SQL (el lenguaje para manejar bases de datos) + Lite (ligero). Es decir: SQL ligero.
+2. ¿Cómo funciona?
+
+En lugar de guardar la información en un servidor lejano, SQLite guarda toda la base de datos en un solo archivo, que se almacena directamente en tu computadora, celular o memoria USB. Ese archivo contiene todo: las tablas, los datos, las relaciones, los índices... todo junto.
+
+Esto hace que sea muy fácil de usar, porque no tienes que configurar usuarios, contraseñas, servidores ni instalaciones complicadas. El programa simplemente lee y escribe en ese archivo.
+
+## Características principales
+
+* No requiere servidor: No necesitas instalar ni administrar un programa aparte para que funcione. Todo está integrado.
+
+* Es autocontenido: Todo lo que necesita para funcionar está en un solo archivo o muy pocos archivos.
+
+* Es portátil: El archivo de la base de datos se puede copiar, enviar por correo, guardar en una memoria y llevarlo a cualquier lado. Funciona igual en Windows, Android, iPhone, Mac o Linux.
+
+* Es muy ligero: Ocupa poco espacio y usa pocos recursos del sistema. Por eso funciona perfecto en celulares, tabletas y dispositivos pequeños.
+
+* Usa lenguaje SQL: Aunque es "lite", maneja casi todo el lenguaje estándar de SQL: puedes crear tablas, buscar información, ordenar, filtrar, unir datos de varias tablas, etc.
+
+* Es gratuito y de dominio público: Cualquiera puede usarlo sin pagar, sin licencias y sin restricciones, incluso para proyectos comerciales.
+
+## ¿Para qué se usa?
+
+SQLite no es la mejor opción para grandes sitios web con miles de personas conectadas al mismo tiempo, pero es ideal para:
+
+* Aplicaciones móviles: Casi todas las apps del celular la usan para guardar datos localmente (notas, contactos, juegos, etc.).
+
+* Programas de escritorio: Aplicaciones que instalas en tu computadora y que necesitan guardar información sin conectarse a internet.
+
+* Proyectos pequeños y medianos: Sistemas de control de inventario, registros de clientes, tareas, etc.
+
+* Prototipos y aprendizaje: Es la mejor forma de empezar a aprender bases de datos sin complicaciones.
+
+* Sitios web con poco tráfico: Blogs, sistemas internos, pequeñas tiendas en línea.
+
+ ## ¿Qué NO puede hacer?
+
+***Como es tan sencillo, tiene limitaciones*** 
+
+**No soporta muchas personas conectadas al mismo tiempo escribiendo datos a la vez**
+
+**No tiene las mismas funciones avanzadas que sistemas grandes como MySQL o Oracle** 
+
+**No se recomienda para proyectos gigantes como redes sociales o bancos** 
