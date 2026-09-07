@@ -5,6 +5,7 @@
 SQLite es un sistema de gestión de bases de datos relacionales, pero con una gran diferencia: no es como los demás. Mientras que MySQL, PostgreSQL o SQL Server funcionan como programas grandes que se instalan en un servidor aparte, SQLite es liviano, portátil y no necesita un servidor.
 
 De hecho, el nombre lo dice todo: SQL (el lenguaje para manejar bases de datos) + Lite (ligero). Es decir: SQL ligero.
+
 2. ¿Cómo funciona?
 
 En lugar de guardar la información en un servidor lejano, SQLite guarda toda la base de datos en un solo archivo, que se almacena directamente en tu computadora, celular o memoria USB. Ese archivo contiene todo: las tablas, los datos, las relaciones, los índices... todo junto.
