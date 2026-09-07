@@ -205,9 +205,9 @@ Siempre se debe seleccionar un rango de fechas (fecha inicial y fecha final) ant
 
 
 
-# version 2
+##  Version 2
 
-## 1. Nombre de la Aplicación
+ # 1. Nombre de la Aplicación
 
 App de Control de Asistencia para Grupos y Actividades
 
