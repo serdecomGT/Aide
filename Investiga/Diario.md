@@ -67,11 +67,45 @@ Dato del día (Curiosidad Tecnológica) Hoy me dio curiosidad saber quién estab
 
 # Fecha: 03 de septiembre de 2026
 
+Hora de llegada: 10:00 a.m.
+
+El día de hoy llegué a las 10:00 a.m., ya que antes de venir tuve que hacer un depósito y eso me tomó más tiempo del que esperaba. Para no quedarme atrás con mis tareas, me comprometo a recuperar el tiempo trabajando un poco más al terminar la jornada o desde mi casa, y así cumplir con todo lo que me corresponde
+
 ⏰ 10:00 a.m. — 12:30 p.m.
 Me dediqué a organizar y completar los temas que tenía pendientes de sesiones anteriores. Revisé cuáles eran los puntos que me faltaban y los fui trabajando uno por uno para tener todo al día y bien ordenado  sobre los cusestionarios.
 
 ⏰ 1:30 p.m. — 5:00 p.m.
 En este horario estoy trabajando en lo que te falto .Estoy revisando cada pregunta y respondiendo las encuestas y cuestionarios uno por uno, asegurándome de que cada respuesta quede clara y con mis propias palabras. tambien tuvimos una reunion sobre que es la inteligencia artifical 
+
+
+
+
+ ## Diario de trabajo
+
+# Fecha: 4 de septiembre
+Actividad: Ensayo y exposición de temas
+
+Durante la jornada nos dedicamos a repasar y ensayar todos los temas que teníamos programados para exponer. Revisamos cada punto, organizamos las ideas y practicamos la forma de presentar la información con claridad y orden. Al finalizar, realizamos la exposición ante el grupo, compartiendo lo que habíamos preparado y respondiendo las dudas que surgieron. Fue un día de mucho aprendizaje y práctica, y nos ayudó a sentirnos más seguros al momento de hablar frente a los demás.
+
+
+## Diario de Trabajo
+
+# Fecha: 6 de septiembre
+Horario: 8:00 a.m. – 12:45 p.m.
+
+En este período me dediqué a trabajar en el tema de SQLite y bases de datos. Estudié y practiqué los conceptos fundamentales de las bases de datos, su estructura y el manejo de SQLite. Revisé cómo crear, consultar y administrar bases de datos, así como las operaciones básicas que se pueden realizar con este sistema. Avancé en la comprensión de cómo organizar y almacenar información de manera ordenada y eficiente.
+
+
+## Diario de Trabajo
+
+# Fecha: 7 septiembre
+Hora de llegada: 10:00 a.m.
+
+El día de hoy llegué a las 10:00 a.m., ya que tuve un inconveniente en el camino: estaban construyendo unas carreteras y detuvieron el bus por ese motivo. Para compensar el tiempo que me faltó, me comprometo a recuperar las horas trabajando desde mi casa al llegar, de manera que no se atrase nada de lo que tengo que hacer.
+
+
+
+
 
 
 
