@@ -211,14 +211,15 @@ Siempre se debe seleccionar un rango de fechas (fecha inicial y fecha final) ant
 
 App de Control de Asistencia para Grupos y Actividades
 
-2. Objetivo General
+2. ***Objetivo General***
 
 Crear una aplicación móvil multiplataforma que funcione en modo local, sin necesidad de conexión a internet, para registrar, consultar y gestionar la asistencia de los integrantes de uno o más grupos a actividades organizadas por categorías. La aplicación permitirá filtrar toda la información por un rango de fechas determinado.
-3. Funcionalidades Principales
+
+3.***Funcionalidades Principales***
 
 La aplicación debe cumplir con las siguientes funciones:
 
-3.1 Gestión de Configuración
+3.1 ***Gestión de Configuración***
 
 • Registrar los datos de una o más organizaciones.
 
@@ -226,7 +227,7 @@ La aplicación debe cumplir con las siguientes funciones:
 
 • Asignar un encargado a cada grupo.
 
-3.2 Gestión de Integrantes
+3.2 ***Gestión de Integrantes***
 
 • Registrar los datos personales de cada integrante.
 
@@ -236,19 +237,19 @@ La aplicación debe cumplir con las siguientes funciones:
 
 • Consultar, editar y eliminar registros de integrantes.
 
-3.3 Gestión de Categorías
+3.3 ***Gestión de Categorías***
 
 • Crear categorías para clasificar las actividades.
 
 • Editar y eliminar categorías según sea necesario.
 
-3.4 Gestión de Actividades
+3.4 ***Gestión de Actividades***
 
 • Registrar actividades con su nombre, fecha, hora, lugar, categoría y grupo responsable.
 
 • Editar o eliminar actividades ya registradas.
 
-3.5 Registro de Asistencia
+3.5 ***Registro de Asistencia***
 
 • Seleccionar una actividad registrada.
 
@@ -258,7 +259,7 @@ La aplicación debe cumplir con las siguientes funciones:
 
 • Guardar el registro de asistencia en la base de datos.
 
-3.6 Consultas y Reportes
+3.6 ***Consultas y Reportes***
 
 Todas las consultas deben permitir seleccionar un rango de fechas para filtrar la información.
 
@@ -331,11 +332,11 @@ ID_Integrante Clave foránea Relaciona el registro con el integrante
 Asistio Booleano Indica si el integrante asistió a la actividad 
 FechaRegistro Fecha/Hora Fecha y hora en que se registró la asistencia 
 
-6. Estructura de la Aplicación
+6. ***Estructura de la Aplicación***
 
 La aplicación se organizará en los siguientes módulos:
 
-6.1 Módulo de Configuración
+6.1 ***Módulo de Configuración***
 
 • Registro de organizaciones.
 
@@ -343,7 +344,7 @@ La aplicación se organizará en los siguientes módulos:
 
 • Asignación de encargados.
 
-6.2 Módulo de Integrantes
+6.2 ***Módulo de Integrantes***
 
 • Registro de integrantes.
 
@@ -351,17 +352,17 @@ La aplicación se organizará en los siguientes módulos:
 
 • Consulta, edición y eliminación de integrantes.
 
-6.3 Módulo de Categorías
+6.3 ***Módulo de Categorías***
 
 • Creación, edición y eliminación de categorías.
 
-6.4 Módulo de Actividades
+6.4 ***Módulo de Actividades***
 
 • Registro de actividades.
 
 • Edición y eliminación de actividades.
 
-6.5 Módulo de Registro de Asistencia
+6.5 ***Módulo de Registro de Asistencia***
 
 • Selección de actividad.
 
@@ -369,7 +370,7 @@ La aplicación se organizará en los siguientes módulos:
 
 • Registro de asistencia.
 
-6.6 Módulo de Reportes
+6.6 ***Módulo de Reportes***
 
 • Selección de rango de fechas.
 
@@ -380,7 +381,8 @@ La aplicación se organizará en los siguientes módulos:
 • Consulta de asistencia general por integrante.
 
 • Resumen de asistentes por categoría.
-7. Flujo de Trabajo del Desarrollo
+
+7. ## Flujo de Trabajo del Desarrollo
 
 Paso 1: Diseñar la Base de Datos
 
@@ -390,7 +392,7 @@ Paso 1: Diseñar la Base de Datos
 
 • Configurar las claves primarias y foráneas.
 
-Paso 2: Configurar el Proyecto
+**Paso 2: Configurar el Proyecto**
 
 • Crear el proyecto en Visual Studio con .NET MAUI Blazor.
 
@@ -398,13 +400,13 @@ Paso 2: Configurar el Proyecto
 
 • Establecer la conexión al archivo de base de datos local.
 
-Paso 3: Desarrollar los Módulos de Registro
+**Paso 3: Desarrollar los Módulos de Registro**
 
 • Crear las pantallas para registrar organizaciones, grupos, integrantes, categorías y actividades.
 
 • Agregar validaciones para que los campos obligatorios no queden vacíos.
 
-Paso 4: Desarrollar el Módulo de Asistencia
+***Paso 4: Desarrollar el Módulo de Asistencia***
 
 • Crear la pantalla para seleccionar actividades.
 
@@ -412,7 +414,7 @@ Paso 4: Desarrollar el Módulo de Asistencia
 
 • Implementar la función para marcar y guardar la asistencia.
 
-Paso 5: Desarrollar los Reportes
+**Paso 5: Desarrollar los Reportes**
 
 • Agregar controles para seleccionar el rango de fechas.
 
@@ -420,7 +422,7 @@ Paso 5: Desarrollar los Reportes
 
 • Mostrar los resultados en listas o resúmenes claros.
 
-Paso 6: Probar la Aplicación
+**Paso 6: Probar la Aplicación**
 
 • Verificar que los datos se guarden correctamente.
 
@@ -430,7 +432,7 @@ Paso 6: Probar la Aplicación
 
 • Corregir errores y mejorar la usabilidad.
 
-8. Consideraciones Importantes
+**8. Consideraciones Importantes**
 
 • Toda la aplicación funciona en modo local.
 
@@ -446,7 +448,7 @@ Paso 6: Probar la Aplicación
 
 • La aplicación debe ser fácil de usar, clara y adaptable a diferentes tamaños de pantalla.
 
-9. Resultado Final Esperado
+**9. Resultado Final Esperado**
 
 Una aplicación móvil y de escritorio funcional, que permita gestionar organizaciones, grupos, integrantes, categorías, actividades y registros de asistencia, almacenando toda la información en una base de datos SQLite local, y generando reportes filtrados por fechas de manera rápida y sencilla.
 
