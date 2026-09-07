@@ -1,3 +1,12 @@
+# Entidades
+1.Grupo
+2.Participantes
+3.Categoria - Aide
+4.Actividades - Aide
+5.Regristro de acistencia 
+
+
+
 
 ## Plan de Desarrollo — App de Control de Asistencia
 
