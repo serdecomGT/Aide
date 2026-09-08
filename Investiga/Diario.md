@@ -125,7 +125,27 @@ Cuando terminó la instalación, abrí el programa para verificar que se hubiera
 
 
 
+Diario de Trabajo
 
+# Fecha: 8 de septiembre
+
+#### Proyecto: Aplicación de Control de Asistencia para Gupos
+
+Horario: de 8:00 a 12:30 horas
+
+Comencé a realizando el mantenimiento y arreglo de una computadora. Revisé su funcionamiento general y procedí a desinstalar todas aquellas aplicaciones que ya no funcionaban correctamente o que no se utilizaban, para liberar espacio en el disco y mejorar el rendimiento del equipo.
+
+Después me dediqué a la instalación de Visual Studio. Descargué el instalador desde el sitio oficial, ejecuté el programa y seleccioné los componentes necesarios para el desarrollo en C# y .NET MAUI, que es lo que se va a utilizar para la aplicación de control de asistencia. Mientras se completaba la instalación, revisé los requisitos del sistema y verifiqué que el equipo cumpliera con todo lo necesario.
+
+
+Horario: de 1:30 a 5:00 horas
+
+Retomé el trabajo  Primero verifiqué que Visual Studio se hubiera instalado correctamente y abrí el programa para confirmar que todos los componentes seleccionados estuvieran disponibles.
+
+Continué con la organización del proyecto, definiendo los módulos en los que se dividirá la aplicación: configuración de organizaciones y grupos, gestión de integrantes, manejo de categorías, registro de actividades, marcado de asistencia y generación de reportes con filtro por rango de fechas.
+
+
+Después, basándome en lo que ya había avanzado mi compañera Daniela, continué organizando los módulos de la aplicación: configuración de organizaciones y grupos, gestión de integrantes, manejo de categorías, registro de actividades, marcado de asistencia y generación de reportes con filtro por rango de fechas.
 
 
 
