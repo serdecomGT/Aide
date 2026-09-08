@@ -103,6 +103,26 @@ Hora de llegada: 10:00 a.m.
 
 El día de hoy llegué a las 10:00 a.m., ya que tuve un inconveniente en el camino: estaban construyendo unas carreteras y detuvieron el bus por ese motivo. Para compensar el tiempo que me faltó, me comprometo a recuperar las horas trabajando desde mi casa al llegar, de manera que no se atrase nada de lo que tengo que hacer.
 
+# Horario: de 2:00 a 5:00 horas
+
+Continué organizando el trabajo estructurando los módulos en los que se dividirá la aplicación: configuración de organizaciones y grupos, registro de integrantes, manejo de categorías, programación de actividades, marcado de asistencia y generación de reportes con filtro por fechas.
+
+También definí las consultas que se van a usar para mostrar la información: quién asistió a cada actividad, cuántas veces asistió cada persona por categoría, el total de asistencias por integrante y la cantidad de asistentes agrupados por categoría.
+
+Después ordené los pasos que se van a seguir para desarrollar el proyecto: desde crear el archivo de la base de datos y configurar el proyecto en Visual Studio, hasta probar que todo funcione bien antes de entregar el trabajo. Revisé también las definiciones de conceptos clave como qué es Visual Studio y para qué sirve, para tener claros los fundamentos del proyecto.
+
+Al final del día, revisé todo lo avanzado para asegurar que la información esté completa, ordenada y lista para continuar con la siguiente etapa.
+
+# Horario: de 9:00 a 12:45 horas
+
+Noche
+
+Comencé a trabajar .Lo primero que hice fue descargar el instalador de Visual Studio desde el sitio oficial de Microsoft. Una vez descargado, ejecuté el programa y seguí los pasos de instalación: acepté los términos de licencia y seleccioné las cargas de trabajo necesarias para desarrollar en C# y .NET MAUI, que son las herramientas que se van a utilizar para la aplicación de control de asistencia.
+
+Mientras se completaba la instalación, me dediqué a investigar qué es Visual Studio y para qué sirve. Aprendí que es un entorno de desarrollo integrado que reúne todo lo necesario para escribir, probar y publicar programas desde un solo lugar. También investigué qué lenguajes de programación soporta y la diferencia entre Visual Studio y Visual Studio Code, para tener claro cuál es la herramienta adecuada para este proyecto.
+
+Cuando terminó la instalación, abrí el programa para verificar que se hubiera instalado correctamente y quedé listo para empezar a crear el proyecto en la siguiente sesión. 
+
 
 
 
