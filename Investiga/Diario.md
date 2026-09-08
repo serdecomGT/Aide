@@ -146,7 +146,7 @@ Continué con la organización del proyecto, definiendo los módulos en los que 
 
 
 Después, basándome en lo que ya había avanzado mi compañera Daniela, continué organizando los módulos de la aplicación: configuración de organizaciones y grupos, gestión de integrantes, manejo de categorías, registro de actividades, marcado de asistencia y generación de reportes con filtro por rango de fechas.
-
+ 
 
 
 
