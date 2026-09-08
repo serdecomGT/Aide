@@ -1,7 +1,7 @@
 
 
 
-Plan para el desarrollo de la aplicación móvil de control de asistencia de participantes de grupos de diverso tipo, que se llamará AsisGru
+***Plan para el desarrollo de la aplicación móvil de control de asistencia de participantes de grupos de diverso tipo, que se llamará AsisGru***
 
 Fundamentación 
 Existe una diversidad de grupos comunitarios, religiosos, deportivos, culturales, educativos etc, que requieren realizar un control de asistencia de sus integrantes a las actividades que realizan; en este sentido AsisGru pretende ser una herramienta que los responsables de esos grupos puedan descargar en su dispositivo móvil y hacer el control de asistencia correspondiente
