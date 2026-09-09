@@ -1,6 +1,4 @@
 
-
-
 ***Plan para el desarrollo de la aplicación móvil de control de asistencia de participantes de grupos de diverso tipo, que se llamará AsisGru***
 
 Fundamentación 
