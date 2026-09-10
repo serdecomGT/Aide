@@ -148,11 +148,25 @@ Continué con la organización del proyecto, definiendo los módulos en los que 
 Después, basándome en lo que ya había avanzado mi compañera Daniela, continué organizando los módulos de la aplicación: configuración de organizaciones y grupos, gestión de integrantes, manejo de categorías, registro de actividades, marcado de asistencia y generación de reportes con filtro por rango de fechas.
  
 
+***Diario de trabajo — 9 de septiembre***
+
+# Horario: 8:00 a.m. – 1:40 p.m.
+
+* De 8:00 a.m. en adelante: Revisé lo que estaba trabajando Daniela y arreglé algunas cosas que me faltaban en el documento.
+
+* Probé una computadora para ver si encendía, pero no arrancó.
+
+* Después estuve con Daniela viendo detalles sobre la aplicación que vamos a crear.
+
+* Luego me fui con Don Carlos a revisar y traer unas computadoras e impresoras. Al llegar, apunté las características de cada impresora.
+
+* Las llevamos a un lugar para ver si tenían arreglo.
+
+* En el camino de regreso me llamaron del trabajo para tratar información importante, por lo que me retiré a la 1:40 p.m. para atender ese asunto.
 
 
 
-
-
+ 
 
 
 
