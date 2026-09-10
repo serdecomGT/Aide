@@ -165,8 +165,15 @@ Después, basándome en lo que ya había avanzado mi compañera Daniela, continu
 * En el camino de regreso me llamaron del trabajo para tratar información importante, por lo que me retiré a la 1:40 p.m. para atender ese asunto.
 
 
+ #### Diario de trabajo — 10 de septiembre de 2026
 
- 
+# Horario: 8:00 a.m. – 2:30 p.m.
+
+Al iniciar la jornada a las 8:00 a.m., me dediqué a organizar y elaborar el listado de organizaciones no gubernamentales (ONG) que operan en Guatemala. Recopilé los nombres de cada institución, su correo electrónico y su área de trabajo, verificando que la información fuera correcta y completa. Después de avanzar con esta tarea, nos preparamos para salir a realizar la entrega de las impresoras que habíamos recogido el día anterior. Nos trasladamos al lugar correspondiente, hicimos la entrega de cada equipo y confirmamos que todo estuviera en orden y completo. Al terminar, regresamos.
+
+Horario: 3:00 p.m. – 5:00 p.m.
+
+Al reiniciar las actividades a las 3:00 p.m., retomé la elaboración del listado de ONG. Continué investigando y agregando nuevas organizaciones que no estaban en la lista anterior, asegurándome de que no se repitieran y de que la información de contacto estuviera actualizada. Organicé los datos de manera ordenada para facilitar su consulta y uso posterior. Seguí trabajando en esto hasta finalizar mi horario.
 
 
 
