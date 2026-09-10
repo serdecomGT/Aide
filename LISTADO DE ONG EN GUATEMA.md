@@ -12,11 +12,9 @@
 4. Asociación Balam — desarrollo sostenible, Petén
    nfo@asociacionbalam.org.gt
 
-5. CONGCOOP (Coordinación de ONG y Cooperativas)
-   direccion@congcoop.org.gt
+5. <<< NO >>> CONGCOOP (Coordinación de ONG y Cooperativas) - direccion@congcoop.org.gt
 
-6. Acción Ciudadana — transparencia y participación ciudadana
-   acciongt@intelnet.net.gt￼￼￼
+6. <<< NO >>> Acción Ciudadana — transparencia y participación ciudadana - acciongt@intelnet.net.gt￼￼￼
 
 7. Fundación PROPAZ — resolución de conflictos y paz
    fundacionpropaz@propaz.org.gt￼￼￼
@@ -24,11 +22,9 @@
 8. ECPAT Guatemala — contra explotación sexual infantil
    info@ecpatguatemala.org
 
-9. Catholic Relief Services (CRS) — Guatemala
-   info-guatemala@crs.org (o esagastume@crs.org.gt)
+9. <<< NO >>> Catholic Relief Services (CRS) — Guatemala - info-guatemala@crs.org (o esagastume@crs.org.gt)
 
-10. SHARE Foundation — desarrollo rural
-    ralvarez@share.guatemala.org
+10. <<< NO >>> SHARE Foundation — desarrollo rural - ralvarez@share.guatemala.org
 
 11. Proyecto Miriam — empoderamiento de la mujer
    guatemala@proyecto-miriam.org
@@ -66,11 +62,9 @@
 21. Incide Joven — derechos sexuales, juventud, educación
     info@incidejoven.org
 
-22. Tierra Nueva ONG — desarrollo sostenible, mujeres, niñez, comunidades del Altiplano
-    (disponible en su web: tierranuevaong.com)
+22. <<< NO >>> Tierra Nueva ONG — desarrollo sostenible, mujeres, niñez, comunidades del Altiplano - (disponible en su web: tierranuevaong.com)
 
-23. COINDE (Consejo de Instituciones de Desarrollo) — coordinación de ONG
-    coinde@pronet.net.gt
+23. <<< NO >>> COINDE (Consejo de Instituciones de Desarrollo) — coordinación de ONG - coinde@pronet.net.gt
 
 24. Fundación Solar — energía renovable y medio ambiente
     info@fundacionsolar.org.gt
@@ -120,8 +114,7 @@
 39. Fundación DAMIAN Guatemala — salud y desarrollo social
    Disponible en su sitio web oficial
 
-40. CEIPA  (Centro Ecuménico de Integración Pastoral) — migrantes y niñez
-   info@ceipa-ac.org
+40. <<< NO >>> CEIPA  (Centro Ecuménico de Integración Pastoral) — migrantes y niñez - info@ceipa-ac.org
 
 41. Grupo de Apoyo Xela (GAX) — derechos y apoyo comunitario en Quetzaltenango
    grupoapoyogax@gmail.com
@@ -135,14 +128,11 @@
 44. Asociación AMA — liderazgo de niñas, adolescentes y mujeres (Petén)
     info@asociacionama.org.gt
 
-45. Fundación Solar — energía renovable y medio ambiente
-    info@fundacionsolar.org.gt
+45. <<< NO >>> Fundación Solar — energía renovable y medio ambiente - info@fundacionsolar.org.gt
 
-46. DEMI — Defensoría de la Mujer Indígena — derechos de la mujer indígena
-    demi@demi.org.gt
+46. <<< NO >>> DEMI — Defensoría de la Mujer Indígena — derechos de la mujer indígena - demi@demi.org.gt
 
-47. Asociación Nuevos Horizontes — violencia contra la mujer, atención integral (Xela)
-    honoris17@yahoo.es
+47. <<< NO >>> Asociación Nuevos Horizontes — violencia contra la mujer, atención integral (Xela) - honoris17@yahoo.es
 
 48. IEPADES (Instituto de Enseñanza para el Desarrollo Sostenible) — educación y desarrollo sostenible
     iepades@iepadess.org.gt￼￼￼
