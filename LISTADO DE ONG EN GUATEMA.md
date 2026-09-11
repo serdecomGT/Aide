@@ -7,7 +7,7 @@
    info@progresando-ong.org
 
 3. CEIPA (Centro Ecuménico de Integración Pastoral) — migrantes
-   info@ceipa-ac.org￼￼￼
+   info@ceipa-ac.org
 
 4. Asociación Balam — desarrollo sostenible, Petén
    nfo@asociacionbalam.org.gt
