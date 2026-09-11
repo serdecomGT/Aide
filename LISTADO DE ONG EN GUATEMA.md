@@ -103,7 +103,7 @@
     idsoxela@hotmail.com
 
 36. Asociación La Familia Importa — derechos humanos y familia
-    info@lafamiliaimporta.org ￼￼￼
+    info@lafamiliaimporta.org 
 
 37. AISGUA (Atención Integral en Salud en Guatemala) — salud comunitaria
     Disponible en su sitio web oficial
@@ -206,7 +206,7 @@
 71. Asociación de Apoyo a Personas con Discapacidad — inclusión y derechos
   discapacidadgt@outlook.com
 
-
+72.
 
 
 
