@@ -206,10 +206,96 @@
 71. Asociación de Apoyo a Personas con Discapacidad — inclusión y derechos
   discapacidadgt@outlook.com
 
-72.
+72. Caras Alegres — educación y desarrollo económico para mujeres y niñez (Quetzaltenango)
+    info@carasalegres.org
 
+73. EDELAC — Escuela de la Calle — atención a niñez en situación de calle (Quetzaltenango)
+     edelacxela@gmail.com
 
+74. Fundación Arcoíris — diversidad y derechos humanos (Quetzaltenango)
+    arcoiris_quetzaltenango@hotmail.com
 
+75. Guatemala Visible / Movimiento Nacional por la Integridad — transparencia, derechos humanos y anticorrupción
+    infogv@guatemalavisible.org
 
+76. A Better Life Guatemala — apoyo comunitario y desarrollo social
+    info@abetterlifeguatemala.org
 
+78. APEVIHS — salud integral y apoyo social (Retalhuleu)
+    apevihs@yahoo.com
 
+79. NA'LEB'AK ONG — desarrollo comunitario y derechos de pueblos indígenas
+    nalebak@gmail.com
+
+80. Instituto Tzunun Ya — acción e investigación comunitaria
+   contactenos@tzununya.org.gt
+
+81. Red Multicultural de Mujeres Trans de Guatemala — derechos y empoderamiento de mujeres trans
+    redmujerestransgt@gmail.com
+
+82. Fundación Pilar para la Salud Integral — salud comunitaria (Antigua Guatemala)
+    fundacionpilar@hotmail.com
+
+83. Ana de G / Nuestros Ahijados — apadrinamiento y desarrollo infantil (Antigua Guatemala)
+    info@nuestrosahijados.org
+
+84. Agua del Pueblo / Pro-Agua del Pueblo — acceso al agua y saneamiento
+    adpxela@guate.net.gt
+
+85. ACODIMAM — Asociación Comunitaria de Desarrollo Integral Mam — desarrollo y cultura del pueblo Mam
+    acodimam@yahoo.com
+
+86. AMON — Asociación Maya Oxib' No'j — educación y desarrollo maya
+    asomayaoxibnoj@gmail.com
+
+87. ASUNDECO — Unidos al Desarrollo Comunitario — desarrollo comunitario integral
+    asundeco.gt@outlook.com
+
+88. Ak' Tenamit — desarrollo integral y educación con comunidades mayas (Izabal)
+    info@aktenamit.org
+
+89. Fundación Solar — energías renovables y medio ambiente
+    info@fundacionsolar.org.gt
+
+90. Asociación Pasmo — salud pública y prevención de enfermedades
+    info@pasmo.org.gt
+
+91. Mesa Nacional para las Migraciones (MENAMIG) — derechos de personas migrantes
+    menamig.gt@gmail.com
+
+92. Asociación Creando Mi Futuro — educación y desarrollo comunitario (San Pedro la Laguna, Sololá)
+    creandomifuturo@hotmail.com
+
+93. Poder y Luz Maya ONG — energía sostenible y desarrollo rural (Quetzaltenango)
+    poderyluzmaya@gmail.com
+
+94. El Patojismo — educación y apoyo social (Jocotenango, Sacatepéquez)
+    elpatojismo@gmail.com
+
+95. Fundación para el Desarrollo Integral Filantropis — desarrollo comunitario (Chajul, Quiché)
+    filantropis@gmail.com
+
+96. Asociación Q'eqchi' Xch'ool Ixim — desarrollo y educación del pueblo Q'eqchi' (Alta Verapaz)
+    qeqchixchoolixim@yahoo.com
+
+97. ORCONDECO — conservación de la naturaleza y desarrollo comunitario (Alta Verapaz)
+    orcondeco@outlook.com
+
+98. Local Hope Guatemala — educación, salud y agua potable en comunidades rurales
+    info@localhope.org
+
+99. Long Way Home — educación sostenible y construcción ecológica
+    info@longwayhome.org
+
+100. Maya Traditions Foundation — apoyo a artesanas mayas y comercio justo
+     info@mayatraditions.org
+
+101. Funsek — desarrollo social y ayuda humanitaria
+     funsek.gt@gmail.com
+
+102. Come Mejor Wa'ik — seguridad alimentaria y nutrición
+     comemejorwaik@gmail.co
+
+103.
+
+104 
