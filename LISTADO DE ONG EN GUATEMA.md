@@ -79,7 +79,7 @@
     info@fadep.org ￼￼￼
 
 28. DEMOS (Instituto Centroamericano para los Estudios de la Democracia Social) — democracia y participación
-    Se encuentra en su sitio web oficial ￼￼￼
+   contacto@demos.org.gt
 
 29. OTRANS-RN (Organización Trans Reinas de la Noche) — derechos humanos de personas trans
     infootrans@gmail.com
@@ -106,13 +106,13 @@
     info@lafamiliaimporta.org 
 
 37. AISGUA (Atención Integral en Salud en Guatemala) — salud comunitaria
-    Disponible en su sitio web oficial
+    Disponible en su sitio web oficial- info@asegua.org
 
 38. FUNDAECO — medio ambiente y conservación
     info@fundaeco.org.gt
 
 39. Fundación DAMIAN Guatemala — salud y desarrollo social
-   Disponible en su sitio web oficial
+   Disponible en su sitio web oficial, info@fundaciondamian.org.gt
 
 40. <<< NO >>> CEIPA  (Centro Ecuménico de Integración Pastoral) — migrantes y niñez - info@ceipa-ac.org
 
@@ -296,6 +296,35 @@
 102. Come Mejor Wa'ik — seguridad alimentaria y nutrición
      comemejorwaik@gmail.co
 
-103.
+103. Asociación Balam — conservación ambiental y desarrollo comunitario (Quetzaltenango)
+    info@asociacionbalam.org.gt
 
-104 
+104.Tierra Nueva ONG — educación, protección social y empoderamiento comunitario (Altiplano Occidental)
+   Desde su sitio web: tierranuevaong.com
+
+105. SOY KPAZ — inclusión y apoyo a personas con capacidades diferentes (Quetzaltenango)
+   soykpazdeayudar@gmail.com
+
+106. Unión de Agricultores Minifundistas de Guatemala — UAM — desarrollo rural y economía campesina (Quetzaltenango)
+    unionagric@gmail.com
+
+107. Grupo de Apoyo Mutuo — GAM — derechos humanos, memoria histórica y justicia (Ciudad de Guatemala)
+    info@gam.org.gt
+
+108. Plan International Guatemala — derechos de la niñez e igualdad de las niñas
+    comunicaciones@plan-international.org.gt
+
+109. Educo Guatemala — bienestar y protección de la niñez, educación
+     guatemala@educo.org
+
+110. Save the Children Guatemala — protección y desarrollo infantil
+     info@savethechildren.org.gt
+
+111. Misión Internacional de Justicia — defensa de derechos de niñez y juventud
+      info@ijm.org.gt
+
+112. Asociación GUATEMAYA MIGRANTE — apoyo a personas migrantes y formación ciudadana
+     guatemayamigrate@ [correo institucional]
+
+
+
