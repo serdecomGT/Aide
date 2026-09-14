@@ -356,6 +356,34 @@
 123. Asociación Crecer Juntos — desarrollo integral y bienestar familiar
      info@crecerjuntosgt.org
 
-124.
+124. Progresando — desarrollo integral, educación y gestión ambiental
+ info@progresando-ong.org
+
+125. Comité Pro Ciegos y Sordos de Guatemala — inclusión social y educación
+   informacion@prociegosysordos.org.gt
+
+126. AMES — Asociación de Mujeres en Solidaridad — salud integral, VIH y derechos humanos
+  amesguatemala@gmail.com
+
+127. AGIMS — Asociación Grupo de Mujeres Sanjuaneras — fortalecimiento comunitario, derechos de la mujer y pueblos indígenas
+   info@agims.org
+
+128. Visibles — inclusión de diversidad sexual y de género
+   contacto@visibles.gt
+
+129. AVANCSO — Asociación para el Avance de las Ciencias Sociales — investigación social, derechos humanos y transparencia
+   avancso@avancso.org.gt
+
+130. Agua del Pueblo — acceso al agua, saneamiento y desarrollo rural (Quetzaltenango)
+   adpxela@c.net.gt
+
+131. FUNDACIÓN PARA LA NIÑEZ — protección infantil, educación y alimentación
+   info@fundacionparalaninez.org.gt
+
+132 ASOCIACIÓN DESARROLLO EN MOVIMIENTO — juventud, participación ciudadana y emprendimiento
+   desarrolloenmovimiento.gt@gmail.com
+
+134. FUNDACIÓN GUATEMALA SOLIDARIA — reducción de pobreza, salud comunitaria y apoyo familiar
+    contacto@guatemalasolidaria.org
 
 
