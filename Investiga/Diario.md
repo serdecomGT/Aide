@@ -183,7 +183,7 @@ Comencé a trabajar a las 9:00 de la noche, continuando con la elaboración y am
 Durante este tiempo, investigué cada organización, anoté su nombre completo, su área de trabajo y su correo electrónico, asegurándome de que la información fuera clara y ordenada. Seguí agregando más organizaciones hasta las 12:30 de la madrugada, completando así una sección más del listado.
   
   
-#Fecha: 11 de septiembre de 2026
+# Fecha: 11 de septiembre de 2026
 
 # 8:00 a.m. – 11:30 a.m.
 Me dediqué a elaborar los listados de organizaciones de Guatemala. Me retiré antes de la hora porque sentí un dolor fuerte en la pierna , así que fui al centro de salud para que me revisaran.
