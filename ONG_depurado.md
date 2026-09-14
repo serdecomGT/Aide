@@ -85,3 +85,5 @@ sedem@intelnet.net.gt
 semillaesperanzagt@outlook.com
 unmundomejor@itelgua.com
 vivienalianzajoven@gmail.com
+info@asegua.org
+info@fundaciondamian.org.gt
