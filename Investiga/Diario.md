@@ -183,3 +183,21 @@ Comencé a trabajar a las 9:00 de la noche, continuando con la elaboración y am
 Durante este tiempo, investigué cada organización, anoté su nombre completo, su área de trabajo y su correo electrónico, asegurándome de que la información fuera clara y ordenada. Seguí agregando más organizaciones hasta las 12:30 de la madrugada, completando así una sección más del listado.
   
   
+#Fecha: 11 de septiembre de 2026
+
+# 8:00 a.m. – 11:30 a.m.
+Me dediqué a elaborar los listados de organizaciones de Guatemala. Me retiré antes de la hora porque sentí un dolor fuerte en la pierna , así que fui al centro de salud para que me revisaran.
+
+# 5:00 p.m. – 9:30 p.m.
+En la noche retomé el trabajo y seguí buscando y completando los listados que me faltaban, agregando más organizaciones con su información correspondiente.
+
+
+
+
+# Fecha: 14 de septiembre de 2026
+
+# 8:00 a.m. – 12:30 p.m.
+Comencé la jornada organizando y elaborando el listado de organizaciones que me fueron compartidas, registrando cada nombre y su información correspondiente. Después, inicié la estructura del proyecto de la aplicación de Recursos y Soporte, definiendo los apartados y la información que se incluirá en cada sección.
+
+# 1:30 p.m. – 5:00 p.m.
+Continué trabajando en la aplicación de Recursos y Soporte. En este período me dediqué a completar cada entrada con el correo electrónico correspondiente a cada organización, verificando que estuvieran bien escritos. Luego organicé y pegué las imágenes de referencia para que todo quede ordenado y listo en el documento.
