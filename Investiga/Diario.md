@@ -196,8 +196,18 @@ En la noche retomé el trabajo y seguí buscando y completando los listados que 
 
 # Fecha: 14 de septiembre de 2026
 
-# 8:00 a.m. – 12:30 p.m.
-Comencé la jornada organizando y elaborando el listado de organizaciones que me fueron compartidas, registrando cada nombre y su información correspondiente. Después, inicié la estructura del proyecto de la aplicación de Recursos y Soporte, definiendo los apartados y la información que se incluirá en cada sección.
 
-# 1:30 p.m. – 5:00 p.m.
-Continué trabajando en la aplicación de Recursos y Soporte. En este período me dediqué a completar cada entrada con el correo electrónico correspondiente a cada organización, verificando que estuvieran bien escritos. Luego organicé y pegué las imágenes de referencia para que todo quede ordenado y listo en el documento.
+# Entrada
+ Llegué un poco tarde hoy. Me retrasé porque tenía que estar en la casa para recibir mis cosas de alimentación e higiene que me vinieron a entregar, y no podía salir sin recibirlas.
+
+ # 8:00 a.m. – 12:30 p.m.
+Me dediqué a organizar y elaborar los listados de organizaciones de Guatemala. Busqué y verifiqué los correos electrónicos de cada una, asegurándome de que estuvieran vigentes y bien escritos.
+
+#  2:30 p.m. – 4:30 p.m.
+Continué buscando más organizaciones y sus datos de contacto. Después inicié el envío de los promocionales a los correos recopilados. Hasta el momento envié 10 promocionales.
+
+📝 Notas:
+
+* Mañana y pasado mañana desarrollaré los documentos adicionales que me indiquen.
+
+* Seguiré completando la información y los envíos pendientes.
