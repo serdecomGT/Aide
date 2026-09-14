@@ -81,7 +81,7 @@ qeqchixchoolixim@yahoo.com
 redmujerestransgt@gmail.com
 rxiin@guate.net.gt
 saludcomunitaria.gt@gmail.com
-sedem@intelnet.net.gt￼      
+sedem@intelnet.net.gt      
 semillaesperanzagt@outlook.com
 unmundomejor@itelgua.com
 vivienalianzajoven@gmail.com
