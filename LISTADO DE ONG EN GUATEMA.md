@@ -324,7 +324,38 @@
       info@ijm.org.gt
 
 112. Asociación GUATEMAYA MIGRANTE — apoyo a personas migrantes y formación ciudadana
-     guatemayamigrate@ [correo institucional]
+     guatemayamigrate@[correo institucional]
+     
+114. IEPADES — derechos humanos, seguridad y desarrollo
+     iepades@iepades.org￼￼￼
 
+115. ATRAHDOM — derechos de trabajadoras del hogar y maquila
+     coordinacion@atrahdom.org￼￼￼
+
+116. ECPAT Guatemala — protección de niñez contra explotación y tráfico
+     ecpatguatemala@gmail.com￼￼￼
+
+117. Grupo Guatemalteco de Mujeres — GGM — erradicación de violencia contra la mujer
+     ggm@ggm.org.gt
+
+118. INCIDE Joven — derechos sexuales, juventud y educación
+     info@incidejoven.org
+
+119. SEDEM — seguridad y democracia
+     sedem@sedem.org.gt￼￼￼
+
+120. Fundación Solar — energía sostenible y desarrollo rural
+     info@fundacionsolar.org.gt
+
+121. Mujeres Transformando el Mundo — apoyo a mujeres sobrevivientes de violencia
+     mujerestransformandoelmundo@gmail.com
+
+122. Instituto de Protección Social — IPS — derechos humanos, juventud y migrantes
+     ips.guate@gmail.com￼￼￼
+
+123. Asociación Crecer Juntos — desarrollo integral y bienestar familiar
+     info@crecerjuntosgt.org
+
+124.
 
 
