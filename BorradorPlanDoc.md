@@ -1,199 +1,328 @@
 Plan de Documentación — App AsisGru
 
-Versión: 0.1 (borrador inicial) Producto: AsisGru — Control de asistencia de integrantes de un grupo a sus actividades Stack: C# · .NET MAUI · Blazor (Blazor Hybrid) · SQLite (100% local y off-line)
-
+Versión: 0.1 — Borrador inicial de trabajo
+Proyecto: AsisGru — Sistema de control y registro de asistencia de integrantes de un grupo a sus actividades programadas
+Tecnologías utilizadas: C# sobre plataforma .NET MAUI · Blazor Hybrid · Base de datos SQLite local (funciona 100% en el dispositivo, sin requerir conexión a internet ni servidores externos)
 1. Introducción
-1.1 Propósito
 
-Definir qué documentos se producirán durante el ciclo de vida de AsisGru, su contenido mínimo, audiencia, formato, responsables y momento de elaboración. El plan busca que cualquier persona (desarrollador nuevo, maintainer, usuario) pueda entender, mantener, operar y usar la App sin conocimiento tribal.
+1.1 Propósito de este documento
 
-1.2 Alcance
+El presente plan tiene como objetivo establecer de forma clara y ordenada toda la documentación que se elaborará a lo largo de cada etapa del desarrollo de la aplicación AsisGru. Aquí se define qué información se va a escribir, qué contenido debe llevar cada documento, a quién va dirigido cada material, en qué formato se entregará, quiénes son los responsables de su redacción y en qué momento del proyecto se debe elaborar o actualizar.
 
-Cubre la documentación desde el análisis de requisitos hasta la operación y soporte, incluyendo la documentación del código fuente y de la base de datos local.
+La finalidad principal es que cualquier persona que se integre al equipo —ya sea un desarrollador nuevo, quien asuma el mantenimiento del sistema en el futuro o cualquier usuario que desee conocerlo— pueda entenderlo, consultarlo, mantenerlo, operarlo y usarlo sin necesidad de depender de terceros ni de conocimientos previos específicos que no estén explicados. Todo debe quedar por escrito de forma accesible.
 
-1.3 Audiencias
-Audiencia	Necesidad principal
-Equipo de desarrollo	Arquitectura, convenciones, decisiones técnicas
-QA / pruebas	Casos de prueba, criterios de aceptación
-Instalador / operador	Instalación, respaldo, solución de problemas
-Usuario final (gestor del grupo)	Manual de uso de la App
-Mantenidores futuros	Código documentado, ADRs, esquema de datos
-1.4 Referencias
-ISO/IEC/IEEE 26512 y 26513 (documentación para desarrolladores y usuarios).
-Markdown como formato universal; DocFX para documentación de API generada.
-SemVer para versionado de la App y su documentación.
-2. Contexto del producto (resumen a documentar)
+1.2 Alcance del plan
 
-AsisGru es una aplicación móvil que funciona en local y sin conexión, permitiendo:
+Este documento cubre la totalidad de la documentación del proyecto, desde la etapa inicial en la que se definen las necesidades y los requisitos que debe cumplir la aplicación, pasando por el diseño, la arquitectura, la programación, las pruebas, la preparación para su entrega, hasta la guía de uso, la operación diaria y el soporte. Incluye también la explicación del código fuente y toda la estructura de la base de datos que se almacena de forma local en el dispositivo del usuario.
 
-Gestionar uno o más grupos y sus integrantes.
-Definir actividades del grupo (con fecha, hora, lugar, tipo).
-Registrar la asistencia de cada integrante a cada actividad (estados: presente, ausente, tardanza, justificado).
-Consultar históricos, porcentajes de asistencia y exportar reportes (CSV/PDF).
-Configurar parámetros locales (umbral de inasistencias, datos del grupo, respaldo).
+1.3 Audiencia de cada documento
 
-Entidades del dominio a documentar: Grupo, Miembro, Actividad, TipoActividad, RegistroAsistencia, EstadoAsistencia, Configuracion, AuditoriaCambios (opcional).
+La información se organiza pensando en distintos tipos de lectores, según lo que cada uno necesita saber:
 
-Decisiones técnicas clave que deberán quedar registradas en ADRs:
+* Equipo de desarrollo: Encuentra la descripción de la arquitectura, las convenciones que se siguen al programar, las decisiones técnicas que se tomaron y los motivos por los cuales se eligieron ciertas herramientas o soluciones.
 
-ADR-001: Uso de Blazor Hybrid dentro de MAUI (UI web compartible) vs. XAML nativo.
-ADR-002: Acceso a datos: EF Core + SQLite vs. sqlite-net-pcl.
-ADR-003: Estrategia off-line pura en v1 (sin sincronización) y punto de extensión futuro.
-ADR-004: Cifrado de la base local (SQLCipher) y protección de datos personales de los integrantes.
-ADR-005: Estrategia de respaldo/restauración (exportar archivo de BD).
-ADR-006: Gestión de estado compartido en Blazor (servicios DI, Microsoft.AspNetCore.Components).
-3. Estructura del repositorio documental
+* Personal encargado de las pruebas: Cuenta con los casos de prueba, los criterios de aceptación y las condiciones que deben cumplirse para considerar que una funcionalidad está terminada y funciona correctamente.
 
-text
+* Quienes instalan y mantienen la aplicación: Disponen de las instrucciones para la instalación, la configuración inicial, la realización de copias de seguridad, la restauración de la información y la solución de problemas frecuentes.
 
+* Usuarios finales, especialmente quien gestiona el grupo: Tienen una guía clara y sencilla para usar la aplicación sin confusiones, consultar la asistencia y generar reportes.
+
+* Personas que continúen el proyecto en el futuro: Encuentran el código comentado, la estructura de la base de datos explicada y el historial de decisiones tomadas, de manera que puedan darle mantenimiento sin tener que empezar desde cero.
+
+1.4 Referencias y normas aplicadas
+
+Para elaborar todos los documentos se toman como referencia las siguientes pautas y estándares:
+
+* Normas ISO/IEC/IEEE 26512 y 26513, que establecen las buenas prácticas para redactar documentación de sistemas
+
+* Formato Markdown para todos los archivos, garantizando que se puedan leer y editar desde cualquier dispositivo y sistema operativo
+
+* Generación automática de la documentación técnica del código mediante la herramienta DocFX
+
+* Sistema de versionado SemVer para identificar cada versión de la aplicación y de la propia documentación
+
+1.5 Contexto general de la aplicación
+
+AsisGru es una aplicación móvil que funciona completamente sin conexión a internet, guardando toda la información directamente en el dispositivo del usuario. Está diseñada para cumplir con las siguientes funciones:
+
+* Administrar uno o varios grupos, registrando los datos de cada uno
+
+* Inscribir a las personas que integran cada grupo
+
+* Programar actividades indicando la fecha, la hora, el lugar donde se realizarán y el tipo de actividad de que se trata
+
+* Llevar el control de asistencia en cada actividad, marcando si cada integrante estuvo presente, llegó con retraso, no asistió o justificó su inasistencia
+
+* Consultar el historial de asistencia de cada persona y de cada actividad
+
+* Generar y exportar reportes con la información de asistencia en formato CSV o PDF
+
+* Establecer parámetros personalizados, como el límite de inasistencias que se consideran significativas, y crear copias de seguridad de toda la información almacenada
+
+Las entidades principales que se manejan y se documentan son:
+Grupo, Miembro, Actividad, Tipo de Actividad, Registro de Asistencia, Estado de Asistencia y Configuración de la Aplicación.
+
+Las decisiones técnicas más relevantes que se explican detalladamente:
+
+* Se optó por usar Blazor Hybrid dentro de .NET MAUI en lugar de desarrollar la interfaz únicamente con XAML nativo
+
+* El acceso a la base de datos se realiza mediante Entity Framework Core junto con SQLite
+
+* La base de datos se almacena localmente en el dispositivo y se protege mediante cifrado, sin sincronizarse con servidores externos
+
+* Los datos personales de los integrantes también se manejan con medidas de protección y privacidad
+
+* Se establece un procedimiento para exportar el archivo de la base de datos como respaldo y restaurarlo cuando sea necesario
+
+* La información que se comparte entre distintas pantallas de la aplicación se gestiona mediante servicios de inyección de dependencias propios de Blazor y de ASP.NET Core
+2. Estructura de carpetas y archivos del repositorio
+
+Todos los documentos se organizan en carpetas claramente identificadas, de manera que cualquier persona pueda encontrar rápidamente lo que busca:
 /asisgru
-
 ├── docs/
+│   ├── 00-plan/          — Este plan de documentación y el plan general del proyecto
+│   ├── 01-requisitos/    — Todo lo que la aplicación debe hacer y las condiciones que debe cumplir
+│   ├── 02-arquitectura/  — Diseño interno del sistema, diagramas y decisiones técnicas
+│   ├── 03-diseno/        — Diseño de las pantallas, flujos de navegación y apariencia general
+│   ├── 04-datos/         — Estructura de la base de datos, tablas, relaciones y diccionario de datos
+│   ├── 05-desarrollo/    — Normas de programación, guías de estilo y configuración del entorno de trabajo
+│   ├── 06-pruebas/       — Plan de pruebas, casos de prueba y reporte de errores detectados
+│   ├── 07-despliegue/    — Instrucciones de instalación, preparación para entregar y notas de versión
+│   ├── 08-operacion/     — Mantenimiento, respaldo, recuperación y solución de problemas frecuentes
+│   ├── 09-usuario/       — Manual de uso para quien maneje la aplicación
+│   ├── plantillas/       — Modelos en blanco para redactar documentos nuevos con el mismo formato
+│   └── _img/             — Imágenes, diagramas y capturas que se usan en los distintos documentos
+├── src/                   — Código fuente con explicaciones y comentarios en cada parte
+└── README.md              — Presentación general del proyecto, propósito y forma de empezar a trabajar
+3. Inventario detallado de documentos
 
-│ ├── 00-plan/ # Plan de proyecto y de documentación
+A continuación se describe cada documento que forma parte del proyecto, indicando qué información contiene, a quién está dirigido y en qué momento se elabora o actualiza.
 
-│ ├── 01-requisitos/
+3.1 Gestión general del proyecto
 
-│ ├── 02-arquitectura/ # SAD, diagramas, ADRs
+DOC-GES-01 — Plan del Proyecto
 
-│ ├── 03-diseno/ # UI/UX, flujos, wireframes
+* Contenido: Se describe el alcance del trabajo, las metas que se quieren alcanzar, las fechas importantes, los recursos con los que se cuenta y los posibles riesgos que podrían presentarse y cómo se van a atender.
 
-│ ├── 04-datos/ # Esquema SQLite, migraciones, diccionario
+* Audiencia: Todo el equipo de desarrollo.
 
-│ ├── 05-desarrollo/ # Guías, convenciones, CI/CD
+* Etapa: Se redacta al inicio del proyecto y se revisa cuando haya cambios importantes.
 
-│ ├── 06-pruebas/
+DOC-GES-02 — Plan de Documentación
 
-│ ├── 07-despliegue/
+* Contenido: Es el documento que estás leyendo. Aquí se detalla toda la lista de materiales que se van a producir, cómo deben redactarse, qué formato llevarán y cómo se mantienen actualizados.
 
-│ ├── 08-operacion/
+* Audiencia: Todo el equipo y quienes se integren después.
 
-│ ├── 09-usuario/
+* Etapa: Se elabora desde el inicio y se revisa y ajusta a lo largo de todo el proyecto.
 
-│ ├── plantillas/ # Plantillas de documentos y ADR
+3.2 Requisitos y necesidades del sistema
 
-│ └── _img/ # Imágenes compartidas
+DOC-REQ-01 — Especificación de Requisitos
 
-├── src/ # Código con XML comments
+* Contenido: Se detalla cada función que la aplicación debe realizar, las condiciones de funcionamiento, lo que debe cumplir y lo que no hará. Se separa entre requisitos funcionales y no funcionales, y se establecen prioridades.
 
-└── README.md
+* Audiencia: Equipo de desarrollo y quienes validan el sistema.
 
-4. Inventario de documentos
+* Etapa: Se escribe al principio y se actualiza cuando surjan cambios o nuevas necesidades.
 
-Leyenda de columnas: Código (identificador de versión documental), Contenido mínimo, Audiencia, Etapa (momento de elaboración/actualización).
+DOC-REQ-02 — Casos de Uso
 
-4.1 Gestión del proyecto
-Código	Documento	Contenido mínimo	Audiencia	Etapa
-DOC-GES-01	Plan de proyecto	Alcance, hitos, recursos, riesgos	Equipo	Inicio
-DOC-GES-02	Plan de documentación (este documento)	Inventario, estándares, flujo	Todos	Inicio, revisión periódica
-DOC-GES-03	Registro de riesgos	Riesgo, impacto, mitigación	Equipo	Continuo
-DOC-GES-04	Registro de decisiones (ADRs)	Contexto, decisión, consecuencias	Desarrollo	Por cada decisión
-DOC-GES-05	Changelog / notas de versión	Cambios por versión (SemVer)	Todos	Cada release
-4.2 Requisitos
-Código	Documento	Contenido mínimo	Audiencia	Etapa
-DOC-REQ-01	Visión y alcance	Problema, usuarios, límites, supuestos	Todos	Inicio
-DOC-REQ-02	Especificación de requisitos (SRS)	RF-xx funcionales (ABML grupos, miembros, actividades, registro de asistencia, reportes, respaldo) y RNF-xx (off-line, rendimiento, privacidad, tamaño de BD)	Dev, QA	Análisis
-DOC-REQ-03	Historias de usuario + criterios de aceptación	Formato "Como [gestor del grupo] quiero…"	Dev, QA	Análisis/sprints
-DOC-REQ-04	Matriz de trazabilidad	RF ↔ casos de uso ↔ pruebas ↔ código	QA	Continuo
-DOC-REQ-05	Reglas de negocio	Ej.: cálculo de % de asistencia, umbral de inasistencias, gestión de miembros dados de baja	Dev, QA	Análisis
-4.3 Arquitectura y diseño
-Código	Documento	Contenido mínimo	Audiencia	Etapa
-DOC-ARQ-01	Documento de arquitectura (SAD)	Vista lógica (capas: UI Blazor, servicios, datos), vista de despliegue en dispositivo, dependencias NuGet	Dev	Diseño
-DOC-ARQ-02	Diagramas C4 / UML	Contexto, contenedores (MAUI shell, Blazor WebView, SQLite), componentes, secuencias clave (registrar asistencia)	Dev	Diseño
-DOC-ARQ-03	Diseño de UI/UX	Flujos de navegación (Shell/rutas Blazor), wireframes, mockups, guía visual (colores, tipografía), estados vacíos y de error	Dev, usuario	Diseño
-DOC-ARQ-04	Modelo de dominio	Diagrama de clases de entidades y servicios de dominio	Dev	Diseño
-DOC-ARQ-05	Plantillas ADR individuales	Una por decisión (ver §2)	Dev	Por decisión
-4.4 Datos (SQLite)
-Código	Documento	Contenido mínimo	Audiencia	Etapa
-DOC-DAT-01	Esquema de base de datos	Diagrama ER, DDL, índices, claves foráneas, restricciones	Dev	Diseño
-DOC-DAT-02	Diccionario de datos	Tabla por entidad: campo, tipo, nulabilidad, significado, valores de EstadoAsistencia	Dev, QA	Diseño
-DOC-DAT-03	Estrategia de migraciones	Herramienta, versión del esquema por versión de App, scripts	Dev	Por release
-DOC-DAT-04	Respaldo y restauración	Formato del respaldo, procedimiento desde la App y manual, verificación de integridad	Operador	Diseño/op.
-DOC-DAT-05	Privacidad y protección de datos	Datos personales almacenados localmente, retención, borrado seguro (desvinculación de miembro), consideraciones legales	Todos	Análisis
-4.5 Desarrollo
-Código	Documento	Contenido mínimo	Audiencia	Etapa
-DOC-DEV-01	Guía de configuración del entorno	SDK .NET, workload MAUI, emuladores/dispositivos, IDE, pasos "de cero a correr la App"	Dev	Inicio
-DOC-DEV-02	Convenciones de código C#	Estilo (editorconfig), nomenclatura, organización de proyectos/solution, inyección de dependencias	Dev	Inicio
-DOC-DEV-03	Guía de componentes Blazor	Catálogo de componentes reutilizables (tarjeta de miembro, selector de fecha, badge de estado), props, cuándo reutilizar	Dev	Continuo
-DOC-DEV-04	Estándares de documentación de código	XML comments obligatorios en APIs públicas, README por proyecto de la solution	Dev	Continuo
-DOC-DEV-05	Guía de control de versiones	Ramas (main/develop/feature), mensajes de commit, revisión de PRs, vinculación con RF/historias	Dev	Inicio
-DOC-DEV-06	Guía de manejo de errores y logging	Registro local de errores, niveles, dónde se consultan los logs en dispositivo	Dev	Desarrollo
-DOC-DEV-07	Guía de CI/CD	Pipeline de build (Android/Windows/iOS), análisis estático, artefactos	Dev	Desarrollo
-4.6 Calidad y pruebas
-Código	Documento	Contenido mínimo	Audiencia	Etapa
-DOC-QA-01	Plan de pruebas	Alcance, niveles (unitarias xUnit, integración con SQLite, UI con Appium/maui-test), entorno	QA, Dev	Antes de probar
-DOC-QA-02	Casos de prueba	ID, precondición, pasos, esperado, RF vinculado; casos críticos: registro masivo de asistencia, integridad tras cierre abrupto, BD corrupta	QA	Desarrollo
-DOC-QA-03	Registro de defectos	Plantilla de bug, severidad, estado	Todos	Continuo
-DOC-QA-04	Informe de resultados por release	Cobertura, defectos abiertos, criterio de salida	Todos	Por release
-4.7 Despliegue y distribución
-Código	Documento	Contenido mínimo	Audiencia	Etapa
-DOC-DES-01	Guía de build y empaquetado	Comandos, configuraciones Debug/Release, firma (keystore Android, certificados iOS/MSIX)	Dev	Pre-release
-DOC-DES-02	Guía de distribución	Opciones: tienda, instalación directa de APK (side-load) para grupos sin tienda, actualización de versiones y migración de BD existente	Operador	Pre-release
-DOC-DES-03	Checklist de release	Pasos verificables antes de publicar una versión	Dev	Por release
-4.8 Operación y soporte
-Código	Documento	Contenido mínimo	Audiencia	Etapa
-DOC-OP-01	Manual de instalación	Requisitos del dispositivo (SO, memoria), pasos de instalación, primera configuración	Operador	Release
-DOC-OP-02	Manual de operación	Rutinas periódicas: respaldo, verificación de espacio, exportación de reportes	Operador	Release
-DOC-OP-03	Guía de solución de problemas	Tabla síntoma → causa → acción (App no abre, BD corrupta, respaldo fallido, datos no visibles)	Operador	Release, continuo
-DOC-OP-04	Procedimiento de recuperación ante fallos	Restauración desde respaldo, escenario de pérdida de dispositivo	Operador	Release
-4.9 Usuario final
-Código	Documento	Contenido mínimo	Audiencia	Etapa
-DOC-USU-01	Manual de usuario	Por pantalla: grupos, miembros, actividades, registro de asistencia, reportes; con capturas	Usuario final	Release
-DOC-USU-02	Guía rápida (1 página)	Flujo esencial: crear grupo → cargar miembros → crear actividad → pasar asistencia	Usuario final	Release
-DOC-USU-03	FAQ	Dudas comunes (respaldo, cambio de dispositivo, estados de asistencia)	Usuario final	Post-release
-5. Estándares de redacción
-Formato: Markdown (diagramas en Mermaid o Draw.io exportados a _img/).
-Encabezado obligatorio en cada documento: título, código, versión, fecha, autor, estado (borrador/revisión/aprobado).
-Idioma: español; código e identificadores en inglés.
-Numeración de requisitos: RF-###, RNF-###; de casos de prueba: TC-###; de ADRs: ADR-###.
-Toda captura de pantalla del manual de usuario debe indicar versión de la App con la que se tomó.
-6. Documentación del código fuente
-XML comments (///) obligatorios en clases y métodos públicos de servicios y entidades.
-DocFX configurado para generar el sitio de documentación de API desde src/.
-README.md por proyecto de la solution (propósito, dependencias, puntos de entrada).
-Los comentarios explican el porqué, no el qué.
-7. Herramientas
-Necesidad	Herramienta propuesta
-Repositorio y versionado de docs	Git (mismo repo que el código)
-API docs	DocFX
-Diagramas	Mermaid / Draw.io
-Diseño UI	Figma o similar
-Gestión de tareas/defectos	GitHub Projects / Azure DevOps / Jira
-Revisión de docs	Pull requests con revisor designado
-8. Roles y responsabilidades (RACI)
-Actividad	Responsable	Consultado
-Plan de documentación	Líder técnico	Equipo
-SRS y reglas de negocio	Analista / PO	Usuario clave del grupo
-SAD y ADRs	Arquitecto / Líder técnico	Equipo dev
-Documentos de datos	Dev backend/datos	QA
-Casos de prueba	QA	Dev
-Manuales de operación	Dev senior	Operador
-Manual de usuario	Técnico documental / PO	Usuario final
-Revisión y aprobación	Líder técnico	—
+* Contenido: Se explica paso a paso qué hace cada persona dentro de la aplicación, desde que entra hasta que completa una tarea, describiendo también situaciones que pueden presentarse de forma distinta a lo esperado.
 
-(Ajustar según el tamaño real del equipo; en equipos pequeños una persona puede acumular roles.)
+* Audiencia: Equipo de desarrollo y usuarios que participan en la validación.
 
-9. Flujo de trabajo documental
-Creación a partir de plantilla (carpeta plantillas/).
-Revisión por par mediante PR.
-Aprobación del responsable.
-Publicación en docs/ (y generación del sitio DocFX si aplica).
-Actualización obligatoria ante: cambio de requisito, ADR nuevo, release, defecto relevante. La documentación desactualizada se trata como defecto.
-10. Alineación con el ciclo de vida
-Fase	Documentos que se elaboran/actualizan
-Inicio	DOC-GES-01/02, DOC-REQ-01, ADR-001…006
-Análisis	DOC-REQ-02…05, DOC-DAT-05
-Diseño	DOC-ARQ-01…04, DOC-DAT-01/02, DOC-DEV-02
-Desarrollo	DOC-DEV-03…07, DOC-QA-01/02, DOC-DAT-03, código documentado
-Pruebas	DOC-QA-02…04
-Release	DOC-DES-01…03, DOC-OP-01…04, DOC-USU-01…03, DOC-GES-05
-Operación/mantenimiento	DOC-OP-03, FAQ, ADRs nuevos, changelog
-11. Métricas de calidad documental (sugeridas)
-% de requisitos con al menos un caso de prueba trazado.
-% de ADRs con estado "aceptado" para decisiones mayores.
-Revisión documental incluida en la definición de "terminado" (DoD) de cada historia.
-Verificación del manual de usuario en cada release mayor (capturas vigentes).
-12. Próximos pasos sugeridos
-Validar y priorizar este inventario según el tamaño del equipo (podría recortarse a un conjunto mínimo esencial).
-Crear las plantillas de: ADR, SRS, caso de prueba, encabezado de documento.
-Elaborar primero: DOC-REQ-01, DOC-REQ-02, ADR-001…003 y DOC-DEV-01, que desbloquean el resto.
+* Etapa: Se elabora durante la etapa de diseño.
+
+DOC-REQ-03 — Historias de Usuario
+
+* Contenido: Se describe desde la perspectiva de quien usa la aplicación qué funcionalidad necesita, para qué le sirve y cuándo se puede decir que está bien hecha.
+
+* Audiencia: Equipo de desarrollo.
+
+* Etapa: Se va redactando y revisando durante toda la etapa de programación.
+
+3.3 Arquitectura y diseño del sistema
+
+DOC-ARQ-01 — Documento de Arquitectura
+
+* Contenido: Se explica cómo está dividida la aplicación, qué partes la componen, cómo se comunican entre sí, qué tecnologías se usan y por qué se tomaron esas decisiones.
+
+* Audiencia: Equipo de desarrollo.
+
+* Etapa: Se redacta en la etapa de diseño y se complementa mientras se avanza en el desarrollo.
+
+DOC-ARQ-02 — Diagrama de Componentes
+
+* Contenido: Se muestra gráficamente qué partes conforman el sistema, cómo se conectan y qué información pasa de una a otra.
+
+* Audiencia: Equipo de desarrollo.
+
+* Etapa: Se elabora durante la etapa de diseño.
+
+DOC-ARQ-03 — Registros de Decisión Técnica (ADR)
+
+* Contenido: Cada vez que se elige una solución técnica, se explica la situación, las opciones que se consideraron, cuál se seleccionó y qué consecuencias tiene esa decisión.
+
+* Audiencia: Equipo de desarrollo y quienes mantengan el sistema después.
+
+* Etapa: Se redacta a lo largo de todo el proyecto, cada vez que se define una decisión importante.
+
+DOC-DIS-01 — Diseño de Interfaz y Experiencia de Uso
+
+* Contenido: Se describe cómo se ven las pantallas, cómo se navega entre ellas, qué colores y estilos se usan y cómo se organizan los menús y botones.
+
+* Audiencia: Equipo de desarrollo y usuarios que participan en la validación.
+
+* Etapa: Se elabora en la etapa de diseño y se ajusta durante el desarrollo.
+
+DOC-DIS-02 — Diccionario de Datos y Modelo del Dominio
+
+* Contenido: Se explican todos los datos que se manejan, qué información guarda cada elemento, cómo se relacionan entre sí y qué reglas deben cumplir.
+
+* Audiencia: Equipo de desarrollo.
+
+* Etapa: Se define en la etapa de diseño y se actualiza si cambia la estructura.
+
+3.4 Base de datos y almacenamiento de información
+
+DOC-DAT-01 — Esquema de la Base de Datos
+
+* Contenido: Se detallan cada una de las tablas que se crean, los campos que tienen, el tipo de información que guardan, las relaciones entre ellas y las reglas de integridad.
+
+* Audiencia: Equipo de desarrollo.
+
+* Etapa: Se diseña desde el inicio y se actualiza con cada cambio de estructura.
+
+DOC-DAT-02 — Estrategia de Migraciones y Respaldo
+
+* Contenido: Se explica cómo se actualiza la base de datos cuando cambia la versión de la aplicación, cómo se crea una copia de seguridad de la información y cómo se recupera si algo falla.
+
+* Audiencia: Equipo de desarrollo y quien administre la aplicación.
+
+* Etapa: Se define durante el desarrollo y se mantiene actualizado.
+
+3.5 Desarrollo y programación
+
+DOC-DEV-01 — Guía de Estilo y Convenciones de Código
+
+* Contenido: Se establecen las normas de cómo escribir el código, cómo nombrar cada elemento, cómo organizar la información y cómo manejar los mensajes que aparecen cuando algo sale mal, para que todo el equipo escriba de la misma forma.
+
+* Audiencia: Quienes programan.
+
+* Etapa: Se define desde el inicio del proyecto.
+
+DOC-DEV-02 — Guía de Preparación del Entorno de Desarrollo
+
+* Contenido: Se detalla qué programas y herramientas hay que instalar, cómo configurar el equipo, cómo descargar el código y cómo ponerlo en marcha para empezar a trabajar.
+
+* Audiencia: Quienes se integren al equipo.
+
+* Etapa: Se mantiene disponible durante todo el proyecto.
+
+DOC-DEV-03 — Integración y Entrega Continua
+
+* Contenido: Se explica cómo se verifica que el código funciona correctamente, cómo se realizan las pruebas automáticas y cómo se prepara la aplicación para entregarla a los usuarios.
+
+* Audiencia: Equipo de desarrollo.
+
+* Etapa: Se implementa durante la etapa de desarrollo.
+
+3.6 Pruebas y verificación
+
+DOC-PRU-01 — Plan General de Pruebas
+
+* Contenido: Se define qué partes de la aplicación se van a probar, qué tipos de pruebas se van a realizar, en qué orden y cuándo se considera que está lista para entregarse.
+
+* Audiencia: Equipo de desarrollo y personal de pruebas.
+
+* Etapa: Se elabora en la etapa de diseño.
+
+DOC-PRU-02 — Casos de Prueba Detallados
+
+* Contenido: Se describe paso a paso qué se hace para probar cada función, qué resultado se espera y qué sucedió realmente.
+
+* Audiencia: Personal de pruebas y equipo de desarrollo.
+
+* Etapa: Se ejecuta y se actualiza durante todo el proyecto.
+
+DOC-PRU-03 — Reporte de Incidencias y Errores
+
+* Contenido: Se anota todo lo que no funciona correctamente, cómo se puede repetir el problema, qué gravedad tiene y en qué estado se encuentra su solución.
+
+* Audiencia: Equipo de desarrollo.
+
+* Etapa: Se actualiza cada vez que se encuentra o resuelve un problema.
+
+3.7 Entrega, instalación y liberación de versiones
+
+DOC-DES-01 — Guía de Instalación y Configuración
+
+* Contenido: Se detallan los requisitos que debe tener el dispositivo, los pasos para instalar la aplicación y la configuración inicial que se debe realizar.
+
+* Audiencia: Quien instala la aplicación y usuarios avanzados.
+
+* Etapa: Se prepara antes de la primera entrega y se actualiza con cada versión.
+
+DOC-DES-02 — Notas de Cada Versión
+
+* Contenido: Se informa qué novedades trae cada entrega, qué se mejoró, qué se corrigió y si hay cosas que todavía están en proceso.
+
+* Audiencia: Todos los usuarios.
+
+* Etapa: Se publica con cada versión que se entrega.
+
+DOC-DES-03 — Lista de Verificación antes de Liberar
+
+* Contenido: Se reúne todo lo que hay que confirmar antes de entregar una versión nueva: que todo funciona, que se hizo respaldo y que está lista para salir.
+
+* Audiencia: Responsable de cada entrega.
+
+* Etapa: Se revisa antes de cada publicación.
+
+3.8 Uso diario, soporte y mantenimiento
+
+DOC-OPE-01 — Manual del Usuario
+
+* Contenido: Explicación clara y sencilla de cómo usar la aplicación desde el primer momento, cómo registrar un grupo, cómo inscribir personas, cómo marcar asistencia y cómo generar reportes.
+
+* Audiencia: Usuario final y quien gestiona el grupo.
+
+* Etapa: Se elabora con la primera versión y se actualiza cuando cambien las funciones.
+
+DOC-OPE-02 — Solución de Problemas Frecuentes
+
+* Contenido: Se presentan las situaciones que pueden confundir al usuario, qué las causa y qué pasos seguir para resolverlas.
+
+* Audiencia: Usuarios y quien brinde soporte.
+
+* Etapa: Se amplía a medida que aparecen situaciones nuevas.
+
+DOC-OPE-03 — Procedimiento de Respaldo y Recuperación
+
+* Contenido: Se explica con qué frecuencia guardar copia de la información, dónde hacerlo y cómo recuperar los datos si se cambia de dispositivo o se pierde la información.
+
+* Audiencia: Quien administra el grupo.
+
+* Etapa: Disponible desde la primera versión.
+
+3.9 Control de cambios y actualizaciones
+
+DOC-VER-01 — Registro Histórico de Versiones
+
+* Contenido: Se anota cada versión que se entrega, la fecha, qué cambios trae y quiénes participaron.
+
+* Audiencia: Todos los usuarios y el equipo.
+
+* Etapa: Se actualiza con cada nueva versión.
+4. Forma de trabajar con la documentación
+
+* Cada documento se guarda en su carpeta correspondiente con su código de identificación
+
+* Antes de considerarse terminado, lo revisa al menos otra persona para asegurar que se entienda bien
+
+* Cuando algo cambia en la aplicación, se actualiza también su documento; no se deja información desactualizada
+
+* Los cambios importantes se anotan en el registro de versiones para que quede constancia
+
+* El proceso sigue estos pasos: se redacta → se revisa → se aprueba → se publica
