@@ -223,4 +223,17 @@ Me puse a trabajar en el documento que Don Carlos me indicó. Revisé todo lo qu
 Fui avanzando poco a poco: desde la introducción, el propósito, el alcance, las audiencias, el contexto de la aplicación, la estructura del repositorio y todo el inventario de documentos. Me aseguré de que todo quedara claro, completo y ordenado, tal como Don Carlos lo pidió.
 
 Inicié a las 9:00 de la mañana y trabajé continuamente hasta las 3:30 de la tarde, detallando cada sección y verificando que todo estuviera bien redactado y listo para entregar.
+
+
+
+
+
+# Fecha: 17 de septiembre de 2026
+Actividad: Envío de información y promocionales a organizaciones
+
+De 8:00 a.m. a 12:40 p.m.
+Me puse a trabajar en la lista de organizaciones. Fui pegando cada correo electrónico, asegurándome de que quedaran bien escritos y completos. Después agregué las imágenes correspondientes y comencé a enviar la información y los mensajes promocionales a cada uno. Revisé que todo se viera bien antes de mandarlo y fui avanzando uno por uno con cuidado.
+
+De 1:40 p.m. a 5:00 p.m.
+Seguí con lo mismo: pegué los correos que faltaban, verifiqué que estuvieran correctos, agregué las imágenes y terminé de enviar todos los promocionales. Me aseguré de que no se me quedara ninguno sin enviar y que todo quedara bien enviado.
   
