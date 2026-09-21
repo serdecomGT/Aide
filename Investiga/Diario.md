@@ -217,32 +217,6 @@ Continué buscando más organizaciones y sus datos de contacto. Después inicié
 Actividad: Organización y redacción del documento de plan de documentación
 
 
-Claro que sí, aquí corregido con la fecha correcta ✅
-
-
-# Fecha: 19 de septiembre de 2026
-
-
-# De 10:00 a. m. a 2:30 p. m.
-Inicié mi jornada a las 10 de la mañana. Me puse a analizar y reflexionar sobre un tema muy importante: si la inteligencia artificial puede reemplazar mi trabajo de enviar correos promocionales a las ONG. En este tiempo identifiqué todo lo que la IA ya puede hacer por sí sola: buscar y organizar contactos, redactar borradores, enviar mensajes en gran cantidad, personalizar datos básicos y clasificar respuestas. Comprendí que toda la parte mecánica y repetitiva la hace más rápido que cualquier persona, y que si solo me dedico a eso, sí estaría en riesgo.
-
-Retomé el trabajo a las 3:30 de la tarde. Seguí investigando todo lo que la IA no puede hacer: conocer de verdad a cada organización, escribir con tono humano y cercano, leer entre líneas lo que las personas quieren decir, tomar decisiones con criterio y construir confianza. También definí cómo puedo prepararme: dejar de hacer solo lo mecánico, usar la IA como mi herramienta y no como mi reemplazo, y aprender más cada día para mejorar en lo que de verdad importa. Terminé organizando todo en un documento claro y completo, con resumen y tabla, para tenerlo siempre a la mano.
-
-# De 3:30 p. m. a 9:00 p. m.
-
-
-## De 9:00 a.m. a 3:30 p.m.
-
-Me puse a trabajar en el documento que Don Carlos me indicó. Revisé todo lo que había que organizar y redactar, y fui armando cada parte con lo que yo más comprendí de la información que teníamos. Traté de explicarlo con mis propias palabras, tal como me lo pidió, poniendo cada sección, la estructura de carpetas y el listado de documentos según lo entendí.
-
-Fui avanzando poco a poco: desde la introducción, el propósito, el alcance, las audiencias, el contexto de la aplicación, la estructura del repositorio y todo el inventario de documentos. Me aseguré de que todo quedara claro, completo y ordenado, tal como Don Carlos lo pidió.
-
-Inicié a las 9:00 de la mañana y trabajé continuamente hasta las 3:30 de la tarde, detallando cada sección y verificando que todo estuviera bien redactado y listo para entregar.
-
-
-
-
-
 # Fecha: 17 de septiembre de 2026
 Actividad: Envío de información y promocionales a organizaciones
 
@@ -252,3 +226,21 @@ Me puse a trabajar en la lista de organizaciones. Fui pegando cada correo electr
 De 1:40 p.m. a 5:00 p.m.
 Seguí con lo mismo: pegué los correos que faltaban, verifiqué que estuvieran correctos, agregué las imágenes y terminé de enviar todos los promocionales. Me aseguré de que no se me quedara ninguno sin enviar y que todo quedara bien enviado.
   
+
+# Fecha: 18 de septiembre de 2026
+
+Diario de trabajo
+
+Actividad del día
+El día de hoy no asistí al lugar de prácticas por un motivo especial: se realizó una toma fotográfica oficial y también participamos en un taller programado para todo el grupo. Ambas actividades son parte de nuestras actividades formativas, por lo que se cumplió con la jornada de trabajo y asistencia. La toma de fotografías se llevó a cabo en la mañana y el taller se desarrolló durante el resto de la jornada, donde aprendimos temas importantes relacionados con nuestra formación. Quedo atenta para retomar mis tareas habituales en el siguiente día.
+
+
+ # Fecha: 19 de septiembre de 2026
+
+
+De 10:00 a. m. a 2:30 p. m.
+Inicié mi jornada a las 10 de la mañana. Me puse a analizar y reflexionar sobre un tema muy importante: si la inteligencia artificial puede reemplazar mi trabajo de enviar correos promocionales a las ONG. En este tiempo identifiqué todo lo que la IA ya puede hacer por sí sola: buscar y organizar contactos, redactar borradores, enviar mensajes en gran cantidad, personalizar datos básicos y clasificar respuestas. Comprendí que toda la parte mecánica y repetitiva la hace más rápido que cualquier persona, y que si solo me dedico a eso, sí estaría en riesgo.
+
+De 3:30 p. m. a 9:00 p. m.
+Retomé el trabajo a las 3:30 de la tarde. Seguí investigando todo lo que la IA no puede hacer: conocer de verdad a cada organización, escribir con tono humano y cercano, leer entre líneas lo que las personas quieren decir, tomar decisiones con criterio y construir confianza. También definí cómo puedo prepararme: dejar de hacer solo lo mecánico, usar la IA como mi herramienta y no como mi reemplazo, y aprender más cada día para mejorar en lo que de verdad importa. Terminé organizando todo en un documento claro y completo, con resumen y tabla, para tenerlo siempre a la mano.
+
