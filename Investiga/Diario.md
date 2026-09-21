@@ -244,3 +244,13 @@ Inicié mi jornada a las 10 de la mañana. Me puse a analizar y reflexionar sobr
 De 3:30 p. m. a 9:00 p. m.
 Retomé el trabajo a las 3:30 de la tarde. Seguí investigando todo lo que la IA no puede hacer: conocer de verdad a cada organización, escribir con tono humano y cercano, leer entre líneas lo que las personas quieren decir, tomar decisiones con criterio y construir confianza. También definí cómo puedo prepararme: dejar de hacer solo lo mecánico, usar la IA como mi herramienta y no como mi reemplazo, y aprender más cada día para mejorar en lo que de verdad importa. Terminé organizando todo en un documento claro y completo, con resumen y tabla, para tenerlo siempre a la mano.
 
+
+Fecha: 21 de septiembre de 2026
+
+Diario de trabajo
+
+De 8:00 a. m. a 4:00 p. m.
+Durante la jornada de hoy me dediqué a continuar con las tareas que he venido realizando: organizar los listados de ONG, copiar la información, personalizar cada mensaje y enviar los correos correspondientes. Me aseguré de que cada uno estuviera bien dirigido y con los datos correctos, revisando que no faltara nada antes de enviarlo. Estuve trabajando en esto todo el tiempo hasta que terminé a las 4 de la tarde.
+
+Al finalizar me retiré para atender un asunto muy importante relacionado con mi documentación para el apoyo de padrinazgo. Fui a verificar y confirmar todo lo necesario para que el trámite avance bien, ya que es algo fundamental para mí y para poder seguir adelante con mis estudios y mi preparación. Quedo atenta para retomar mis tareas habituales en cuanto regrese.
+
