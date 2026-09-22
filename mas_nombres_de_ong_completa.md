@@ -10,15 +10,15 @@ Asamblea de los Pueblos en Defensa del Territorio en Huehuetenango (ADH) - ?
 
 Asociación Campesina de Desarrollo Integral de Petén (ACDIP) - acdipeten@gmail.com
 
-Asociación Centro Humano Barbara Ford
+Asociación Centro Humano Barbara Ford - info@cenpaz.org
 
-Asociación Civil Santa María Xalapán
+Asociación Civil Santa María Xalapán - ?
 
-Asociación Civil Mujeres de Cancín
+Asociación Civil Mujeres de Cancín - adecamqroo@gmail.com
 
-Asociación de Comunidades para El Progreso Barrio San Antonio, Suchitepéquez
+Asociación de Comunidades para El Progreso Barrio San Antonio, Suchitepéquez - ?
 
-Asociación Comunitaria de Desarrollo Integral Mam (ACODIMAM)
+Asociación Comunitaria de Desarrollo Integral Mam (ACODIMAM) -
 
 Asociación Civil de Desarrollo Integral Comunitario (ACIDICO), Chimaltenango
 
