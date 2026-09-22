@@ -24,7 +24,7 @@ Asociación Civil de Desarrollo Integral Comunitario (ACIDICO), Chimaltenango  -
 
 Asociación de Mujeres de Occidente Ixquik (AMOIXQUIK) - ?
 
-Asociación de Desarrollo Comunitario del Cantón Panabaj (ADECCAP)
+Asociación de Desarrollo Comunitario del Cantón Panabaj (ADECCAP) - 
 
 Asociación de Desarrollo Integral Comunitario (ADICI)
 
