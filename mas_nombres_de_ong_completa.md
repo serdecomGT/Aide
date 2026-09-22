@@ -1,15 +1,27 @@
 Abrazando Mi Guatemala
+
 Aktenamit
+
 Alianza de Mujeres Rurales
+
 Alianza Nacional de Organizaciones de Mujeres Indígenas (REDMISAR)
+
 APROFAM 
+
 Articulación Red Nacional de Multiversidad Ancestral
+
 Asamblea de los Pueblos en Defensa del Territorio en Huehuetenango (ADH)
+
 Asistencia Médica y Familiar –AMES
+
 Asociación Alas de Guatemala
+
 Asociación Aldea De Esperanza "AAE”
+
 Asociación Aldeas Infantiles S.O.S. Guatemala
+
 Asociación Campesina de Desarrollo Integral de Petén (ACDIP)
+
 Asociación Casa Guatemala
 Asociación Centro Humano Barbara Ford
 Asociación Ciudad Esperanza - Hogar Miguel MAGONE
