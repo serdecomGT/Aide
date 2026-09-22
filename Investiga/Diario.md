@@ -254,3 +254,16 @@ Durante la jornada de hoy me dediqué a continuar con las tareas que he venido r
 
 Al finalizar me retiré para atender un asunto muy importante relacionado con mi documentación para el apoyo de padrinazgo. Fui a verificar y confirmar todo lo necesario para que el trámite avance bien, ya que es algo fundamental para mí y para poder seguir adelante con mis estudios y mi preparación. Quedo atenta para retomar mis tareas habituales en cuanto regrese.
 
+
+
+# Fecha: 21 de septiembre de 2026
+
+Diario de trabajo
+
+De las 6:07 p.m. a las 11:30 p.m
+
+Inicié mi jornada a las 6:07 de la mañana. Me dediqué a leer y analizar el tema sobre Inteligencia Artificial, revisando con atención cada parte para identificar la información que realmente me sirve y se ajusta a lo que estoy realizando. Fui avanzando poco a poco, leyendo, comparando y seleccionando lo que me conviene, descartando lo que no aplica y profundizando en lo que es importante para mi trabajo.
+
+Estuve trabajando en esto durante todo el tiempo, avanzando hasta que finalicé a las 11:30 de la mañana. Para ese momento ya tenía claro todo lo necesario: qué puede hacer la IA, qué no puede hacer y cómo prepararme para aprovecharla sin quedar vulnerable. Quedo lista para continuar con lo siguiente
+
+
