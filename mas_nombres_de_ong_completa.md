@@ -18,11 +18,11 @@ Asociación Civil Mujeres de Cancín - adecamqroo@gmail.com
 
 Asociación de Comunidades para El Progreso Barrio San Antonio, Suchitepéquez - ?
 
-Asociación Comunitaria de Desarrollo Integral Mam (ACODIMAM) -
+Asociación Comunitaria de Desarrollo Integral Mam (ACODIMAM) - acodimam.799@gmail.com 
 
-Asociación Civil de Desarrollo Integral Comunitario (ACIDICO), Chimaltenango
+Asociación Civil de Desarrollo Integral Comunitario (ACIDICO), Chimaltenango  - ?
 
-Asociación de Mujeres de Occidente Ixquik (AMOIXQUIK)
+Asociación de Mujeres de Occidente Ixquik (AMOIXQUIK) - ?
 
 Asociación de Desarrollo Comunitario del Cantón Panabaj (ADECCAP)
 
@@ -175,31 +175,3 @@ Red Intermunicipal de San Raymundo
 Red Intermunicipal de San Juan Sacatepéquez
 
 Sakix, Oriente
-
-Acción Ciudadana - accionciudadana@accionciudadana.org.gt
-
-Alianza Joven ONG - alianzajovengt@gmail.com
-
-Asociación de Trabajadoras del Hogar a Domicilio y de Maquila (ATRAHDOM) - amarroquin@atrahdom.org
-
-Asociación Familia, Desarrollo, Población - (FADEP) - direccion@fadep.org
-
-Asociación La Familia Importa - info@lafamiliaimporta.org
-
-Asociación Lambda Guatemala - direccion1.lambda@gmail.com
-
-Asociación para el Estudio y Promoción de la Seguridad en Democracia - info@sedem.org.gt / iduvinahernandez@sedem.org.gt
-
-Centro de Análisis Forense y Ciencias Aplicadas - cafca@cafca.gt
-
-El Refugio de la Niñez - comunica@refugiodelaninez.org
-
-Fundación Propaz -  fundacionpropaz@propaz.org.gt
-
-Instituto de Enseñanza para el Desarrollo Sostenible - comunicacion@iepades.org
-
-Movimiento Social por los Derechos de la Niñez, Adolescencia y Juventud en Guatemala - movninez@gmail.com
-
-Organización Mujeres en Superación (OMES) - info@omesgt.org
-
-Organización Trans Reinas de la Noche - infootrans@gmail.com
