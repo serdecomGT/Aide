@@ -1,21 +1,39 @@
 Abrazando Mi Guatemala
+
 Alianza de Mujeres Rurales
+
 Alianza Nacional de Organizaciones de Mujeres Indígenas (REDMISAR)
+
 APROFAM 
+
 Articulación Red Nacional de Multiversidad Ancestral
+
 Asamblea de los Pueblos en Defensa del Territorio en Huehuetenango (ADH)
+
 Asistencia Médica y Familiar –AMES
+
 Asociación Alas de Guatemala
+
 Asociación Aldea De Esperanza "AAE”
+
 Asociación Aldeas Infantiles S.O.S. Guatemala
+
 Asociación Campesina de Desarrollo Integral de Petén (ACDIP)
+
 Asociación Casa Guatemala
+
 Asociación Centro Humano Barbara Ford
+
 Asociación Ciudad Esperanza - Hogar Miguel MAGONE
+
 Asociación Civil de Desarrollo Integral Comunitario (ACIDICO), Chimaltenango
+
 Asociación Civil God’s Grace Ministries
+
 Asociación Civil Mujeres de Cancín
+
 Asociación Civil No Lucrativa Blue Water Surrender de Guatemala, la que podrá abreviarse “Blue Water Surrender de Guatemala”
+
 Asociación Civil Santa María Xalapán
 Asociación Comunitaria de Desarrollo Integral Mam (ACODIMAM)
 Asociación Cristiana Ministerios Cristianos Los Gozosos
