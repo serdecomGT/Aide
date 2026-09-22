@@ -4,11 +4,11 @@ Alianza de Mujeres Rurales - ?
 
 Alianza Nacional de Organizaciones de Mujeres Indígenas (REDMISAR) - Admin@alianmisar.org
 
-Asomarkim Mujeres Taxisco
+Asomarkim Mujeres Taxisco - ?
 
-Asamblea de los Pueblos en Defensa del Territorio en Huehuetenango (ADH)
+Asamblea de los Pueblos en Defensa del Territorio en Huehuetenango (ADH) - ?
 
-Asociación Campesina de Desarrollo Integral de Petén (ACDIP)
+Asociación Campesina de Desarrollo Integral de Petén (ACDIP) - acdipeten@gmail.com
 
 Asociación Centro Humano Barbara Ford
 
