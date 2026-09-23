@@ -24,13 +24,13 @@ Asociación Civil de Desarrollo Integral Comunitario (ACIDICO), Chimaltenango  -
 
 Asociación de Mujeres de Occidente Ixquik (AMOIXQUIK) - ?
 
-Asociación de Desarrollo Comunitario del Cantón Panabaj (ADECCAP) - 
+Asociación de Desarrollo Comunitario del Cantón Panabaj (ADECCAP) - adeccapanabaj@yahoo.com
 
-Asociación de Desarrollo Integral Comunitario (ADICI)
+Asociación de Desarrollo Integral Comunitario (ADICI) -  adiciredes@gmail.com
 
-Asociación de Mujeres indígenas “Las Luchadoras”, Cantón Xiquinajá, Santo Domingo Suchitepéquez
+Asociación de Mujeres indígenas “Las Luchadoras”, Cantón Xiquinajá, Santo Domingo Suchitepéquez  - mujeresindigenastzununija@gmail.com
 
-Asociación de Mujeres Oxlajuj E
+Asociación de Mujeres Oxlajuj E -
 
 Asociación de Mujeres Oxlajuj Ix de Alta Verapaz (ASOIX)
 
