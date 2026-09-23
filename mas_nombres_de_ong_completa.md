@@ -205,3 +205,160 @@ Movimiento Social por los Derechos de la Niñez, Adolescencia y Juventud en Guat
 Organización Mujeres en Superación (OMES) - info@omesgt.org
 
 Organización Trans Reinas de la Noche - infootrans@gmail.com
+---
+accionciudadana@accionciudadana.org.gt
+acdipeten@gmail.com
+acodimam.799@gmail.com 
+adecamqroo@gmail.com
+adeccapanabaj@yahoo.com
+adiciredes@gmail.com
+admin@alianmisar.org
+aepdidefensoriaqeqchi@gmail.com
+afedes@gmail.com
+alianzajovengt@gmail.com
+amarroquin@atrahdom.org
+ambisurgestion@gmail.com
+asociacionqajbalqij@gmail.com
+asomuoxlajuje@gmail.com
+asomusa08@gmail.com 
+cafca@cafca.gt
+ciestor@gmail.com
+codidena.santarosa@gmail.com
+codima.solola@gmail.com
+coindi.gt@gmail.com
+coljur.retalhuleu@gmail.com
+comunica@refugiodelaninez.org
+comunicacion@agims.org.gt
+comunicacion@iepades.org
+conamugua@gmail.com
+conavigua@conavigua.org
+coordinacion@copxig.org
+copxig@gmail.com
+cpo.guatemala@gmail.com
+defensamadretierra.huehue@gmail.com
+direccion@fadep.org
+direccion1.lambda@gmail.com
+diwn.guatemala@gmail.com
+fredemi.sanmiguel@gmail.com
+frenaguatemala@gmail.com
+fundacionpropaz@propaz.org.gt
+fundebase@fundebase.org
+fundemaya@fundemaya.org
+guatemala@culturalsurvival.org
+idesac@idesac.org.gt
+iduvinahernandez@sedem.org.gt
+info@aktenamit.org
+info@asociacionpopnoj.org 
+info@cenpaz.org
+info@conavigua.org.gt
+info@fundebase.org
+info@fundemaya.org
+info@idesac.org
+info@lafamiliaimporta.org
+info@mojomayas.org
+info@omesgt.org
+info@prodesa.org
+info@sedem.org.gt
+infootrans@gmail.com
+junbatz.elquiche@gmail.com
+kajibatz.solola@gmail.com
+komon@idesac.org.gt
+komonmayab@gmail.com
+loqlajchoch@gmail.com
+majawilqij@gmail.com
+mds.suchitepequez@gmail.com
+mojomayas@gmail.com
+movninez@gmail.com
+mujeresindigenastzununija@gmail.com
+noj.colectivo@gmail.com
+ong.vida.quiche@gmail.com
+oruxing.xinka@gmail.com
+prodesa@prodesa.org.gt
+qawinaqel@gmail.com
+redmadretierra.gt@gmail.com
+redmujeres.suchi@gmail.com
+rojav.altaverapaz@gmail.com
+saqix.oriente@gmail.com
+ukuxbe@gmail.com
+vidaguatemala@yahoo.com
+waqibkej2@gmail.com
+---
+INSERT INTO Masivo2 (Nombre, Email, Mensaje) VALUES 
+('Idania Aidé Rubio Barrios','accionciudadana@accionciudadana.org.gt','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','accionciudadana@accionciudadana.org.gt','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','accionciudadana@accionciudadana.org.gt','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','acdipeten@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','acodimam.799@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','adecamqroo@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','adeccapanabaj@yahoo.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','adiciredes@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','admin@alianmisar.org','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','aepdidefensoriaqeqchi@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','afedes@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','alianzajovengt@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','amarroquin@atrahdom.org','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','ambisurgestion@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','asociacionqajbalqij@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','asomuoxlajuje@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','asomusa08@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','cafca@cafca.gt','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','ciestor@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','codidena.santarosa@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','codima.solola@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','coindi.gt@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','coljur.retalhuleu@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','comunica@refugiodelaninez.org','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','comunicacion@agims.org.gt','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','comunicacion@iepades.org','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','conamugua@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','conavigua@conavigua.org','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','coordinacion@copxig.org','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','copxig@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','cpo.guatemala@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','defensamadretierra.huehue@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','direccion@fadep.org','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','direccion1.lambda@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','diwn.guatemala@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','fredemi.sanmiguel@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','frenaguatemala@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','fundacionpropaz@propaz.org.gt','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','fundebase@fundebase.org','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','fundemaya@fundemaya.org','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','guatemala@culturalsurvival.org','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','idesac@idesac.org.gt','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','iduvinahernandez@sedem.org.gt','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','info@aktenamit.org','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','info@asociacionpopnoj.org','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','info@cenpaz.org','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','info@conavigua.org.gt','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','info@fundebase.org','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','info@fundemaya.org','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','info@idesac.org','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','info@lafamiliaimporta.org','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','info@mojomayas.org','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','info@omesgt.org','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','info@prodesa.org','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','info@sedem.org.gt','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','infootrans@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','junbatz.elquiche@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','kajibatz.solola@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','komon@idesac.org.gt','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','komonmayab@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','loqlajchoch@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','majawilqij@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','mds.suchitepequez@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','mojomayas@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','movninez@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','mujeresindigenastzununija@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','noj.colectivo@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','ong.vida.quiche@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','oruxing.xinka@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','prodesa@prodesa.org.gt','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','qawinaqel@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','redmadretierra.gt@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','redmujeres.suchi@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','rojav.altaverapaz@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','saqix.oriente@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','ukuxbe@gmail.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','vidaguatemala@yahoo.com','Enviar promocional de CPF al correo indicado'),
+('Idania Aidé Rubio Barrios','waqibkej2@gmail.com','Enviar promocional de CPF al correo indicado');
