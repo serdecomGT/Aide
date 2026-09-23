@@ -268,6 +268,7 @@ Estuve trabajando en esto durante todo el tiempo, avanzando hasta que finalicé 
 
 
 # Fecha: 23 de septiembre de 2026
+
 De 8:00 a. m. a 12:43 p. m.
 Empecé a las 8:00 de la mañana. Entré al documento llamado "más nombre de ONG completa MD", donde estaba el listado de organizaciones. Fui copiando cada nombre, lo pegué en Facebook, busqué su página oficial y de ahí saqué el correo electrónico uno por uno, verificando que todo estuviera correcto.
 
