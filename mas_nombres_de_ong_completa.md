@@ -70,16 +70,13 @@ ASOMUJSA, Chimaltenango - asomusa08@gmail.com
 
 ASOMAM, Santiago Chimaltenango, Huehuetenango - ? 
 
-Asociación Nacional Voz de la Resistencia - 
+Asociación Nacional Voz de la Resistencia -  ?  
 
+CADIMH  - ?   
 
-Articulación Red Nacional de Multiversidad Ancestral
+Colectivo de Jóvenes Solidaridad - noj.colectivo@gmail.com
 
-CADIMH
-
-Colectivo de Jóvenes Solidaridad
-
-Colectivo Kaji' Imox
+Colectivo Kaji' Imox - ? 
 
 Colectivo de Investigaciones Sociales y Labores (COISOLA)
 
