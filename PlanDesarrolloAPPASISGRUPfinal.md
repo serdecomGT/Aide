@@ -21,12 +21,12 @@ La aplicación permite administrar los grupos, registrar participantes, crear ca
 
 La información se almacena de manera local mediante SQLite, por lo que las funciones principales de la aplicación no dependen de una conexión a internet ni de un servidor externo.
 
-1.3 Tecnologías utilizadas
+1.3 Tecnologías utilizadas    
 
 Para el desarrollo de AsisGru se utilizaron las siguientes tecnologías:
 
 Csharp como lenguaje principal de programación.
-.NET 10 como plataforma de desarrollo.
+.NET 10 como plataforma de desarrollo.  
 .NET MAUI para la creación de la aplicación móvil.
 Blazor Hybrid para desarrollar las interfaces utilizando componentes Razor.
 SQLite para almacenar la información localmente.
@@ -172,4 +172,4 @@ La aplicación integra diferentes módulos relacionados entre sí y utiliza C#, 
 
 Durante el desarrollo se realizaron diferentes pruebas y correcciones para solucionar errores y mejorar el funcionamiento de los módulos. El proyecto queda estructurado de manera que sea posible continuar agregando mejoras y nuevas funciones en el futuro.
 
-Por si vas a poner eso
+        
