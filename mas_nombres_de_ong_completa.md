@@ -78,108 +78,113 @@ Colectivo de Jóvenes Solidaridad - noj.colectivo@gmail.com
 
 Colectivo Kaji' Imox - ? 
 
-Colectivo de Investigaciones Sociales y Labores (COISOLA)
+ COISOLA — Colectivo de Investigaciones Sociales y Labores  - ? 
 
-Comisiones de Agua
+ Comisiones de Agua - ? 
 
-Comisión Diocesana de Defensa de la Naturaleza (CODIDENA), Santa Rosa
+ CODIDENA — Santa Rosa -  codidena.santarosa@gmail.com
 
-Comité Cultural Maya
+ Comité Cultural Maya - ? 
 
-Comité de Mujeres Productivo
+ Comité de Mujeres Productivo - ? 
 
-Comité de Pre-consulta San Juan Alzate
+ Comité de Pre-consulta San Juan Alzate - ? 
 
-Comité de Defensa de la Vida y la Paz, Santa Rosa
+Comité de Defensa de la Vida y la Paz — Santa Rosa - ? 
 
-Coordinadora Nacional de Viudas de Guatemala (CONAVIGUA)
 
-Coordinador del Pueblo Xinka (COPXIG)
+ CONAVIGUA — Coordinadora Nacional de Viudas de Guatemala - conavigua@conavigua.org / info@conavigua.org.gt
 
-Consejo Indígena del Estor
+ COPXIG — Coordinador del Pueblo Xinka -  coordinacion@copxig.org / copxig@gmail.com
 
-Consejo Maya Mam, Quetzaltenango
+ Consejo Indígena del Estor - ciestor@gmail.com
 
-Consejo de Juventud para el Desarrollo Ixoense, Huehuetenango
+ Consejo Maya Mam — Quetzaltenango - ? 
 
-Consejo de Jóvenes Majawil Q'iij
+ Consejo de Juventud Ixcome — Huehuetenango - ? 
 
-Consejo del Pueblo Mam, San Marcos
+ Consejo de Jóvenes Majawil Q'ij - majawilqij@gmail.com
 
-Consejo de Pueblos del Occidente (CPO), El Quiché
+ Consejo del Pueblo Mam — San Marcos - ? 
 
-Coordinadora de Jóvenes de Sololá Kaji' B'atz'
+ CPO — Consejo de Pueblos del Occidente, El Quiché -  cpo.guatemala@gmail.com
 
-Coordinadora Local de Juventud Retalhuleu (COLJUR)
+ Coordinadora de Jóvenes de Sololá Kaji'b'atz' -  kajibatz.solola@gmail.com
 
-Cooperación Indígena para el Desarrollo Integral (COINDI)
+ COLJUR — Coordinadora Local de Juventud Retalteca -  coljur.retalhuleu@gmail.com
 
-Cultural Survival
+ COINDI — Cooperación Indígena para el Desarrollo Integral -  coindi.gt@gmail.com
 
-Defensa de la Madre Tierra, Huehuetenango
+ Cultural Survival - guatemala@culturalsurvival.org
 
-Defensoría Indígena Wajxaqib' Noj (DIWN)
+ Defensa de la Madre Tierra — Huehuetenango -  defensamadretierra.huehue@gmail.com
 
-Frente de Resistencia por los Recursos Naturales (FRENA)
+ DIWN — Defensoría Indígena Wajxaqib' Noj -  diwn.guatemala@gmail.com
 
-Frente de Defensa Miguelense (FREDEMI)
+ FRENA — Frente de Resistencia por los Recursos Naturales -  frenaguatemala@gmail.com
 
-Fundación para el Desarrollo y Fortalecimiento de las Organizaciones de Base (FUNDEBASE)
+ FREDEMI — Frente de Defensa Migueleño -  fredemi.sanmiguel@gmail.com
 
-FUNDEMAYA
+ FUNDEBASE — Fundación para el Desarrollo y Fortalecimiento de las Organizaciones de Base - fundebase@fundebase.org / info@fundebase.org
 
-Instituto para el Desarrollo Económico Social de América Central (IDESAC)
+ FUNDEMAYA - fundemaya@fundemaya.org / info@fundemaya.org
 
-IDESAC Komon
+ IDESAC — Instituto para el Desarrollo Económico Social de América Central -  idesac@idesac.org.gt / info@idesac.org
 
-Ix K'iche'
+ IDESAC Komon -  komon@idesac.org.gt
 
-Jun B'atz', El Quiché
+ Ix K'iche' - 1. FUNDEMAYA - fundemaya@fundemaya.org / info@fundemaya.org
 
-Juventud Revolución Nacional, El Quiché
+ IDESAC — Instituto para el Desarrollo Económico Social de América Central -  idesac@idesac.org.gt / info@idesac.org
 
-Komon Mayab'
+ IDESAC Komon - komon@idesac.org.gt
 
-Loq Laj Ch'o'ch' - Sagrada Tierra, Petén y Alta Verapaz
+ Jun B'atz', El Quiché - junbatz.elquiche@gmail.com
 
-Movimiento de Mujeres Taxisqueñas, Santa Rosa
+ Juventud Revolución Nacional, El Quiché - ? 
 
-Movimiento de Jóvenes Mayas (MOJOMAYAS)
+ Komon Mayab' - komonmayab@gmail.com
 
-Mujeres para el Desarrollo Maya, Suchitepéquez
+Loq Laj Ch'och' — Sagrada Tierra, Petén y Alta Verapaz - loqlajchoch@gmail.com
 
-ONG Vida, El Quiché
+Movimiento de Mujeres Taxisqueñas, Santa Rosa - ? 
 
-Organización Juvenil Qawinaqel
+MOJOMAYAS — Movimiento de Jóvenes Mayas -  mojomayas@gmail.com / info@mojomayas.org
 
-Organización Juvenil Xinka de Guatemala (ORJUXING)
+Mujeres para el Desarrollo Maya, Suchitepéquez -  mds.suchitepequez@gmail.com
 
-Proyecto de Desarrollo Santiago (PRODESSA)
+ONG Vida, El Quiché - ong.vida.quiche@gmail.com / vidaguatemala@yahoo.com
 
-Red de Mujeres de Suchitepéquez
+Organización Juvenil Qawinaqel - qawinaqel@gmail.com
 
-Red de Mujeres San Sebastián, Retalhuleu
+ORUXING — Organización Juvenil Xinka de Guatemala - oruxing.xinka@gmail.com
 
-Red de Mujeres de Occidente (CODIMA), Sololá
+PRODESA — Proyecto de Desarrollo Santiago -  prodesa@prodesa.org.gt / info@prodesa.org
 
-Red de Mujeres Indígenas Campesinas Madre Tierra
+Red de Mujeres de Suchitepéquez - redmujeres.suchi@gmail.com
 
-Red de Organizaciones Juveniles de Alta Verapaz
+Red de Mujeres San Sebastián, Retalhuleu - ? 
 
-Red de Autoridades y Organizaciones Indígenas (CONAMUGUA)
+CODIMA — Red de Mujeres del Occidente, Sololá - codima.solola@gmail.com
 
-Red Intermunicipal de San Raymundo
+Red de Mujeres Indígenas Campesinas Madre Tierra - redmadretierra.gt@gmail.com
 
-Red Intermunicipal de San Juan Sacatepéquez
+Red de Organizaciones Juveniles de Alta Verapaz - rojav.altaverapaz@gmail.com
 
-Sakix, Oriente
+CONAMUGUA — Red de Autoridades y Organizaciones Indígenas -  conamugua@gmail.com
+
+Red Intermunicipal de San Raymundo - ?
+  
+Red Intermunicipal de San Juan Sacatepéquez - ? 
+
+Saqix, Oriente -  saqix.oriente@gmail.com
 
 Acción Ciudadana - accionciudadana@accionciudadana.org.gt
 
 Alianza Joven ONG - alianzajovengt@gmail.com
 
 Asociación de Trabajadoras del Hogar a Domicilio y de Maquila (ATRAHDOM) - amarroquin@atrahdom.org
-
+ 
 Asociación Familia, Desarrollo, Población - (FADEP) - direccion@fadep.org
 
 Asociación La Familia Importa - info@lafamiliaimporta.org
@@ -197,5 +202,7 @@ Fundación Propaz -  fundacionpropaz@propaz.org.gt
 Instituto de Enseñanza para el Desarrollo Sostenible - comunicacion@iepades.org
 
 Movimiento Social por los Derechos de la Niñez, Adolescencia y Juventud en Guatemala - movninez@gmail.com
+
 Organización Mujeres en Superación (OMES) - info@omesgt.org
+
 Organización Trans Reinas de la Noche - infootrans@gmail.com
