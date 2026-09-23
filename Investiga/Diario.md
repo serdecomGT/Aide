@@ -267,3 +267,11 @@ Inicié mi jornada a las 6:07 de la mañana. Me dediqué a leer y analizar el te
 Estuve trabajando en esto durante todo el tiempo, avanzando hasta que finalicé a las 11:30 de la mañana. Para ese momento ya tenía claro todo lo necesario: qué puede hacer la IA, qué no puede hacer y cómo prepararme para aprovecharla sin quedar vulnerable. Quedo lista para continuar con lo siguiente
 
 
+# Fecha: 23 de septiembre de 2026
+De 8:00 a. m. a 12:43 p. m.
+Empecé a las 8:00 de la mañana. Entré al documento llamado "más nombre de ONG completa MD", donde estaba el listado de organizaciones. Fui copiando cada nombre, lo pegué en Facebook, busqué su página oficial y de ahí saqué el correo electrónico uno por uno, verificando que todo estuviera correcto.
+
+También en la mañana estuve trabajando junto con mi compañera Daniela en lo del plan de desarrollo de la aplicación. Estuvimos viendo cómo lo vamos a estructurar, compartimos ideas, platicamos sobre cómo explicar todo el proceso, cómo se hizo la aplicación y cada paso que llevamos. Pusimos en común lo que cada una pensaba para que el plan quede bien hecho y claro. Seguí avanzando con todo esto hasta las 12:43 p. m.
+
+# De 1:30 p. m. a 5:00 p. m.
+Regresé a la 1:30 p. m. y continué recolectando los correos de las organizaciones de la misma manera. Terminé esa parte a las 3:20 p. m. Después seguí trabajando en el plan de la aplicación, organizando todo lo que platicamos y acordamos con Daniela. A partir de las 3:47 p. m. seguí avanzando con lo que faltaba de la recopilación y del plan, y finalicé mi jornada a las 5:00 p. m.
