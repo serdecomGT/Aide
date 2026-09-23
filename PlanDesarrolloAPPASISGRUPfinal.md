@@ -170,6 +170,6 @@ AsisGru fue desarrollado como una solución para facilitar la organización de g
 
 La aplicación integra diferentes módulos relacionados entre sí y utiliza C#, .NET MAUI, Blazor Hybrid y SQLite para proporcionar una aplicación móvil con almacenamiento local.
 
-Durante el desarrollo se realizaron diferentes pruebas y correcciones para solucionar errores y mejorar el funcionamiento de los módulos. El proyecto queda estructurado de manera que sea posible continuar agregando mejoras y nuevas funciones en el futuro.
+Durante el desarrollo se realizaron diferentes pruebas y correcciones para solucionar errores y mejorar el funcionamiento de los módulos. El proyecto queda estructurado de manera que sea posible continuar agregando mejoras y nuevas funciones en el futuro. 
 
         
