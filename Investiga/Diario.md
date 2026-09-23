@@ -269,7 +269,7 @@ Estuve trabajando en esto durante todo el tiempo, avanzando hasta que finalicé 
 
 # Fecha: 23 de septiembre de 2026
 
-De 8:00 a. m. a 12:43 p. m.
+# De 8:00 a. m. a 12:43 p. m.
 Empecé a las 8:00 de la mañana. Entré al documento llamado "más nombre de ONG completa MD", donde estaba el listado de organizaciones. Fui copiando cada nombre, lo pegué en Facebook, busqué su página oficial y de ahí saqué el correo electrónico uno por uno, verificando que todo estuviera correcto.
 
 También en la mañana estuve trabajando junto con mi compañera Daniela en lo del plan de desarrollo de la aplicación. Estuvimos viendo cómo lo vamos a estructurar, compartimos ideas, platicamos sobre cómo explicar todo el proceso, cómo se hizo la aplicación y cada paso que llevamos. Pusimos en común lo que cada una pensaba para que el plan quede bien hecho y claro. Seguí avanzando con todo esto hasta las 12:43 p. m.
