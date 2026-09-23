@@ -78,72 +78,71 @@ Colectivo de Jóvenes Solidaridad - noj.colectivo@gmail.com
 
 Colectivo Kaji' Imox - ? 
 
- COISOLA — Colectivo de Investigaciones Sociales y Labores  - ? 
+COISOLA — Colectivo de Investigaciones Sociales y Labores  - ? 
 
- Comisiones de Agua - ? 
+Comisiones de Agua - ? 
 
- CODIDENA — Santa Rosa -  codidena.santarosa@gmail.com
+CODIDENA — Santa Rosa -  codidena.santarosa@gmail.com
 
- Comité Cultural Maya - ? 
+Comité Cultural Maya - ? 
 
- Comité de Mujeres Productivo - ? 
+Comité de Mujeres Productivo - ? 
 
- Comité de Pre-consulta San Juan Alzate - ? 
+Comité de Pre-consulta San Juan Alzate - ? 
 
 Comité de Defensa de la Vida y la Paz — Santa Rosa - ? 
 
+CONAVIGUA — Coordinadora Nacional de Viudas de Guatemala - conavigua@conavigua.org / info@conavigua.org.gt
 
- CONAVIGUA — Coordinadora Nacional de Viudas de Guatemala - conavigua@conavigua.org / info@conavigua.org.gt
+COPXIG — Coordinador del Pueblo Xinka -  coordinacion@copxig.org / copxig@gmail.com
 
- COPXIG — Coordinador del Pueblo Xinka -  coordinacion@copxig.org / copxig@gmail.com
+Consejo Indígena del Estor - ciestor@gmail.com
 
- Consejo Indígena del Estor - ciestor@gmail.com
+Consejo Maya Mam — Quetzaltenango - ? 
 
- Consejo Maya Mam — Quetzaltenango - ? 
+Consejo de Juventud Ixcome — Huehuetenango - ? 
 
- Consejo de Juventud Ixcome — Huehuetenango - ? 
+Consejo de Jóvenes Majawil Q'ij - majawilqij@gmail.com
 
- Consejo de Jóvenes Majawil Q'ij - majawilqij@gmail.com
+Consejo del Pueblo Mam — San Marcos - ? 
 
- Consejo del Pueblo Mam — San Marcos - ? 
+CPO — Consejo de Pueblos del Occidente, El Quiché -  cpo.guatemala@gmail.com
 
- CPO — Consejo de Pueblos del Occidente, El Quiché -  cpo.guatemala@gmail.com
+Coordinadora de Jóvenes de Sololá Kaji'b'atz' -  kajibatz.solola@gmail.com
 
- Coordinadora de Jóvenes de Sololá Kaji'b'atz' -  kajibatz.solola@gmail.com
+COLJUR — Coordinadora Local de Juventud Retalteca -  coljur.retalhuleu@gmail.com
 
- COLJUR — Coordinadora Local de Juventud Retalteca -  coljur.retalhuleu@gmail.com
+COINDI — Cooperación Indígena para el Desarrollo Integral -  coindi.gt@gmail.com
 
- COINDI — Cooperación Indígena para el Desarrollo Integral -  coindi.gt@gmail.com
+Cultural Survival - guatemala@culturalsurvival.org
 
- Cultural Survival - guatemala@culturalsurvival.org
+Defensa de la Madre Tierra — Huehuetenango -  defensamadretierra.huehue@gmail.com
 
- Defensa de la Madre Tierra — Huehuetenango -  defensamadretierra.huehue@gmail.com
+DIWN — Defensoría Indígena Wajxaqib' Noj -  diwn.guatemala@gmail.com
 
- DIWN — Defensoría Indígena Wajxaqib' Noj -  diwn.guatemala@gmail.com
+FRENA — Frente de Resistencia por los Recursos Naturales -  frenaguatemala@gmail.com
 
- FRENA — Frente de Resistencia por los Recursos Naturales -  frenaguatemala@gmail.com
+FREDEMI — Frente de Defensa Migueleño -  fredemi.sanmiguel@gmail.com
 
- FREDEMI — Frente de Defensa Migueleño -  fredemi.sanmiguel@gmail.com
+FUNDEBASE — Fundación para el Desarrollo y Fortalecimiento de las Organizaciones de Base - fundebase@fundebase.org / info@fundebase.org
 
- FUNDEBASE — Fundación para el Desarrollo y Fortalecimiento de las Organizaciones de Base - fundebase@fundebase.org / info@fundebase.org
+FUNDEMAYA - fundemaya@fundemaya.org / info@fundemaya.org
 
- FUNDEMAYA - fundemaya@fundemaya.org / info@fundemaya.org
+IDESAC — Instituto para el Desarrollo Económico Social de América Central -  idesac@idesac.org.gt / info@idesac.org
 
- IDESAC — Instituto para el Desarrollo Económico Social de América Central -  idesac@idesac.org.gt / info@idesac.org
+IDESAC Komon -  komon@idesac.org.gt
 
- IDESAC Komon -  komon@idesac.org.gt
+Ix K'iche' - 1. FUNDEMAYA - fundemaya@fundemaya.org / info@fundemaya.org
 
- Ix K'iche' - 1. FUNDEMAYA - fundemaya@fundemaya.org / info@fundemaya.org
+IDESAC — Instituto para el Desarrollo Económico Social de América Central -  idesac@idesac.org.gt / info@idesac.org
 
- IDESAC — Instituto para el Desarrollo Económico Social de América Central -  idesac@idesac.org.gt / info@idesac.org
+IDESAC Komon - komon@idesac.org.gt
 
- IDESAC Komon - komon@idesac.org.gt
+Jun B'atz', El Quiché - junbatz.elquiche@gmail.com
 
- Jun B'atz', El Quiché - junbatz.elquiche@gmail.com
+Juventud Revolución Nacional, El Quiché - ? 
 
- Juventud Revolución Nacional, El Quiché - ? 
-
- Komon Mayab' - komonmayab@gmail.com
+Komon Mayab' - komonmayab@gmail.com
 
 Loq Laj Ch'och' — Sagrada Tierra, Petén y Alta Verapaz - loqlajchoch@gmail.com
 
