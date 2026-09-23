@@ -30,47 +30,48 @@ Asociación de Desarrollo Integral Comunitario (ADICI) -  adiciredes@gmail.com
 
 Asociación de Mujeres indígenas “Las Luchadoras”, Cantón Xiquinajá, Santo Domingo Suchitepéquez  - mujeresindigenastzununija@gmail.com
 
-Asociación de Mujeres Oxlajuj E -
+Asociación de Mujeres Oxlajuj E - asomuoxlajuje@gmail.com
 
-Asociación de Mujeres Oxlajuj Ix de Alta Verapaz (ASOIX)
+Asociación de Mujeres Oxlajuj Ix de Alta Verapaz (ASOIX) - asomuoxlajuje@gmail.com
 
-Asociación de Jóvenes por el Desarrollo del Rescate Social (AJOJDER)
+Asociación de Jóvenes por el Desarrollo del Rescate Social (AJOJDER) -  ?
 
-Asociación de Pequeños y Medianos Agricultores El Esfuerzo, Suchitepéquez
+Asociación de Pequeños y Medianos Agricultores El Esfuerzo, Suchitepéquez -  ?
 
-Asociación de Maestros Bilingües Interculturales, Sur Petén (AMBISUR)
+Asociación de Maestros Bilingües Interculturales, Sur Petén (AMBISUR) - ambisurgestion@gmail.com
 
-Asociación Estoreña para el Desarrollo Integral (AEPDI) - Defensoría Q'eqchi'
+Asociación Estoreña para el Desarrollo Integral (AEPDI) - Defensoría Q'eqchi' - aepdidefensoriaqeqchi@gmail.com
 
-Asociación Femenina para el Desarrollo de Sacatepéquez (AFEDES)
+Asociación Femenina para el Desarrollo de Sacatepéquez (AFEDES) - afedes@gmail.com
 
-Asociación Grupo Integral de Mujeres Sanjuaneras (AGIMS)
+Asociación Grupo Integral de Mujeres Sanjuaneras (AGIMS) - comunicacion@agims.org.gt
 
-Asociación Juvenil K'ojy'in
+Asociación Juvenil K'ojy'in - asociacionqajbalqij@gmail.com
 
-Asociación Nawal Lk'u'x B'e
+Asociación Nawal Lk'u'x B'e - ukuxbe@gmail.com
 
-Asociación para el Fortalecimiento de la Paz y el Desarrollo Integral Comunitario (ASOINTEDAPUJO)
+Asociación para el Fortalecimiento de la Paz y el Desarrollo Integral Comunitario (ASOINTEDAPUJO) - ? 
 
-Asociación para la Promoción y Desarrollo de la Comunidad (CEIBA)
+Asociación para la Promoción y Desarrollo de la Comunidad (CEIBA) -  ?
 
-Asociación Pop No'j Guatemala
+Asociación Pop No'j Guatemala - info@asociacionpopnoj.org 
 
-Asociación Pro Bienestar en Acción Saaq Aach'ool Nimla K'aleba'al (APBONIA)
+Asociación Pro Bienestar en Acción Saaq Aach'ool Nimla K'aleba'al (APBONIA) -  ?
 
-Asociación Q'anil Maya Kaqchikel (ASOQ'ANIL)
+Asociación Q'anil Maya Kaqchikel  (ASOQ'ANIL) - ? 
 
-Asociación Waxaquib Q'eaxin
+Asociación Waxaquib Q'eaxin - waqibkej2@gmail.com 
 
-Asociación Xinaq Tz'umb'
+Asociación Xinaq Tz'umb' - ?
 
-ASOIX Alta Verapaz
+ASOIX Alta Verapaz - ?
 
-ASOMUJSA, Chimaltenango
+ASOMUJSA, Chimaltenango - asomusa08@gmail.com 
 
-ASOMAM, Santiago Chimaltenango, Huehuetenango
+ASOMAM, Santiago Chimaltenango, Huehuetenango - ? 
 
-Asociación Nacional Voz de la Resistencia
+Asociación Nacional Voz de la Resistencia - 
+
 
 Articulación Red Nacional de Multiversidad Ancestral
 
