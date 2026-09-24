@@ -275,4 +275,12 @@ Empecé a las 8:00 de la mañana. Entré al documento llamado "más nombre de ON
 También en la mañana estuve trabajando junto con mi compañera Daniela en lo del plan de desarrollo de la aplicación. Estuvimos viendo cómo lo vamos a estructurar, compartimos ideas, platicamos sobre cómo explicar todo el proceso, cómo se hizo la aplicación y cada paso que llevamos. Pusimos en común lo que cada una pensaba para que el plan quede bien hecho y claro. Seguí avanzando con todo esto hasta las 12:43 p. m.
 
 # De 1:30 p. m. a 5:00 p. m.
-Regresé a la 1:30 p. m. y continué recolectando los correos de las organizaciones de la misma manera. Terminé esa parte a las 3:20 p. m. Después seguí trabajando en el plan de la aplicación, organizando todo lo que platicamos y acordamos con Daniela. A partir de las 3:47 p. m. seguí avanzando con lo que faltaba de la recopilación y del plan, y finalicé mi jornada a las 5:00 p. m.
+Regresé a la 1:30 p. m. y continué recolectando los correos de las organizaciones de la misma manera. Terminé esa parte a las 3:20 p. m. Después seguí trabajando en el plan de la aplicación, organizando todo lo que platicamos y acordamos con Daniela. A partir de las 3:47 p. m. seguí avanzando con lo que faltaba de la recopilación y del plan, y finalicé mi jornada a las 5:00 p.m
+
+
+#  6:49 p. m. a 11:40 p. m.
+Inicié a las 6:49 de la tarde investigando y redactando sobre los agentes de inteligencia artificial. Me enfoqué en explicar para qué sirven, cómo se construyen y cómo se utilizan, tomando como referencia mi propia tarea diaria: buscar los nombres de las organizaciones, pegarlos en Facebook, recolectar los correos electrónicos uno por uno y pegarlos en el formato correspondiente.
+
+Describí paso a paso todo el proceso que realizo: desde abrir el documento con el listado, copiar cada nombre, buscar la página oficial, verificar el correo y anotarlo. Luego expliqué cómo un agente de IA puede hacer ese mismo trabajo de forma automática, siguiendo los mismos pasos pero más rápido. También escribí cómo yo me encargo de supervisar, revisar que todo esté correcto y asegurar que la información quede bien antes de entregarla.
+
+Avancé organizando todo en secciones claras: qué es, para qué sirve, cómo se hace y cómo me ayuda a mí sin dejar de ser yo quien controla el trabajo. Fui completando la información poco a poco, agregando ejemplos reales de lo que hago todos los días. Terminé de redactar y organizar todo a las 11:40 de la noche.
