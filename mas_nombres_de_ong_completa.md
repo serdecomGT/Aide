@@ -285,8 +285,6 @@ waqibkej2@gmail.com
 ---
 INSERT INTO Masivo2 (Nombre, Email, Mensaje) VALUES 
 ('Idania Aidé Rubio Barrios','accionciudadana@accionciudadana.org.gt','Enviar promocional de CPF al correo indicado'),
-('Idania Aidé Rubio Barrios','accionciudadana@accionciudadana.org.gt','Enviar promocional de CPF al correo indicado'),
-('Idania Aidé Rubio Barrios','accionciudadana@accionciudadana.org.gt','Enviar promocional de CPF al correo indicado'),
 ('Idania Aidé Rubio Barrios','acdipeten@gmail.com','Enviar promocional de CPF al correo indicado'),
 ('Idania Aidé Rubio Barrios','acodimam.799@gmail.com','Enviar promocional de CPF al correo indicado'),
 ('Idania Aidé Rubio Barrios','adecamqroo@gmail.com','Enviar promocional de CPF al correo indicado'),
