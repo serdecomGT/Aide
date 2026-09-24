@@ -360,3 +360,6 @@ INSERT INTO Masivo2 (Nombre, Email, Mensaje) VALUES
 ('Idania Aidé Rubio Barrios','ukuxbe@gmail.com','Enviar promocional de CPF al correo indicado'),
 ('Idania Aidé Rubio Barrios','vidaguatemala@yahoo.com','Enviar promocional de CPF al correo indicado'),
 ('Idania Aidé Rubio Barrios','waqibkej2@gmail.com','Enviar promocional de CPF al correo indicado');
+---
+INSERT INTO Tickets (Nombre, Email, Mensaje, Estado, FechaCreacion, ServicioId)
+SELECT Nombre, Email, Mensaje, 'Abierto', GETDATE(), 1 FROM Masivo2 WHERE Email NOT IN (SELECT Email FROM Tickets WHERE Mensaje LIKE 'Enviar promocional CPF%');
