@@ -297,5 +297,13 @@ Regresé a la 1:30 p. m. y continué con la misma tarea. Seguí buscando, confir
 
 
 
+Fecha: 25 de septiembre de 2026
+
+# De 8:00 a. m. a 12:30 p. m.
+Empecé a las 8:00 de la mañana. Entré al documento con el listado de organizaciones y fui avanzando uno por uno. Copié el nombre de cada una, lo pegué en Facebook, busqué su página oficial y revisé su información para sacar el correo electrónico. Lo verifiqué que estuviera bien escrito y lo pegué en el formato correspondiente. Donde no encontré el correo lo anoté aparte para buscarlo después. Así estuve trabajando toda la mañana hasta la 1:00 p. m.
+
+# De 1:30 p. m. a 5:00 p. m.
+Regresé a la 1:30 p. m. y continué con la misma tarea. Seguí buscando, confirmando y pegando los correos de las organizaciones que faltaban. Revisé también los que ya tenía recolectados antes para asegurar que todo estuviera completo y correcto. Terminé de organizar la información y dejé todo listo para lo que sigue. Finalicé mi jornada a las 5:00 p. m.
+
 
 
