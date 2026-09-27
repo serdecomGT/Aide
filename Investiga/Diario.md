@@ -305,5 +305,12 @@ Empecé a las 8:00 de la mañana. Entré al documento con el listado de organiza
 # De 1:30 p. m. a 5:00 p. m.
 Regresé a la 1:30 p. m. y continué con la misma tarea. Seguí buscando, confirmando y pegando los correos de las organizaciones que faltaban. Revisé también los que ya tenía recolectados antes para asegurar que todo estuviera completo y correcto. Terminé de organizar la información y dejé todo listo para lo que sigue. Finalicé mi jornada a las 5:00 p. m.
 
+# Fecha: 26 de septiembre de 2026
 
+# De 6:00 p. m. a 11:30 p. m.
+Inicié a las 6:00 de la tarde trabajando en la documentación y preparación de mi aplicación móvil. Revisé todos los componentes que utilicé para desarrollarla: el lenguaje de programación C#, el marco de trabajo .NET 10, la plataforma .NET MAUI para desarrollo móvil, el entorno Visual Studio 2026 y la base de datos SQLite. También anoté el uso de herramientas de inteligencia artificial como apoyo durante todo el proceso.
+
+Después me enfoqué en cómo hacer que la aplicación funcione también en sistemas operativos iOS. Investigué y organicé paso a paso todo lo necesario: los requisitos previos, la preparación del proyecto, la conexión con una computadora Mac, la creación de certificados, la compilación, la prueba en dispositivo y la forma de publicar la aplicación. Detallé cada paso para que quede claro y completo, incluyendo también lo que se puede hacer si no se cuenta con una Mac.
+
+Fui redactando todo de forma ordenada y clara, explicando cada parte del proceso. Revisé que no faltara información y que todo estuviera bien estructurado. Terminé de organizar y completar la guía a las 11:30 de la noche.
 
