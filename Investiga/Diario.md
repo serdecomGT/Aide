@@ -314,3 +314,17 @@ Después me enfoqué en cómo hacer que la aplicación funcione también en sist
 
 Fui redactando todo de forma ordenada y clara, explicando cada parte del proceso. Revisé que no faltara información y que todo estuviera bien estructurado. Terminé de organizar y completar la guía a las 11:30 de la noche.
 
+
+
+
+
+# Fecha: 28 de septiembre de 2026
+
+# De 8:00 a. m. a 10:45 a. m.
+Empecé a las 8:00 de la mañana enviando los correos y todo lo que correspondía. Terminé de mandar todo a las 10:45 a. m.
+
+# De 10:45 a. m. a 12:30 p. m.
+A partir de las 10:45 me puse a trabajar en la estructura y el funcionamiento de un agente de inteligencia artificial. Fui organizando cada parte, explicando qué es, para qué sirve, cómo está formado y cómo funciona todo el proceso. Avancé hasta las 12:30 del mediodía.
+
+# De 1:30 p. m. a terminar
+Regresé a la 1:30 de la tarde y continué leyendo y desarrollando todo el tema. Lo escribí con mis propias palabras, explicando cada parte de la estructura tal cual yo lo entiendo, de forma clara y sencilla. Terminé de organizar y redactar todo el contenido.
