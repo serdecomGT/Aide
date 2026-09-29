@@ -188,6 +188,10 @@ Los ejemplos permiten establecer qué resultados consideramos correctos y cuále
 
 ## 4.3 Paso 3 — Establecer reglas
 
+
+
+
+              
 Antes de comenzar, debemos indicar las reglas que el agente debe respetar.
 
 Algunas pueden ser:
