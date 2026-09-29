@@ -328,3 +328,14 @@ A partir de las 10:45 me puse a trabajar en la estructura y el funcionamiento de
 
 # De 1:30 p. m. a terminar
 Regresé a la 1:30 de la tarde y continué leyendo y desarrollando todo el tema. Lo escribí con mis propias palabras, explicando cada parte de la estructura tal cual yo lo entiendo, de forma clara y sencilla. Terminé de organizar y redactar todo el contenido.
+
+
+
+
+# Fecha: 29 de septiembre de 2026
+
+# De 8:00 a. m. a 12:30 p. m.
+Inicié a las 8:00 de la mañana. Seguí buscando información y leyendo sobre el tema, fui seleccionando lo más importante y lo puse de forma clara. También en la mañana vino el profesor, platicamos un ratito sobre cómo iba avanzando todo, cómo íbamos con las tareas y me dio indicaciones. Continué leyendo y organizando lo más relevante hasta las 12:30 p. m.
+
+# De 1:30 p. m. a 5:00 p. m.
+Regresé a la 1:30 de la tarde. Fui a arreglar unas cosas y también seguí leyendo más a fondo el tema, porque entre más leía, más información importante encontraba y la fui agregando. Terminé de organizar todo y finalicé mi jornada a las 5:00 p. m.
