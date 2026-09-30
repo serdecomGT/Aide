@@ -339,3 +339,13 @@ Inicié a las 8:00 de la mañana. Seguí buscando información y leyendo sobre e
 
 # De 1:30 p. m. a 5:00 p. m.
 Regresé a la 1:30 de la tarde. Fui a arreglar unas cosas y también seguí leyendo más a fondo el tema, porque entre más leía, más información importante encontraba y la fui agregando. Terminé de organizar todo y finalicé mi jornada a las 5:00 p. m.
+
+
+
+# Fecha: 30 de septiembre de 2026
+
+De 8:00 a. m. a 12:30 p. m.
+Empecé a las 8:00 de la mañana trabajando en el planteamiento de nuestra aplicación. Estuvimos definiendo cómo va a funcionar, qué va a llevar y cómo lo vamos a organizar. A las 11:30 nos pusimos con mi compañera Daniela a ver unos videos sobre las promociones que vamos a lanzar, para revisar cómo se ven y qué necesitamos ajustar. Seguimos avanzando con todo esto hasta las 12:30 del mediodía.
+
+De 1:30 p. m. a 4:00 p. m.
+Regresé a la 1:30 de la tarde y continuamos con lo mismo. Seguimos trabajando hasta terminar todo lo que teníamos pendiente. Me retiré un poquito antes de las 4:00 p. m. porque tengo que prepararme para mi mudanza de casa. Dejé todo organizado y listo para lo que sigue.
