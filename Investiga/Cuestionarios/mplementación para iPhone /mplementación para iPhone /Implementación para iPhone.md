@@ -1,6 +1,67 @@
 
 # Implementación para iPhone / iOS
 
+
+# INFORME: IMPLEMENTACIÓN EN SISTEMA iOS
+
+
+1. INTRODUCCIÓN
+
+La aplicación que estamos desarrollando fue creada con la herramienta .NET MAUI, que permite hacer un solo proyecto y que funcione tanto en Android como en iPhone, sin tener que escribir todo el código desde cero otra vez. En este informe explico todo lo que se necesita, los pasos que hay que seguir y cómo se logra que la aplicación corra en dispositivos con sistema operativo iOS.
+2. REQUISITOS NECESARIOS
+
+Para que la aplicación funcione en iPhone no basta con la computadora que uso normalmente, hacen falta elementos adicionales:
+Requisito Propósito 
+Computadora con sistema operativo Mac Es obligatoria para compilar y generar la versión de iPhone 
+Cuenta de desarrollador de Apple Permite que la aplicación se pueda instalar y publicar oficialmente 
+Programa Xcode instalado en la Mac Es la herramienta oficial de Apple para crear y preparar aplicaciones 
+Conexión entre Visual Studio y la Mac Mi computadora se comunica con la Mac para que ella realice la compilación 
+Dispositivo iPhone o simulador Sirve para probar que todo se vea y funcione correctamente 
+
+3. PREPARACIÓN DEL PROYECTO
+
+3.1 Verificar la configuración
+
+Primero se revisa que el proyecto tenga activado el sistema iOS como plataforma de destino. En la configuración debe aparecer que el proyecto está preparado para funcionar en ambos sistemas, Android e iOS.
+
+3.2 Lo que no se debe modificar
+
+La base de datos SQLite funciona exactamente igual en iPhone que en Android, por lo que no hay que cambiar nada en esa parte. Todo el código escrito en C# se mantiene igual, no se reescribe nada. Las pantallas se adaptan solas al tamaño de la pantalla del iPhone gracias a .NET MAUI. Las listas, los mensajes, las búsquedas y todas las funciones trabajan de la misma forma en ambos dispositivos.
+
+3.3 Lo que sí se debe ajustar
+
+Se prepara el icono y la imagen de inicio con las medidas que pide Apple. Se asigna un nombre único para identificar la aplicación. Se verifican los permisos que necesita, como acceso a internet y guardado de información.
+4. PASOS PARA IMPLEMENTAR Y PROBAR
+
+Paso 1 — Conectar con la computadora Mac
+
+En la computadora Mac se abre el programa Xcode para que instale todo lo que necesita. Desde mi computadora, dentro de Visual Studio, busco la opción para conectar con la Mac. Aparece el nombre de la computadora, le doy conectar y pongo los datos de acceso. Quedan conectadas.
+
+Paso 2 — Seleccionar el sistema iOS
+
+En la parte superior de la pantalla, donde aparece el nombre de Android, se cambia y se elige iOS o el nombre del iPhone que está conectado.
+
+Paso 3 — Probar la aplicación
+
+Se presiona el botón de ejecutar. La computadora se comunica con la Mac, ella prepara la aplicación, la envía al iPhone y se instala automáticamente. Se revisa que todo funcione igual que en Android.
+
+Paso 4 — Generar el archivo de instalación
+
+Cuando ya todo funciona bien, se cambia el modo de trabajo de depuración a versión final. Se selecciona la opción de publicar para iOS, se firma con la cuenta de desarrollador y se genera el archivo listo para instalar o compartir.
+5. DIFERENCIAS Y CUIDADOS
+Aspecto Detalle 
+Código Se mantiene igual, no se cambia nada 
+Base de datos Funciona igual, no requiere ajustes 
+Pantallas Se adaptan solas al tamaño de cada iPhone 
+Instalación En iPhone es más estricta, hay que firmar todo correctamente 
+Actualizaciones Cada cambio se vuelve a compilar con el mismo proceso 
+Costo La cuenta de Apple tiene un costo anual que se debe considerar 
+
+6. CONCLUSIÓN
+
+La aplicación que estamos haciendo sí puede funcionar en iPhone. No hay que crearla de nuevo, solo hay que seguir los pasos que permiten a .NET MAUI prepararla para ese sistema. La mayor diferencia es que se necesita una computadora Mac y una cuenta especial para poder hacerlo. Todo lo que ya hicimos se aprovecha igual, solo hay que agregar la parte de compilación y firma para que Apple lo permita. Así la aplicación podrá ser usada en ambos tipos de celular, llegando a más personas.
+
+
  REQUISITOS QUE NECESITAS ANTES
 
  Lo indispensable
