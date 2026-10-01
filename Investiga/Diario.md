@@ -67,7 +67,7 @@ Dato del día (Curiosidad Tecnológica) Hoy me dio curiosidad saber quién estab
 
 # Fecha: 03 de septiembre de 2026
 
-Hora de llegada: 10:00 a.m.
+# Hora de llegada: 10:00 a.m.
 
 El día de hoy llegué a las 10:00 a.m., ya que antes de venir tuve que hacer un depósito y eso me tomó más tiempo del que esperaba. Para no quedarme atrás con mis tareas, me comprometo a recuperar el tiempo trabajando un poco más al terminar la jornada o desde mi casa, y así cumplir con todo lo que me corresponde
 
@@ -138,7 +138,7 @@ Comencé a realizando el mantenimiento y arreglo de una computadora. Revisé su 
 Después me dediqué a la instalación de Visual Studio. Descargué el instalador desde el sitio oficial, ejecuté el programa y seleccioné los componentes necesarios para el desarrollo en C# y .NET MAUI, que es lo que se va a utilizar para la aplicación de control de asistencia. Mientras se completaba la instalación, revisé los requisitos del sistema y verifiqué que el equipo cumpliera con todo lo necesario.
 
 
-Horario: de 1:30 a 5:00 horas
+# Horario: de 1:30 a 5:00 horas
 
 Retomé el trabajo  Primero verifiqué que Visual Studio se hubiera instalado correctamente y abrí el programa para confirmar que todos los componentes seleccionados estuvieran disponibles.
 
