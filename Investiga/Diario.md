@@ -71,10 +71,10 @@ Dato del día (Curiosidad Tecnológica) Hoy me dio curiosidad saber quién estab
 
 El día de hoy llegué a las 10:00 a.m., ya que antes de venir tuve que hacer un depósito y eso me tomó más tiempo del que esperaba. Para no quedarme atrás con mis tareas, me comprometo a recuperar el tiempo trabajando un poco más al terminar la jornada o desde mi casa, y así cumplir con todo lo que me corresponde
 
-⏰ 10:00 a.m. — 12:30 p.m.
+10:00 a.m. — 12:30 p.m.
 Me dediqué a organizar y completar los temas que tenía pendientes de sesiones anteriores. Revisé cuáles eran los puntos que me faltaban y los fui trabajando uno por uno para tener todo al día y bien ordenado  sobre los cusestionarios.
 
-⏰ 1:30 p.m. — 5:00 p.m.
+1:30 p.m. — 5:00 p.m.
 En este horario estoy trabajando en lo que te falto .Estoy revisando cada pregunta y respondiendo las encuestas y cuestionarios uno por uno, asegurándome de que cada respuesta quede clara y con mis propias palabras. tambien tuvimos una reunion sobre que es la inteligencia artifical 
 
 
