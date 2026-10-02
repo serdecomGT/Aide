@@ -85,12 +85,12 @@ Durante la jornada nos dedicos a repasar y ensayar todos los temas que teníos p
 
 -Acctividad 7
 
-
 ### 8:00 – 12:45
 
 En este período me dediqué a trabajar en el tema de SQLite y bases de datos. Estudié y practiqué los conceptos fundentales de las bases de datos, su estructura y el manejo de SQLite. Revisé cómo crear, consultar y administrar bases de datos, así como las operaciones básicas que se pueden realizar con este sistema. Avancé en la comprensión de cómo organizar y almacenar información de manera ordenada y eficiente.
 
 ## 7 de septiembre de 2026
+
 - Actividad 9 :
   
 ### llegada 10:00
@@ -107,7 +107,7 @@ Después ordené los pasos que se van a seguir para desarrollar el proyecto: des
 
 Al final del día, revisé todo lo avanzado para asegurar que la información esté completa, ordenada y lista para continuar con la siguiente etapa.
 
-###9:00 a 12:45 
+### 9:00 a 12:45 
 
 Comencé a trabajar .Lo primero que hice fue descargar el instalador de Visual Studio desde el sitio oficial de Microsoft. Una vez descargado, ejecuté el progra y seguí los pasos de instalación: acepté los términos de licencia y seleccioné las cargas de trabajo necesarias para desarrollar en C# y .NET MAUI, que son las herrientas que se van a utilizar para la aplicación de control de asistenciientras se completaba la instalación, me dediqué a investigar qué es Visual Studio y para qué sirve. Aprendí que es un entorno de desarrollo integrado que reúne todo lo necesario para escribir, probar y publicar progras desde un solo lugar. Tbién investigué qué lenguajes de progración soporta y la diferencia entre Visual Studio y Visual Studio Code, para tener claro cuál es la herrienta adecuada para este proyecto.
 
@@ -116,7 +116,7 @@ Cuando terminó la instalación, abrí el progra para verificar que se hubiera i
 ## 8 de septiembre de 2026
 
 - Actividad 10:
-- 
+  
 Proyecto: Aplicación de Control de Asistencia para Gupos
 
 ###  8:00 a 12:30 
@@ -150,8 +150,6 @@ En el cino de regreso me llaron del trabajo para tratar información importante,
 ## 10 de septiembre
 
 - Actividad 11:
-
-
 ###  8:00 – 2:30
 
 Al iniciar la jornada a las 8:00, me dediqué a organizar y elaborar el listado de organizaciones no gubernentales (ONG) que operan en Guatemala. Recopilé los nombres de cada institución, su correo electrónico y su área de trabajo, verificando que la información fuera correcta y completa. Después de avanzar con esta tarea, nos preparos para salir a realizar la entrega de las impresoras que habíos recogido el día anterior. Nos traslados al lugar correspondiente, hicimos la entrega de cada equipo y confirmos que todo estuviera en orden y completo. Al terminar, regresos.
@@ -167,6 +165,7 @@ Comencé a trabajar a las 9:00 de la noche, continuando con la elaboración ypli
 Durante este tiempo, investigué cada organización, anoté su nombre completo, su área de trabajo y su correo electrónico, asegurándome de que la información fuera clara y ordenada. Seguí agregando más organizaciones hasta las 12:30 de ladrugada, completando así una sección más del listado.
 
 ## 11 de septiembre 
+
 - Actividad 12
 
 8:00 – 11:30:
@@ -179,7 +178,7 @@ En la noche retomé el trabajo y seguí buscando y completando los listados que 
 
 ## 14 de septiembre de 2026
 
-- Actividad 12
+- Actividad 13
 
 Llegué un poco tarde hoy. Me retrasé porque tenía que estar en la casa para recibir mis cosas de alimentación e higiene que me vinieron a entregar, y no podía salir sin recibirlas.
 
@@ -199,11 +198,11 @@ Seguiré completando la información y los envíos pendientes.
 
 ## 15 de septiembre de 2026
 
-Actividad: 13
+Actividad: 14
 
 ## 17 de septiembre de 2026
 
-- Actividad 13
+- Actividad 15
 
 Envío de información y promocionales a organizaciones
 
@@ -214,14 +213,14 @@ De 1:40 a 5:00 Seguí con lo mismo: pegué los correos que faltaban, verifiqué 
 ## 18 de septiembre
 
 
-- Actividad 15
+- Actividad 16
 
  El día de hoy no asistí al lugar de prácticas por un motivo especial: se realizó una toma fotográfica oficial y tbién participos en un taller progrado para todo el grupo.bas actividades son parte de nuestras actividades formativas, por lo que se cumplió con la jornada de trabajo y asistencia. La toma de fotografías se llevó a cabo en lañana y el taller se desarrolló durante el resto de la jornada, donde aprendimos temas importantes relacionados con nuestra formación. Quedo atenta para retomar mis tareas habituales en el siguiente día.
 
 ## 19 de septiembre 
 
 
-- Actividad 16
+- Actividad 17
 
 ### 10:00 a 2:30
 Inicié mi jornada a las 10 de lañane puse a analizar y reflexionar sobre un temuy importante: si la inteligencia artificial puede reemplazar mi trabajo de enviar correos promocionales a las ONG. En este tiempo identifiqué todo lo que la IA ya puede hacer por sí sola: buscar y organizar contactos, redactar borradores, enviar mensajes en gran cantidad, personalizar datos básicos y clasificar respuestas. Comprendí que toda la parte mecánica y repetitiva la hace más rápido que cualquier persona, y que si solo me dedico a eso, sí estaría en riesgo.
@@ -231,7 +230,7 @@ Retomé el trabajo a las 3:30 de la tarde. Seguí investigando todo lo que la IA
 
 ## 21 de septiembre 
 
-- Actividad 17
+- Actividad 18
 - 
 ### 8:00 a 4:00
 Durante la jornada de hoy me dediqué a continuar con las tareas que he venido realizando: organizar los listados de ONG, copiar la información, personalizar cadensaje y enviar los correos correspondientes. Me aseguré de que cada uno estuviera bien dirigido y con los datos correctos, revisando que no faltara nada antes de enviarlo. Estuve trabajando en esto todo el tiempo hasta que terminé a las 4 de la tarde.
@@ -240,7 +239,7 @@ Al finalizar me retiré para atender un asunto muy importante relacionado con mi
 
 ## 22 de septiembre 
 
-- Actividad 18
+- Actividad 19
 
 ###  6:07 a 11:30
 
