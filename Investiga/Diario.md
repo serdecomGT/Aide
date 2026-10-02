@@ -14,9 +14,7 @@ Soporte técnico y diagnóstico de hardware: A partir de la 1:30, Daniela y yo n
 Dato del día (Curiosidad Tecnológica) Hoy me dio curiosidad saber quién estaba detrás de la aplicación de inteligencia artificial "Dolla" y me llevé una gran sorpresa sobre cómo una sola letra cbia por completo el panora tecnológico:Dola AI: Si se busca el asistente inteligente diseñado para sincronizar y organizar el calendario mediante cmandos de voz en WhatsApp o Telegr, los fundadores son Robert Zheng y Haochuan G. Es increíble ver cómo la IA automatiza la agenda diaria con un simple mensaje.Doola: Por otra parte, si nos referimos a la plataforma empresarial que utiliza IA para constituir empresas legalmente en Estados Unidos y gestionar el soporte fiscal, su fundador es Arjun Mahadevan.Este hallazgo me dejó reflexionando sobre la velocidad a la que avanza la tecnología; un error de ortografía te lleva de un asistente de productividad personal a una suite avanzada de servicios corporativos internacionales.
 
  ### 9:00 a 11:30 
-
-- Actividad 2 :
-
+ 
 Al llegar a casa en la noche, me puse a trabajar en lo que nos pidió el profesor Don Carlos Mike.
 
 Estuve investigando y organizando todo lo relacionado con Markdown: qué es, para qué sirve, cómo se usa y sus reglas.
@@ -25,11 +23,12 @@ Preparé toda la información necesaria para la nueva aplicación o trabajo que 
 
 Revisé bien los puntos para que todo quedara claro y completo, tal como lo pidió.
 
+
 ## 2 de septiembre de 2026
 
  ### 8:00 a 12:30
 
-- Actividad 3 :
+- Actividad 2 :
 
 Comencé a organizar y componer el archivo principal del proyecto.
 
@@ -41,7 +40,7 @@ Aseguré que el archivo quedara adecuadente estructurado para facilitar el traba
 
 ###  12:30 a 5:00
 
-- Actividad 4 :
+- Actividad 3 :
 
 Agregué más texto y detalle a cada sección para que la información quedara completa y bien explicada.
 
@@ -63,7 +62,7 @@ Estructuré todo el contenido de forma clara y ordenada, asegurándome de que ca
 
 ### Hora de llegada: 10:00
 
-- Actividad 5 :
+- Actividad 4 :
 
 El día de hoy llegué a las 10:00, ya que antes de venir tuve que hacer un depósito y eso me tomó más tiempo del que esperaba. Para no quedarme atrás con mis tareas, me comprometo a recuperar el tiempo trabajando un poco más al terminar la jornada o desde mi casa, y así cumplir con todo lo que me corresponde
 
@@ -77,13 +76,13 @@ En este horario estoy trabajando en lo que te falto .Estoy revisando cada pregun
 
 ## 4 de septiembre 
 
-- Actividad 6 : Ensayo y exposición de temas
+- Actividad 5 : Ensayo y exposición de temas
 
 Durante la jornada nos dedicos a repasar y ensayar todos los temas que teníos progrados para exponer. Revisos cada punto, organizos las ideas y practicos la forma de presentar la información con claridad y orden. Al finalizar, realizos la exposición ante el grupo, compartiendo lo que habíos preparado y respondiendo las dudas que surgieron. Fue un día de mucho aprendizaje y práctica, y nos ayudó a sentirnos más seguros al momento de hablar frente a los demás.
 
 ## 6 de septiembre
 
--Acctividad 7
+-Acctividad 6
 
 ### 8:00 – 12:45
 
@@ -91,7 +90,7 @@ En este período me dediqué a trabajar en el tema de SQLite y bases de datos. E
 
 ## 7 de septiembre de 2026
 
-- Actividad 9 :
+- Actividad 7 :
   
 ### llegada 10:00
 
@@ -115,7 +114,7 @@ Cuando terminó la instalación, abrí el progra para verificar que se hubiera i
 
 ## 8 de septiembre de 2026
 
-- Actividad 10:
+- Actividad 8:
   
 Proyecto: Aplicación de Control de Asistencia para Gupos
 
@@ -149,7 +148,8 @@ En el cino de regreso me llaron del trabajo para tratar información importante,
 
 ## 10 de septiembre
 
-- Actividad 11:
+- Actividad 9 :
+- 
 ###  8:00 – 2:30
 
 Al iniciar la jornada a las 8:00, me dediqué a organizar y elaborar el listado de organizaciones no gubernentales (ONG) que operan en Guatemala. Recopilé los nombres de cada institución, su correo electrónico y su área de trabajo, verificando que la información fuera correcta y completa. Después de avanzar con esta tarea, nos preparos para salir a realizar la entrega de las impresoras que habíos recogido el día anterior. Nos traslados al lugar correspondiente, hicimos la entrega de cada equipo y confirmos que todo estuviera en orden y completo. Al terminar, regresos.
@@ -166,7 +166,7 @@ Durante este tiempo, investigué cada organización, anoté su nombre completo, 
 
 ## 11 de septiembre 
 
-- Actividad 12
+- Actividad 10
 
 8:00 – 11:30:
 
@@ -178,7 +178,7 @@ En la noche retomé el trabajo y seguí buscando y completando los listados que 
 
 ## 14 de septiembre de 2026
 
-- Actividad 13
+- Actividad 11
 
 Llegué un poco tarde hoy. Me retrasé porque tenía que estar en la casa para recibir mis cosas de alimentación e higiene que me vinieron a entregar, y no podía salir sin recibirlas.
 
@@ -198,11 +198,11 @@ Seguiré completando la información y los envíos pendientes.
 
 ## 15 de septiembre de 2026
 
-Actividad: 14
+Dia festivo
 
 ## 17 de septiembre de 2026
 
-- Actividad 15
+- Actividad 12
 
 Envío de información y promocionales a organizaciones
 
@@ -213,14 +213,14 @@ De 1:40 a 5:00 Seguí con lo mismo: pegué los correos que faltaban, verifiqué 
 ## 18 de septiembre
 
 
-- Actividad 16
+- Actividad 13
 
  El día de hoy no asistí al lugar de prácticas por un motivo especial: se realizó una toma fotográfica oficial y tbién participos en un taller progrado para todo el grupo.bas actividades son parte de nuestras actividades formativas, por lo que se cumplió con la jornada de trabajo y asistencia. La toma de fotografías se llevó a cabo en lañana y el taller se desarrolló durante el resto de la jornada, donde aprendimos temas importantes relacionados con nuestra formación. Quedo atenta para retomar mis tareas habituales en el siguiente día.
 
 ## 19 de septiembre 
 
 
-- Actividad 17
+- Actividad 14
 
 ### 10:00 a 2:30
 Inicié mi jornada a las 10 de lañane puse a analizar y reflexionar sobre un temuy importante: si la inteligencia artificial puede reemplazar mi trabajo de enviar correos promocionales a las ONG. En este tiempo identifiqué todo lo que la IA ya puede hacer por sí sola: buscar y organizar contactos, redactar borradores, enviar mensajes en gran cantidad, personalizar datos básicos y clasificar respuestas. Comprendí que toda la parte mecánica y repetitiva la hace más rápido que cualquier persona, y que si solo me dedico a eso, sí estaría en riesgo.
@@ -230,7 +230,7 @@ Retomé el trabajo a las 3:30 de la tarde. Seguí investigando todo lo que la IA
 
 ## 21 de septiembre 
 
-- Actividad 18
+- Actividad 15
 - 
 ### 8:00 a 4:00
 Durante la jornada de hoy me dediqué a continuar con las tareas que he venido realizando: organizar los listados de ONG, copiar la información, personalizar cadensaje y enviar los correos correspondientes. Me aseguré de que cada uno estuviera bien dirigido y con los datos correctos, revisando que no faltara nada antes de enviarlo. Estuve trabajando en esto todo el tiempo hasta que terminé a las 4 de la tarde.
@@ -239,7 +239,7 @@ Al finalizar me retiré para atender un asunto muy importante relacionado con mi
 
 ## 22 de septiembre 
 
-- Actividad 19
+- Actividad 16
 
 ###  6:07 a 11:30
 
@@ -249,7 +249,7 @@ Estuve trabajando en esto durante todo el tiempo, avanzando hasta que finalicé 
 
 ## 23 de septiembre 
 
-- Actividad 20
+- Actividad 27
 
 ### 8:00 a 12:43
 
@@ -271,7 +271,7 @@ Avancé organizando todo en secciones claras: qué es, para qué sirve, cómo se
 
 ## 24 de septiembre 
 
-- Actividad 21
+- Actividad 18
 
 ### 8:00 a 1:00
 
@@ -283,7 +283,7 @@ Regresé a la 1:30 y continué con lisma tarea. Seguí buscando, confirmando y p
 
 ##25 de septiembre 
 
-- Actividad 22
+- Actividad 19
 
 ### 8:00 a 12:30
 
@@ -295,7 +295,7 @@ Regresé a la 1:30 y continué con lisma tarea. Seguí buscando, confirmando y p
 
 ## 26 de septiembre 
 
-- Actividad 23
+- Actividad 20
 
  ### 6:00 a 11:30
 
@@ -307,7 +307,7 @@ Fui redactando todo de forma ordenada y clara, explicando cada parte del proceso
 
 ## 28 de septiembre 
 
-- Actividad 24
+- Actividad 21
 
  ## 8:00 a 10:45
 
@@ -323,7 +323,7 @@ Regresé a la 1:30 de la tarde y continué leyendo y desarrollando todo el tema.
 
 ## 29 de septiembre 
 
-- Actividad 25
+- Actividad 22
   
 ### 8:00 a 12:30
 
@@ -335,7 +335,7 @@ Regresé a la 1:30 de la tarde. Fui a arreglar unas cosas y tbién seguí leyend
 
 ## 30 septiembre 
 
-- Actividad 26
+- Actividad 23
 
 ### 8:00 a 12:30
 
@@ -346,7 +346,7 @@ Empecé a las 8:00 de mañana trabajando en el planteiento de nuestra aplicació
 
 ## 1 octubre 
 
-- Actividad 27
+- Actividad 24
   
 ### 8:00 – 12:00
 
@@ -358,6 +358,8 @@ Después, pasé a escribir mi diario en las hojas: anoté todo lo que llevo hech
 
 ## 2 de octubre
 
+- Actividad 25
+  
 ### 8:00 a 2:30
  
 Empecé rehaciendo los videos de promoción, trabajando en ellos con cuidado y detalle. Después le pedí ayuda a mi compañera Daniela para que los revisara y me ayudara a componerlos bien. Terminé mi propio video a las 2:30 de la tarde; lo hice en PowerPoint, cuidando que todo quedara claro, ordenado y bonito.
