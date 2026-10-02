@@ -10,358 +10,313 @@
 
 ## DIARIO DE PRACTICAS - IDANIA AIDE RUBIO BARRIOS ESTUDIANTE DE 5TO BACHILLERATO EN CIENCIAS Y LETRAS CON ORIENTACION EN COMPUTACION EN LA ESCUELA NORMAL DE MESTRAS DE ESDUCION PARA EL HOGAR HUMBERTO MIRANDA FUENTES    
 
-## Lunes, 1 de septiembre de 2026
+## 1 de septiembre de 2026
 
-##Horario en la Mañana (8:00 – 12:30) 
-Reunión de apertura y asignación: La jornada comenzó con una charla de Don Carlos, quien nos explicó detalladamente la metodología de trabajo que íbamos a implementar. Acto seguido, nos asignó la tarea de investigar a fondo ciertos temas clave que abordaremos más adelante en el proyecto.Investigación en equipo: Inmediatamente después de la reunión, mi compañera Daniela López y yo nos pusimos a trabajar juntos. Investigamos y desarrollamos de forma exhaustiva cada uno de los temas planteados, logrando culminar con éxito toda la documentación requerida antes del mediodía.Estudio técnico inicial: Dediqué una parte de la mañana a reforzar conceptos fundamentales de redes y desarrollo de software:Modelo Cliente-Servidor: Repasé la arquitectura técnica y los protocolos que permiten la comunicación directa entre las aplicaciones y los servidores en internet.Inteligencia Artificial: Analicé a fondo el panorama actual de la IA, evaluando de forma crítica sus principales pros y contras en la sociedad moderna.
+### 8:00 – 12:30
+Reunión de apertura y asignación: La jornada comenzó con una charla de Don Carlos, quien nos explicó detalladente letodología de trabajo que íbos a implementar. Acto seguido, nos asignó la tarea de investigar a fondo ciertos temas clave que abordaremos más adelante en el proyecto.Investigación en equipo: Inmediatente después de la reunión, mi compañera Daniela López y yo nos pusimos a trabajar juntos. Investigos y desarrollos de forma exhaustiva cada uno de los temas planteados, logrando culminar con éxito toda la documentación requerida antes del mediodía.Estudio técnico inicial: Dediqué una parte de lañana a reforzar conceptos fundentales de redes y desarrollo de software:Modelo Cliente-Servidor: Repasé la arquitectura técnica y los protocolos que permiten la comunicación directa entre las aplicaciones y los servidores en internet.Inteligencia Artificial: Analicé a fondo el panora actual de la IA, evaluando de forma crítica sus principales pros y contras en la sociedad moderna.
 
-## Horario en la Tarde (1:30 – 6:00) 
-Soporte técnico y diagnóstico de hardware: A partir de la 1:30 p.m.,    Daniela y yo nos enfocamos en el área técnica revisando tres computadoras que presentaban problemas. Tras abrirlas y examinarlas, elaboramos el diagnóstico oficial de la jornada: las tres máquinas compartían fallas graves en el disco duro, el CPU y la memoria. Adicionalmente, revisamos un periférico externo y determinamos que la cámara no era compatible con la computadora.Práctica de desarrollo: Continué con mi capacitación práctica en herramientas de programación:Control de versiones con Git: Revisé comandos y flujos de trabajo para asegurar el código, garantizando un guardado correcto del historial sin riesgo de pérdida de datos.Desarrollo MAUI: Exploré el entorno de desarrollo multiplataforma de Microsoft para entender la creación de aplicaciones nativas desde una base de código única.Cierre del día: Finalicé la jornada organizando detalladamente todo lo aprendido y documentando las actividades en este registro.
+Soporte técnico y diagnóstico de hardware: A partir de la 1:30, Daniela y yo nos enfocos en el área técnica revisando tres computadoras que presentaban problemas. Tras abrirlas y exinarlas, elaboros el diagnóstico oficial de la jornada: las tres máquinas compartían fallas graves en el disco duro, el CPU y lemoria. Adicionalmente, revisos un periférico externo y determinos que la cámara no era compatible con la computadora.Práctica de desarrollo: Continué con mi capacitación práctica en herrientas de progración:Control de versiones con Git: Revisé comandos y flujos de trabajo para asegurar el código, garantizando un guardado correcto del historial sin riesgo de pérdida de datos.Desarrollo MAUI: Exploré el entorno de desarrollo multiplataforma de Microsoft para entender la creación de aplicaciones nativas desde una base de código única.Cierre del día: Finalicé la jornada organizando detalladente todo lo aprendido y documentando las actividades en este registro.
 
-Dato del día (Curiosidad Tecnológica) Hoy me dio curiosidad saber quién estaba detrás de la aplicación de inteligencia artificial "Dolla" y me llevé una gran sorpresa sobre cómo una sola letra cambia por completo el panorama tecnológico:Dola AI: Si se busca el asistente inteligente diseñado para sincronizar y organizar el calendario mediante cmandos de voz en WhatsApp o Telegram, los fundadores son Robert Zheng y Haochuan G. Es increíble ver cómo la IA automatiza la agenda diaria con un simple mensaje.Doola: Por otra parte, si nos referimos a la plataforma empresarial que utiliza IA para constituir empresas legalmente en Estados Unidos y gestionar el soporte fiscal, su fundador es Arjun Mahadevan.Este hallazgo me dejó reflexionando sobre la velocidad a la que avanza la tecnología; un error de ortografía te lleva de un asistente de productividad personal a una suite avanzada de servicios corporativos internacionales.
+Dato del día (Curiosidad Tecnológica) Hoy me dio curiosidad saber quién estaba detrás de la aplicación de inteligencia artificial "Dolla" y me llevé una gran sorpresa sobre cómo una sola letra cbia por completo el panora tecnológico:Dola AI: Si se busca el asistente inteligente diseñado para sincronizar y organizar el calendario mediante cmandos de voz en WhatsApp o Telegr, los fundadores son Robert Zheng y Haochuan G. Es increíble ver cómo la IA automatiza la agenda diaria con un simple mensaje.Doola: Por otra parte, si nos referimos a la plataforma empresarial que utiliza IA para constituir empresas legalmente en Estados Unidos y gestionar el soporte fiscal, su fundador es Arjun Mahadevan.Este hallazgo me dejó reflexionando sobre la velocidad a la que avanza la tecnología; un error de ortografía te lleva de un asistente de productividad personal a una suite avanzada de servicios corporativos internacionales.
 
+ ### 9:00 a 11:30 
 
-## Horario: Por la noche, 9:00 a 11:30 al llegar a casa
+- Actividad 1 :
 
-Actividades realizadas:
+Al llegar a casa en la noche, me puse a trabajar en lo que nos pidió el profesor Don Carlos Mike.
 
-* Al llegar a casa en la noche, me puse a trabajar en lo que nos pidió el profesor Don Carlos Mike.
+Estuve investigando y organizando todo lo relacionado con Markdown: qué es, para qué sirve, cómo se usa y sus reglas.
 
-* Estuve investigando y organizando todo lo relacionado con Markdown: qué es, para qué sirve, cómo se usa y sus reglas.
+Preparé toda la información necesaria para la nueva aplicación o trabajo que solicitó, usando Markdown como herrienta de organización y formato del contenido.
 
-* Preparé toda la información necesaria para la nueva aplicación o trabajo que solicitó, usando Markdown como herramienta de organización y formato del contenido.
+Revisé bien los puntos para que todo quedara claro y completo, tal como lo pidió.
 
-* Revisé bien los puntos para que todo quedara claro y completo, tal como lo pidió.
+## 2 de septiembre de 2026
 
+ ### 8:00 a 12:30
 
+- Actividad 2 :
 
-## Fecha: 02 de septiembre de 2026
+Comencé a organizar y componer el archivo principal del proyecto.
 
-# Horario: 8:00 a.m. a 12:30 p.m.
+Estructuré el contenido usando viñetas para que todo quedara claro y ordenado por temas.
 
-**Actividades realizadas:**
+Organicé y agregué la información de cada uno de los temas: Blazor, C#, arquitectura Cliente-Servidor, diagnóstico de computadoras, Git, Inteligencia Artificial, Markdown y MAUI.
 
-* Comencé a organizar y componer el archivo principal del proyecto.
+Aseguré que el archivo quedara adecuadente estructurado para facilitar el trabajo.
 
-* Estructuré el contenido usando viñetas para que todo quedara claro y ordenado por temas.
+###  12:30 a 5:00
 
-* Organicé y agregué la información de cada uno de los temas: Blazor, C#, arquitectura Cliente-Servidor, diagnóstico de computadoras, Git, Inteligencia Artificial, Markdown y MAUI.
+- Actividad 3 :
 
-* Aseguré que el archivo quedara adecuadamente estructurado para facilitar el trabajo.
+Agregué más texto y detalle a cada sección para que la información quedara completa y bien explicada.
 
-## Horario: 12:30 p.m. a 5:00 p.m.
+El cuestionario todavía no se ha elaborado; lo terminaré de hacer en la noche.
 
-**Actividades realizadas:**
+### 9:00 a 12:30
 
-* Agregué más texto y detalle a cada sección para que la información quedara completa y bien explicada.
+Elaboré y redacté las respuestas del cuestionario sobre Blazor, explicando cada concepto con palabras sencillas y ejemplos prácticos.
 
-* El cuestionario todavía no se ha elaborado; lo terminaré de hacer en la noche.
+Continué con el cuestionario de C#, cubriendo desde los conocimientos básicos hasta la progración orientada a objetos.
 
-  
-## Horario: por la noche 9:00 a.m. a 12:30 p.m.
+Trabajé en el cuestionario de Arquitectura Cliente-Servidor, detallando cómo se comunican los sistemas, los protocolos y sus componentes.
 
- Actividades realizadas:
+Finalicé con el cuestionario de Git y GitHub, organizando los comandos, flujos de trabajo y formas de colaborar en equipo.
 
-* Elaboré y redacté las respuestas del cuestionario sobre Blazor, explicando cada concepto con palabras sencillas y ejemplos prácticos.
+Estructuré todo el contenido de forma clara y ordenada, asegurándome de que cada respuesta se entendiera bien y reflejara lo aprendido.
 
-* Continué con el cuestionario de C#, cubriendo desde los conocimientos básicos hasta la programación orientada a objetos.
+## septiembre de 2026
 
-* Trabajé en el cuestionario de Arquitectura Cliente-Servidor, detallando cómo se comunican los sistemas, los protocolos y sus componentes.
+### Hora de llegada: 10:00
 
-* Finalicé con el cuestionario de Git y GitHub, organizando los comandos, flujos de trabajo y formas de colaborar en equipo.
+El día de hoy llegué a las 10:00, ya que antes de venir tuve que hacer un depósito y eso me tomó más tiempo del que esperaba. Para no quedarme atrás con mis tareas, me comprometo a recuperar el tiempo trabajando un poco más al terminar la jornada o desde mi casa, y así cumplir con todo lo que me corresponde
 
-* Estructuré todo el contenido de forma clara y ordenada, asegurándome de que cada respuesta se entendiera bien y reflejara lo aprendido.
+### 10:00 — 12:30
 
+Me dediqué a organizar y completar los temas que tenía pendientes de sesiones anteriores. Revisé cuáles eran los puntos que me faltaban y los fui trabajando uno por uno para tener todo al día y bien ordenado sobre los cusestionarios.m#-* ♥
 
-# Fecha: 03 de septiembre de 2026
+### 1:30 — 5:00
 
-## Hora de llegada: 10:00 a.m.
+En este horario estoy trabajando en lo que te falto .Estoy revisando cada pregunta y respondiendo las encuestas y cuestionarios uno por uno, asegurándome de que cada respuesta quede clara y con mis propias palabras. tbien tuvimos una reunion sobre que es la inteligencia artifical
 
-El día de hoy llegué a las 10:00 a.m., ya que antes de venir tuve que hacer un depósito y eso me tomó más tiempo del que esperaba. Para no quedarme atrás con mis tareas, me comprometo a recuperar el tiempo trabajando un poco más al terminar la jornada o desde mi casa, y así cumplir con todo lo que me corresponde
+## 4 de septiembre 
 
-## 10:00 a.m. — 12:30 p.m.
-Me dediqué a organizar y completar los temas que tenía pendientes de sesiones anteriores. Revisé cuáles eran los puntos que me faltaban y los fui trabajando uno por uno para tener todo al día y bien ordenado  sobre los cusestionarios.m#-*  ♥
+- Actividad 2 : Ensayo y exposición de temas
 
-## 1:30 p.m. — 5:00 p.m.
-En este horario estoy trabajando en lo que te falto .Estoy revisando cada pregunta y respondiendo las encuestas y cuestionarios uno por uno, asegurándome de que cada respuesta quede clara y con mis propias palabras. tambien tuvimos una reunion sobre que es la inteligencia artifical 
+Durante la jornada nos dedicos a repasar y ensayar todos los temas que teníos progrados para exponer. Revisos cada punto, organizos las ideas y practicos la forma de presentar la información con claridad y orden. Al finalizar, realizos la exposición ante el grupo, compartiendo lo que habíos preparado y respondiendo las dudas que surgieron. Fue un día de mucho aprendizaje y práctica, y nos ayudó a sentirnos más seguros al momento de hablar frente a los demás.
 
+## 6 de septiembre
 
+-Acctividad 3
+### 8:00 – 12:45
 
+En este período me dediqué a trabajar en el tema de SQLite y bases de datos. Estudié y practiqué los conceptos fundentales de las bases de datos, su estructura y el manejo de SQLite. Revisé cómo crear, consultar y administrar bases de datos, así como las operaciones básicas que se pueden realizar con este sistema. Avancé en la comprensión de cómo organizar y almacenar información de manera ordenada y eficiente.
 
-# Fecha: 4 de septiembre
-Actividad: Ensayo y exposición de temas
+## 7 de septiembre de 2026
 
-Durante la jornada nos dedicamos a repasar y ensayar todos los temas que teníamos programados para exponer. Revisamos cada punto, organizamos las ideas y practicamos la forma de presentar la información con claridad y orden. Al finalizar, realizamos la exposición ante el grupo, compartiendo lo que habíamos preparado y respondiendo las dudas que surgieron. Fue un día de mucho aprendizaje y práctica, y nos ayudó a sentirnos más seguros al momento de hablar frente a los demás.
+### llegada 10:00
 
+El día de hoy llegué a las 10:00, ya que tuve un inconveniente en el cino: estaban construyendo unas carreteras y detuvieron el bus por ese motivo. Para compensar el tiempo que me faltó, me comprometo a recuperar las horas trabajando desde mi casa al llegar, de manera que no se atrase nada de lo que tengo que hacer.
 
+###  2:00 a 5:00 
 
-# Fecha: 6 de septiembre
-Horario: 8:00 a.m. – 12:45 p.m.
+Continué organizando el trabajo estructurando los módulos en los que se dividirá la aplicación: configuración de organizaciones y grupos, registro de integrantes, manejo de categorías, progración de actividades, marcado de asistencia y generación de reportes con filtro por fechas.
 
-En este período me dediqué a trabajar en el tema de SQLite y bases de datos. Estudié y practiqué los conceptos fundamentales de las bases de datos, su estructura y el manejo de SQLite. Revisé cómo crear, consultar y administrar bases de datos, así como las operaciones básicas que se pueden realizar con este sistema. Avancé en la comprensión de cómo organizar y almacenar información de manera ordenada y eficiente.
+Tbién definí las consultas que se van a usar parostrar la información: quién asistió a cada actividad, cuántas veces asistió cada persona por categoría, el total de asistencias por integrante y la cantidad de asistentes agrupados por categoría.
 
-
-
-
-## Fecha: 7 septiembre
-
-Hora de llegada: 10:00 a.m.
-
-El día de hoy llegué a las 10:00 a.m., ya que tuve un inconveniente en el camino: estaban construyendo unas carreteras y detuvieron el bus por ese motivo. Para compensar el tiempo que me faltó, me comprometo a recuperar las horas trabajando desde mi casa al llegar, de manera que no se atrase nada de lo que tengo que hacer.
-
-## Horario: de 2:00 a 5:00 horas
-
-Continué organizando el trabajo estructurando los módulos en los que se dividirá la aplicación: configuración de organizaciones y grupos, registro de integrantes, manejo de categorías, programación de actividades, marcado de asistencia y generación de reportes con filtro por fechas.
-
-También definí las consultas que se van a usar para mostrar la información: quién asistió a cada actividad, cuántas veces asistió cada persona por categoría, el total de asistencias por integrante y la cantidad de asistentes agrupados por categoría.
-
-Después ordené los pasos que se van a seguir para desarrollar el proyecto: desde crear el archivo de la base de datos y configurar el proyecto en Visual Studio, hasta probar que todo funcione bien antes de entregar el trabajo. Revisé también las definiciones de conceptos clave como qué es Visual Studio y para qué sirve, para tener claros los fundamentos del proyecto.
+Después ordené los pasos que se van a seguir para desarrollar el proyecto: desde crear el archivo de la base de datos y configurar el proyecto en Visual Studio, hasta probar que todo funcione bien antes de entregar el trabajo. Revisé tbién las definiciones de conceptos clave como qué es Visual Studio y para qué sirve, para tener claros los fundentos del proyecto.
 
 Al final del día, revisé todo lo avanzado para asegurar que la información esté completa, ordenada y lista para continuar con la siguiente etapa.
 
-## Horario: de 9:00 a 12:45 horas
+###9:00 a 12:45 
 
-Noche
+Comencé a trabajar .Lo primero que hice fue descargar el instalador de Visual Studio desde el sitio oficial de Microsoft. Una vez descargado, ejecuté el progra y seguí los pasos de instalación: acepté los términos de licencia y seleccioné las cargas de trabajo necesarias para desarrollar en C# y .NET MAUI, que son las herrientas que se van a utilizar para la aplicación de control de asistenciientras se completaba la instalación, me dediqué a investigar qué es Visual Studio y para qué sirve. Aprendí que es un entorno de desarrollo integrado que reúne todo lo necesario para escribir, probar y publicar progras desde un solo lugar. Tbién investigué qué lenguajes de progración soporta y la diferencia entre Visual Studio y Visual Studio Code, para tener claro cuál es la herrienta adecuada para este proyecto.
 
-Comencé a trabajar .Lo primero que hice fue descargar el instalador de Visual Studio desde el sitio oficial de Microsoft. Una vez descargado, ejecuté el programa y seguí los pasos de instalación: acepté los términos de licencia y seleccioné las cargas de trabajo necesarias para desarrollar en C# y .NET MAUI, que son las herramientas que se van a utilizar para la aplicación de control de asistencia.
+Cuando terminó la instalación, abrí el progra para verificar que se hubiera instalado correctente y quedé listo para empezar a crear el proyecto en la siguiente sesión.
 
-Mientras se completaba la instalación, me dediqué a investigar qué es Visual Studio y para qué sirve. Aprendí que es un entorno de desarrollo integrado que reúne todo lo necesario para escribir, probar y publicar programas desde un solo lugar. También investigué qué lenguajes de programación soporta y la diferencia entre Visual Studio y Visual Studio Code, para tener claro cuál es la herramienta adecuada para este proyecto.
+## 8 de septiembre de 2026
 
-Cuando terminó la instalación, abrí el programa para verificar que se hubiera instalado correctamente y quedé listo para empezar a crear el proyecto en la siguiente sesión. 
+Proyecto: Aplicación de Control de Asistencia para Gupos
 
+###  8:00 a 12:30 
 
+Comencé a realizando el mantenimiento y arreglo de una computadora. Revisé su funcioniento general y procedí a desinstalar todas aquellas aplicaciones que ya no funcionaban correctente o que no se utilizaban, para liberar espacio en el disco y mejorar el rendimiento del equipo.
 
-# Diario de Trabajo
+Después me dediqué a la instalación de Visual Studio. Descargué el instalador desde el sitio oficial, ejecuté el progra y seleccioné los componentes necesarios para el desarrollo en C# y .NET MAUI, que es lo que se va a utilizar para la aplicación de control de asistenciientras se completaba la instalación, revisé los requisitos del sistema y verifiqué que el equipo cumpliera con todo lo necesario.
 
-#Fecha: 8 de septiembre
+###  1:30 a 5:00 
 
-#### Proyecto: Aplicación de Control de Asistencia para Gupos
-
-#### Horario: de 8:00 a 12:30 horas
-
-Comencé a realizando el mantenimiento y arreglo de una computadora. Revisé su funcionamiento general y procedí a desinstalar todas aquellas aplicaciones que ya no funcionaban correctamente o que no se utilizaban, para liberar espacio en el disco y mejorar el rendimiento del equipo.
-
-Después me dediqué a la instalación de Visual Studio. Descargué el instalador desde el sitio oficial, ejecuté el programa y seleccioné los componentes necesarios para el desarrollo en C# y .NET MAUI, que es lo que se va a utilizar para la aplicación de control de asistencia. Mientras se completaba la instalación, revisé los requisitos del sistema y verifiqué que el equipo cumpliera con todo lo necesario.
-
-
-## Horario: de 1:30 a 5:00 horas
-
-Retomé el trabajo  Primero verifiqué que Visual Studio se hubiera instalado correctamente y abrí el programa para confirmar que todos los componentes seleccionados estuvieran disponibles.
+Retomé el trabajo Primero verifiqué que Visual Studio se hubiera instalado correctente y abrí el progra para confirmar que todos los componentes seleccionados estuvieran disponibles.
 
 Continué con la organización del proyecto, definiendo los módulos en los que se dividirá la aplicación: configuración de organizaciones y grupos, gestión de integrantes, manejo de categorías, registro de actividades, marcado de asistencia y generación de reportes con filtro por rango de fechas.
 
-
 Después, basándome en lo que ya había avanzado mi compañera Daniela, continué organizando los módulos de la aplicación: configuración de organizaciones y grupos, gestión de integrantes, manejo de categorías, registro de actividades, marcado de asistencia y generación de reportes con filtro por rango de fechas.
- 
 
-***Diario de trabajo — 9 de septiembre***
+### 8:00 – 1:40
 
-## Horario: 8:00 a.m. – 1:40 p.m.
+De 8:00 en adelante: Revisé lo que estaba trabajando Daniela y arreglé algunas cosas que me faltaban en el documento.
 
-* De 8:00 a.m. en adelante: Revisé lo que estaba trabajando Daniela y arreglé algunas cosas que me faltaban en el documento.
+Probé una computadora para ver si encendía, pero no arrancó.
 
-* Probé una computadora para ver si encendía, pero no arrancó.
+Después estuve con Daniela viendo detalles sobre la aplicación que vos a crear.
 
-* Después estuve con Daniela viendo detalles sobre la aplicación que vamos a crear.
+Luego me fui con Don Carlos a revisar y traer unas computadoras e impresoras. Al llegar, apunté las características de cada impresora.
 
-* Luego me fui con Don Carlos a revisar y traer unas computadoras e impresoras. Al llegar, apunté las características de cada impresora.
+Las llevos a un lugar para ver si tenían arreglo.
 
-* Las llevamos a un lugar para ver si tenían arreglo.
+En el cino de regreso me llaron del trabajo para tratar información importante, por lo que me retiré a la 1:40 para atender ese asunto.
 
-* En el camino de regreso me llamaron del trabajo para tratar información importante, por lo que me retiré a la 1:40 p.m. para atender ese asunto.
+## 10 de septiembre
 
+###  8:00 – 2:30
 
- ## Diario de trabajo — 10 de septiembre de 2026
+Al iniciar la jornada a las 8:00, me dediqué a organizar y elaborar el listado de organizaciones no gubernentales (ONG) que operan en Guatemala. Recopilé los nombres de cada institución, su correo electrónico y su área de trabajo, verificando que la información fuera correcta y completa. Después de avanzar con esta tarea, nos preparos para salir a realizar la entrega de las impresoras que habíos recogido el día anterior. Nos traslados al lugar correspondiente, hicimos la entrega de cada equipo y confirmos que todo estuviera en orden y completo. Al terminar, regresos.
 
-## Horario: 8:00 a.m. – 2:30 p.m.
+###  3:00 – 5:00
 
-Al iniciar la jornada a las 8:00 a.m., me dediqué a organizar y elaborar el listado de organizaciones no gubernamentales (ONG) que operan en Guatemala. Recopilé los nombres de cada institución, su correo electrónico y su área de trabajo, verificando que la información fuera correcta y completa. Después de avanzar con esta tarea, nos preparamos para salir a realizar la entrega de las impresoras que habíamos recogido el día anterior. Nos trasladamos al lugar correspondiente, hicimos la entrega de cada equipo y confirmamos que todo estuviera en orden y completo. Al terminar, regresamos.
+Al reiniciar las actividades a las 3:00, retomé la elaboración del listado de ONG. Continué investigando y agregando nuevas organizaciones que no estaban en la lista anterior, asegurándome de que no se repitieran y de que la información de contacto estuviera actualizada. Organicé los datos de manera ordenada para facilitar su consulta y uso posterior. Seguí trabajando en esto hasta finalizar mi horario.
 
-## Horario: 3:00 p.m. – 5:00 p.m.
+###  9:00 – 12:30
 
-Al reiniciar las actividades a las 3:00 p.m., retomé la elaboración del listado de ONG. Continué investigando y agregando nuevas organizaciones que no estaban en la lista anterior, asegurándome de que no se repitieran y de que la información de contacto estuviera actualizada. Organicé los datos de manera ordenada para facilitar su consulta y uso posterior. Seguí trabajando en esto hasta finalizar mi horario.
+Comencé a trabajar a las 9:00 de la noche, continuando con la elaboración ypliación del listado de organizaciones no gubernentales (ONG) de Guatemala. Como aún faltaban organizaciones por agregar, me dediqué a buscar y recopilar información de nuevas instituciones que no aparecían en los listados anteriores, verificando que no se repitieran y que los datos de contacto estuvieran correctos.
 
+Durante este tiempo, investigué cada organización, anoté su nombre completo, su área de trabajo y su correo electrónico, asegurándome de que la información fuera clara y ordenada. Seguí agregando más organizaciones hasta las 12:30 de ladrugada, completando así una sección más del listado.
 
-## Horario: 9:00 p.m. – 12:30 a.m.
+## 11 de septiembre 
 
-Comencé a trabajar a las 9:00 de la noche, continuando con la elaboración y ampliación del listado de organizaciones no gubernamentales (ONG) de Guatemala. Como aún faltaban organizaciones por agregar, me dediqué a buscar y recopilar información de nuevas instituciones que no aparecían en los listados anteriores, verificando que no se repitieran y que los datos de contacto estuvieran correctos.
+### 8:00 – 11:30
 
-Durante este tiempo, investigué cada organización, anoté su nombre completo, su área de trabajo y su correo electrónico, asegurándome de que la información fuera clara y ordenada. Seguí agregando más organizaciones hasta las 12:30 de la madrugada, completando así una sección más del listado.
-  
-  
-# Fecha: 11 de septiembre de 2026
+Me dediqué a elaborar los listados de organizaciones de Guatemale retiré antes de la hora porque sentí un dolor fuerte en la pierna , así que fui al centro de salud para que me revisaran.
 
-# 8:00 a.m. – 11:30 a.m.
-Me dediqué a elaborar los listados de organizaciones de Guatemala. Me retiré antes de la hora porque sentí un dolor fuerte en la pierna , así que fui al centro de salud para que me revisaran.
+### 5:00 – 9:30
 
-# 5:00 p.m. – 9:30 p.m.
 En la noche retomé el trabajo y seguí buscando y completando los listados que me faltaban, agregando más organizaciones con su información correspondiente.
 
+## 14 de septiembre de 2026
 
+Llegué un poco tarde hoy. Me retrasé porque tenía que estar en la casa para recibir mis cosas de alimentación e higiene que me vinieron a entregar, y no podía salir sin recibirlas.
 
+### 8:00 – 12:30
 
-# Fecha: 14 de septiembre de 2026
-
-
-# Entrada
- Llegué un poco tarde hoy. Me retrasé porque tenía que estar en la casa para recibir mis cosas de alimentación e higiene que me vinieron a entregar, y no podía salir sin recibirlas.
-
- ## 8:00 a.m. – 12:30 p.m.
 Me dediqué a organizar y elaborar los listados de organizaciones de Guatemala. Busqué y verifiqué los correos electrónicos de cada una, asegurándome de que estuvieran vigentes y bien escritos.
 
-## 2:30 p.m. – 4:30 p.m.
+### 2:30 – 4:30
+
 Continué buscando más organizaciones y sus datos de contacto. Después inicié el envío de los promocionales a los correos recopilados. Hasta el momento envié 10 promocionales.
 
 Notas:
 
-* Mañana y pasado mañana desarrollaré los documentos adicionales que me indiquen.
+Mañana y pasado mañana desarrollaré los documentos adicionales que me indiquen.
 
-* Seguiré completando la información y los envíos pendientes.
+Seguiré completando la información y los envíos pendientes.
 
+15 de septiembre de 2026
 
-# Fecha: 15 de septiembre de 2026
 Actividad: Organización y redacción del documento de plan de documentación
 
+## 17 de septiembre de 2026
 
-# Fecha: 17 de septiembre de 2026
-Actividad: Envío de información y promocionales a organizaciones
+Envío de información y promocionales a organizaciones
 
-De 8:00 a.m. a 12:40 p.m.
-Me puse a trabajar en la lista de organizaciones. Fui pegando cada correo electrónico, asegurándome de que quedaran bien escritos y completos. Después agregué las imágenes correspondientes y comencé a enviar la información y los mensajes promocionales a cada uno. Revisé que todo se viera bien antes de mandarlo y fui avanzando uno por uno con cuidado.
+De 8:00 a 12:40 Me puse a trabajar en la lista de organizaciones. Fui pegando cada correo electrónico, asegurándome de que quedaran bien escritos y completos. Después agregué las imágenes correspondientes y comencé a enviar la información y los mensajes promocionales a cada uno. Revisé que todo se viera bien antes de mandarlo y fui avanzando uno por uno con cuidado.
 
-De 1:40 p.m. a 5:00 p.m.
-Seguí con lo mismo: pegué los correos que faltaban, verifiqué que estuvieran correctos, agregué las imágenes y terminé de enviar todos los promocionales. Me aseguré de que no se me quedara ninguno sin enviar y que todo quedara bien enviado.
-  
+De 1:40 a 5:00 Seguí con lo mismo: pegué los correos que faltaban, verifiqué que estuvieran correctos, agregué las imágenes y terminé de enviar todos los promocionales. Me aseguré de que no se me quedara ninguno sin enviar y que todo quedara bien enviado.
 
-# Fecha: 18 de septiembre de 2026
+## 18 de septiembre de 2026
 
-Diario de trabajo
+ El día de hoy no asistí al lugar de prácticas por un motivo especial: se realizó una toma fotográfica oficial y tbién participos en un taller progrado para todo el grupo.bas actividades son parte de nuestras actividades formativas, por lo que se cumplió con la jornada de trabajo y asistencia. La toma de fotografías se llevó a cabo en lañana y el taller se desarrolló durante el resto de la jornada, donde aprendimos temas importantes relacionados con nuestra formación. Quedo atenta para retomar mis tareas habituales en el siguiente día.
 
-Actividad del día
-El día de hoy no asistí al lugar de prácticas por un motivo especial: se realizó una toma fotográfica oficial y también participamos en un taller programado para todo el grupo. Ambas actividades son parte de nuestras actividades formativas, por lo que se cumplió con la jornada de trabajo y asistencia. La toma de fotografías se llevó a cabo en la mañana y el taller se desarrolló durante el resto de la jornada, donde aprendimos temas importantes relacionados con nuestra formación. Quedo atenta para retomar mis tareas habituales en el siguiente día.
+## 19 de septiembre de 2026
 
+### 10:00 a 2:30
+Inicié mi jornada a las 10 de lañane puse a analizar y reflexionar sobre un temuy importante: si la inteligencia artificial puede reemplazar mi trabajo de enviar correos promocionales a las ONG. En este tiempo identifiqué todo lo que la IA ya puede hacer por sí sola: buscar y organizar contactos, redactar borradores, enviar mensajes en gran cantidad, personalizar datos básicos y clasificar respuestas. Comprendí que toda la parte mecánica y repetitiva la hace más rápido que cualquier persona, y que si solo me dedico a eso, sí estaría en riesgo.
 
- # Fecha: 19 de septiembre de 2026
+ ### 3:30 a 9:00 
+Retomé el trabajo a las 3:30 de la tarde. Seguí investigando todo lo que la IA no puede hacer: conocer de verdad a cada organización, escribir con tono humano y cercano, leer entre líneas lo que las personas quieren decir, tomar decisiones con criterio y construir confianza. Tbién definí cómo puedo prepararme: dejar de hacer solo lo mecánico, usar la IA como mi herrienta y no como mi reemplazo, y aprender más cada día parejorar en lo que de verdad importa. Terminé organizando todo en un documento claro y completo, con resumen y tabla, para tenerlo siempre a lano.
 
-
-De 10:00 a. m. a 2:30 p. m.
-Inicié mi jornada a las 10 de la mañana. Me puse a analizar y reflexionar sobre un tema muy importante: si la inteligencia artificial puede reemplazar mi trabajo de enviar correos promocionales a las ONG. En este tiempo identifiqué todo lo que la IA ya puede hacer por sí sola: buscar y organizar contactos, redactar borradores, enviar mensajes en gran cantidad, personalizar datos básicos y clasificar respuestas. Comprendí que toda la parte mecánica y repetitiva la hace más rápido que cualquier persona, y que si solo me dedico a eso, sí estaría en riesgo.
-
-De 3:30 p. m. a 9:00 p. m.
-Retomé el trabajo a las 3:30 de la tarde. Seguí investigando todo lo que la IA no puede hacer: conocer de verdad a cada organización, escribir con tono humano y cercano, leer entre líneas lo que las personas quieren decir, tomar decisiones con criterio y construir confianza. También definí cómo puedo prepararme: dejar de hacer solo lo mecánico, usar la IA como mi herramienta y no como mi reemplazo, y aprender más cada día para mejorar en lo que de verdad importa. Terminé organizando todo en un documento claro y completo, con resumen y tabla, para tenerlo siempre a la mano.
+## 21 de septiembre 
 
 
-Fecha: 21 de septiembre de 2026
+### 8:00 a 4:00
+Durante la jornada de hoy me dediqué a continuar con las tareas que he venido realizando: organizar los listados de ONG, copiar la información, personalizar cadensaje y enviar los correos correspondientes. Me aseguré de que cada uno estuviera bien dirigido y con los datos correctos, revisando que no faltara nada antes de enviarlo. Estuve trabajando en esto todo el tiempo hasta que terminé a las 4 de la tarde.
 
-Diario de trabajo
+Al finalizar me retiré para atender un asunto muy importante relacionado con mi documentación para el apoyo de padrinazgo. Fui a verificar y confirmar todo lo necesario para que el trámite avance bien, ya que es algo fundental parí y para poder seguir adelante con mis estudios y mi preparación. Quedo atenta para retomar mis tareas habituales en cuanto regrese.
 
-De 8:00 a. m. a 4:00 p. m.
-Durante la jornada de hoy me dediqué a continuar con las tareas que he venido realizando: organizar los listados de ONG, copiar la información, personalizar cada mensaje y enviar los correos correspondientes. Me aseguré de que cada uno estuviera bien dirigido y con los datos correctos, revisando que no faltara nada antes de enviarlo. Estuve trabajando en esto todo el tiempo hasta que terminé a las 4 de la tarde.
+22 de septiembre de 2026
 
-Al finalizar me retiré para atender un asunto muy importante relacionado con mi documentación para el apoyo de padrinazgo. Fui a verificar y confirmar todo lo necesario para que el trámite avance bien, ya que es algo fundamental para mí y para poder seguir adelante con mis estudios y mi preparación. Quedo atenta para retomar mis tareas habituales en cuanto regrese.
+###  6:07 a 11:30
 
+Inicié mi jornada a las 6:07 de lañane dediqué a leer y analizar el tema sobre Inteligencia Artificial, revisando con atención cada parte para identificar la información que realmente me sirve y se ajusta a lo que estoy realizando. Fui avanzando poco a poco, leyendo, comparando y seleccionando lo que me conviene, descartando lo que no aplica y profundizando en lo que es importante pari trabajo.
 
+Estuve trabajando en esto durante todo el tiempo, avanzando hasta que finalicé a las 11:30 de lañana. Para ese momento ya tenía claro todo lo necesario: qué puede hacer la IA, qué no puede hacer y cómo prepararme para aprovecharla sin quedar vulnerable. Quedo lista para continuar con lo siguiente
 
-# Fecha: 21 de septiembre de 2026
+## 23 de septiembre 
 
-Diario de trabajo
+### 8:00 a 12:43
 
-De las 6:07 p.m. a las 11:30 p.m
+Empecé a las 8:00 de lañana. Entré al documento llado "más nombre de ONG completD", donde estaba el listado de organizaciones. Fui copiando cada nombre, lo pegué en Facebook, busqué su página oficial y de ahí saqué el correo electrónico uno por uno, verificando que todo estuviera correcto.
 
-Inicié mi jornada a las 6:07 de la mañana. Me dediqué a leer y analizar el tema sobre Inteligencia Artificial, revisando con atención cada parte para identificar la información que realmente me sirve y se ajusta a lo que estoy realizando. Fui avanzando poco a poco, leyendo, comparando y seleccionando lo que me conviene, descartando lo que no aplica y profundizando en lo que es importante para mi trabajo.
+Tbién en lañana estuve trabajando junto con mi compañera Daniela en lo del plan de desarrollo de la aplicación. Estuvimos viendo cómo lo vos a estructurar, compartimos ideas, platicos sobre cómo explicar todo el proceso, cómo se hizo la aplicación y cada paso que llevos. Pusimos en común lo que cada una pensaba para que el plan quede bien hecho y claro. Seguí avanzando con todo esto hasta las 12:43
 
-Estuve trabajando en esto durante todo el tiempo, avanzando hasta que finalicé a las 11:30 de la mañana. Para ese momento ya tenía claro todo lo necesario: qué puede hacer la IA, qué no puede hacer y cómo prepararme para aprovecharla sin quedar vulnerable. Quedo lista para continuar con lo siguiente
+### 1:30 a 5:00
 
+Regresé a la 1:30 y continué recolectando los correos de las organizaciones de lismanera. Terminé esa parte a las 3:20 Después seguí trabajando en el plan de la aplicación, organizando todo lo que platicos y acordos con Daniela. A partir de las 3:47 seguí avanzando con lo que faltaba de la recopilación y del plan, y finalicé mi jornada a las 5:00
 
-# Fecha: 23 de septiembre de 2026
+### 6:49 a 11:40
 
-## De 8:00 a. m. a 12:43 p. m.
-Empecé a las 8:00 de la mañana. Entré al documento llamado "más nombre de ONG completa MD", donde estaba el listado de organizaciones. Fui copiando cada nombre, lo pegué en Facebook, busqué su página oficial y de ahí saqué el correo electrónico uno por uno, verificando que todo estuviera correcto.
+Inicié a las 6:49 de la tarde investigando y redactando sobre los agentes de inteligencia artificial. Me enfoqué en explicar para qué sirven, cómo se construyen y cómo se utilizan, tomando como referencii propia tarea diaria: buscar los nombres de las organizaciones, pegarlos en Facebook, recolectar los correos electrónicos uno por uno y pegarlos en el formato correspondiente.
 
-También en la mañana estuve trabajando junto con mi compañera Daniela en lo del plan de desarrollo de la aplicación. Estuvimos viendo cómo lo vamos a estructurar, compartimos ideas, platicamos sobre cómo explicar todo el proceso, cómo se hizo la aplicación y cada paso que llevamos. Pusimos en común lo que cada una pensaba para que el plan quede bien hecho y claro. Seguí avanzando con todo esto hasta las 12:43 p. m.
+Describí paso a paso todo el proceso que realizo: desde abrir el documento con el listado, copiar cada nombre, buscar la página oficial, verificar el correo y anotarlo. Luego expliqué cómo un agente de IA puede hacer ese mismo trabajo de forma automática, siguiendo los mismos pasos pero más rápido. Tbién escribí cómo yo me encargo de supervisar, revisar que todo esté correcto y asegurar que la información quede bien antes de entregarla.
 
-## De 1:30 p. m. a 5:00 p. m.
-Regresé a la 1:30 p. m. y continué recolectando los correos de las organizaciones de la misma manera. Terminé esa parte a las 3:20 p. m. Después seguí trabajando en el plan de la aplicación, organizando todo lo que platicamos y acordamos con Daniela. A partir de las 3:47 p. m. seguí avanzando con lo que faltaba de la recopilación y del plan, y finalicé mi jornada a las 5:00 p.m
+Avancé organizando todo en secciones claras: qué es, para qué sirve, cómo se hace y cómo me ayudaí sin dejar de ser yo quien controla el trabajo. Fui completando la información poco a poco, agregando ejemplos reales de lo que hago todos los días. Terminé de redactar y organizar todo a las 11:40 de la noche.
 
+## 24 de septiembre 
 
-## 6:49 p. m. a 11:40 p. m.
-Inicié a las 6:49 de la tarde investigando y redactando sobre los agentes de inteligencia artificial. Me enfoqué en explicar para qué sirven, cómo se construyen y cómo se utilizan, tomando como referencia mi propia tarea diaria: buscar los nombres de las organizaciones, pegarlos en Facebook, recolectar los correos electrónicos uno por uno y pegarlos en el formato correspondiente.
+### 8:00 a 1:00
 
-Describí paso a paso todo el proceso que realizo: desde abrir el documento con el listado, copiar cada nombre, buscar la página oficial, verificar el correo y anotarlo. Luego expliqué cómo un agente de IA puede hacer ese mismo trabajo de forma automática, siguiendo los mismos pasos pero más rápido. También escribí cómo yo me encargo de supervisar, revisar que todo esté correcto y asegurar que la información quede bien antes de entregarla.
+Empecé a las 8:00 de lañana. Entré al documento con el listado de organizaciones y fui avanzando uno por uno. Copié el nombre de cada una, lo pegué en Facebook, busqué su página oficial y revisé su información para sacar el correo electrónico. Lo verifiqué que estuviera bien escrito y lo pegué en el formato correspondiente. Donde no encontré el correo lo anoté aparte para buscarlo después. Así estuve trabajando toda lañana hasta la 1:00
 
-Avancé organizando todo en secciones claras: qué es, para qué sirve, cómo se hace y cómo me ayuda a mí sin dejar de ser yo quien controla el trabajo. Fui completando la información poco a poco, agregando ejemplos reales de lo que hago todos los días. Terminé de redactar y organizar todo a las 11:40 de la noche.
+###  1:30 a 5:00
 
+Regresé a la 1:30 y continué con lisma tarea. Seguí buscando, confirmando y pegando los correos de las organizaciones que faltaban. Revisé tbién los que ya tenía recolectados antes para asegurar que todo estuviera completo y correcto. Terminé de organizar la información y dejé todo listo para lo que sigue. Finalicé mi jornada a las 5:00
 
+##25 de septiembre 
 
-# Fecha: 24 de septiembre de 2026
+### 8:00 a 12:30
 
-# De 8:00 a. m. a 1:00 p. m.
-Empecé a las 8:00 de la mañana. Entré al documento con el listado de organizaciones y fui avanzando uno por uno. Copié el nombre de cada una, lo pegué en Facebook, busqué su página oficial y revisé su información para sacar el correo electrónico. Lo verifiqué que estuviera bien escrito y lo pegué en el formato correspondiente. Donde no encontré el correo lo anoté aparte para buscarlo después. Así estuve trabajando toda la mañana hasta la 1:00 p. m.
+Empecé a las 8:00 de lañana. Entré al documento con el listado de organizaciones y fui avanzando uno por uno. Copié el nombre de cada una, lo pegué en Facebook, busqué su página oficial y revisé su información para sacar el correo electrónico. Lo verifiqué que estuviera bien escrito y lo pegué en el formato correspondiente. Donde no encontré el correo lo anoté aparte para buscarlo después. Así estuve trabajando toda lañana hasta la 1:00
 
-# De 1:30 p. m. a 5:00 p. m.
-Regresé a la 1:30 p. m. y continué con la misma tarea. Seguí buscando, confirmando y pegando los correos de las organizaciones que faltaban. Revisé también los que ya tenía recolectados antes para asegurar que todo estuviera completo y correcto. Terminé de organizar la información y dejé todo listo para lo que sigue. Finalicé mi jornada a las 5:00 p. m.
+### 1:30 a 5:00
 
+Regresé a la 1:30 y continué con lisma tarea. Seguí buscando, confirmando y pegando los correos de las organizaciones que faltaban. Revisé tbién los que ya tenía recolectados antes para asegurar que todo estuviera completo y correcto. Terminé de organizar la información y dejé todo listo para lo que sigue. Finalicé mi jornada a las 5:00
 
+## 26 de septiembre 
 
-Fecha: 25 de septiembre de 2026
+ ##♥ 6:00 a 11:30
 
-## De 8:00 a. m. a 12:30 p. m.
-Empecé a las 8:00 de la mañana. Entré al documento con el listado de organizaciones y fui avanzando uno por uno. Copié el nombre de cada una, lo pegué en Facebook, busqué su página oficial y revisé su información para sacar el correo electrónico. Lo verifiqué que estuviera bien escrito y lo pegué en el formato correspondiente. Donde no encontré el correo lo anoté aparte para buscarlo después. Así estuve trabajando toda la mañana hasta la 1:00 p. m.
+Inicié a las 6:00 de la tarde trabajando en la documentación y preparación de mi aplicación móvil. Revisé todos los componentes que utilicé para desarrollarla: el lenguaje de progración C#, el marco de trabajo .NET 10, la plataforma .NET MAUI para desarrollo móvil, el entorno Visual Studio 2026 y la base de datos SQLite. Tbién anoté el uso de herrientas de inteligencia artificial como apoyo durante todo el proceso.
 
-## De 1:30 p. m. a 5:00 p. m.
-Regresé a la 1:30 p. m. y continué con la misma tarea. Seguí buscando, confirmando y pegando los correos de las organizaciones que faltaban. Revisé también los que ya tenía recolectados antes para asegurar que todo estuviera completo y correcto. Terminé de organizar la información y dejé todo listo para lo que sigue. Finalicé mi jornada a las 5:00 p. m.
-
-# Fecha: 26 de septiembre de 2026
-
-## De 6:00 p. m. a 11:30 p. m.
-Inicié a las 6:00 de la tarde trabajando en la documentación y preparación de mi aplicación móvil. Revisé todos los componentes que utilicé para desarrollarla: el lenguaje de programación C#, el marco de trabajo .NET 10, la plataforma .NET MAUI para desarrollo móvil, el entorno Visual Studio 2026 y la base de datos SQLite. También anoté el uso de herramientas de inteligencia artificial como apoyo durante todo el proceso.
-
-Después me enfoqué en cómo hacer que la aplicación funcione también en sistemas operativos iOS. Investigué y organicé paso a paso todo lo necesario: los requisitos previos, la preparación del proyecto, la conexión con una computadora Mac, la creación de certificados, la compilación, la prueba en dispositivo y la forma de publicar la aplicación. Detallé cada paso para que quede claro y completo, incluyendo también lo que se puede hacer si no se cuenta con una Mac.
+Después me enfoqué en cómo hacer que la aplicación funcione tbién en sistemas operativos iOS. Investigué y organicé paso a paso todo lo necesario: los requisitos previos, la preparación del proyecto, la conexión con una computadorac, la creación de certificados, la compilación, la prueba en dispositivo y la forma de publicar la aplicación. Detallé cada paso para que quede claro y completo, incluyendo tbién lo que se puede hacer si no se cuenta con unac.
 
 Fui redactando todo de forma ordenada y clara, explicando cada parte del proceso. Revisé que no faltara información y que todo estuviera bien estructurado. Terminé de organizar y completar la guía a las 11:30 de la noche.
 
+## 28 de septiembre 
 
+ ## 8:00 a 10:45
 
+Empecé a las 8:00 de lañana enviando los correos y todo lo que correspondía. Terminé de mandar todo a las 10:45
 
+### 10:45 a 12:30
 
-# Fecha: 28 de septiembre de 2026
+A partir de las 10:45 me puse a trabajar en la estructura y el funcioniento de un agente de inteligencia artificial. Fui organizando cada parte, explicando qué es, para qué sirve, cómo está formado y cómo funciona todo el proceso. Avancé hasta las 12:30 del mediodía.
 
-## De 8:00 a. m. a 10:45 a. m.
-Empecé a las 8:00 de la mañana enviando los correos y todo lo que correspondía. Terminé de mandar todo a las 10:45 a. m.
+### 1:30 a terminar
 
-## De 10:45 a. m. a 12:30 p. m.
-A partir de las 10:45 me puse a trabajar en la estructura y el funcionamiento de un agente de inteligencia artificial. Fui organizando cada parte, explicando qué es, para qué sirve, cómo está formado y cómo funciona todo el proceso. Avancé hasta las 12:30 del mediodía.
-
-## De 1:30 p. m. a terminar
 Regresé a la 1:30 de la tarde y continué leyendo y desarrollando todo el tema. Lo escribí con mis propias palabras, explicando cada parte de la estructura tal cual yo lo entiendo, de forma clara y sencilla. Terminé de organizar y redactar todo el contenido.
 
+## 29 de septiembre 
 
+### 8:00 a 12:30
 
+Inicié a las 8:00 de lañana. Seguí buscando información y leyendo sobre el tema, fui seleccionando lo más importante y lo puse de forma clara. Tbién en lañana vino el profesor, platicos un ratito sobre cómo iba avanzando todo, cómo íbos con las tareas y me dio indicaciones. Continué leyendo y organizando lo más relevante hasta las 12:30
 
-# Fecha: 29 de septiembre de 2026
+### 1:30 a 5:00
 
-# De 8:00 a. m. a 12:30 p. m.
-Inicié a las 8:00 de la mañana. Seguí buscando información y leyendo sobre el tema, fui seleccionando lo más importante y lo puse de forma clara. También en la mañana vino el profesor, platicamos un ratito sobre cómo iba avanzando todo, cómo íbamos con las tareas y me dio indicaciones. Continué leyendo y organizando lo más relevante hasta las 12:30 p. m.
+Regresé a la 1:30 de la tarde. Fui a arreglar unas cosas y tbién seguí leyendo más a fondo el tema, porque entre más leía, más información importante encontraba y la fui agregando. Terminé de organizar todo y finalicé mi jornada a las 5:00
 
-# De 1:30 p. m. a 5:00 p. m.
-Regresé a la 1:30 de la tarde. Fui a arreglar unas cosas y también seguí leyendo más a fondo el tema, porque entre más leía, más información importante encontraba y la fui agregando. Terminé de organizar todo y finalicé mi jornada a las 5:00 p. m.
+## 30 septiembre 
 
+### 8:00 a 12:30
 
+Empecé a las 8:00 de mañana trabajando en el planteiento de nuestra aplicación. Estuvimos definiendo cómo va a funcionar, qué va a llevar y cómo lo vos a organizar. A las 11:30 nos pusimos con mi compañera Daniela a ver unos videos sobre las promociones que vos a lanzar, para revisar cómo se ven y qué necesitos ajustar. Seguimos avanzando con todo esto hasta las 12:30 del mediodía.
 
-# Fecha: 30 de septiembre de 2026
+ ### 1:30 a 4:00 
+ Regresé a la 1:30 de la tarde y continuos con lo mismo. Seguimos trabajando hasta terminar todo lo que teníos pendiente. Me retiré un poquito antes de las 4:00 porque tengo que prepararme pari mudanza de casa. Dejé todo organizado y listo para lo que sigue.
 
-## De 8:00 a. m. a 12:30 p. m.
-Empecé a las 8:00 de la mañana trabajando en el planteamiento de nuestra aplicación. Estuvimos definiendo cómo va a funcionar, qué va a llevar y cómo lo vamos a organizar. A las 11:30 nos pusimos con mi compañera Daniela a ver unos videos sobre las promociones que vamos a lanzar, para revisar cómo se ven y qué necesitamos ajustar. Seguimos avanzando con todo esto hasta las 12:30 del mediodía.
+## 1 octubre 
 
-De 1:30 p. m. a 4:00 p. m.
-Regresé a la 1:30 de la tarde y continuamos con lo mismo. Seguimos trabajando hasta terminar todo lo que teníamos pendiente. Me retiré un poquito antes de las 4:00 p. m. porque tengo que prepararme para mi mudanza de casa. Dejé todo organizado y listo para lo que sigue.
-
-# Fecha: 1 de octubre de 2026
-
-## Horario: 8:00 a.m. – 12:00 p.m.
+### 8:00 – 12:00
 
 Primero trabajé en la parte del video: estuve armando y editando el cierre, el texto final y todo lo que va a aparecer. Cuidé que se viera limpio, claro y bien ordenado, con las frases y el diseño que combina con la aplicación AsisGru.
 
 Después, pasé a escribir mi diario en las hojas: anoté todo lo que llevo hecho, lo que avancé con la app, las ideas que tengo y cada detalle de lo que estoy realizando. Lo fui escribiendo poco a poco para que quede completo y ordenado.
-
-
