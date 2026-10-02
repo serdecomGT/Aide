@@ -352,6 +352,8 @@ Regresé a la 1:30 de la tarde. Fui a arreglar unas cosas y también seguí leye
 ## De 8:00 a. m. a 12:30 p. m.
 Empecé a las 8:00 de la mañana trabajando en el planteamiento de nuestra aplicación. Estuvimos definiendo cómo va a funcionar, qué va a llevar y cómo lo vamos a organizar. A las 11:30 nos pusimos con mi compañera Daniela a ver unos videos sobre las promociones que vamos a lanzar, para revisar cómo se ven y qué necesitamos ajustar. Seguimos avanzando con todo esto hasta las 12:30 del mediodía.
 
+De 1:30 p. m. a 4:00 p. m.
+Regresé a la 1:30 de la tarde y continuamos con lo mismo. Seguimos trabajando hasta terminar todo lo que teníamos pendiente. Me retiré un poquito antes de las 4:00 p. m. porque tengo que prepararme para mi mudanza de casa. Dejé todo organizado y listo para lo que sigue.
 
 # Fecha: 1 de octubre de 2026
 
@@ -361,5 +363,4 @@ Primero trabajé en la parte del video: estuve armando y editando el cierre, el 
 
 Después, pasé a escribir mi diario en las hojas: anoté todo lo que llevo hecho, lo que avancé con la app, las ideas que tengo y cada detalle de lo que estoy realizando. Lo fui escribiendo poco a poco para que quede completo y ordenado.
 
-## De 1:30 p. m. a 4:00 p. m.
-Regresé a la 1:30 de la tarde y continuamos con lo mismo. Seguimos trabajando hasta terminar todo lo que teníamos pendiente. Me retiré un poquito antes de las 4:00 p. m. porque tengo que prepararme para mi mudanza de casa. Dejé todo organizado y listo para lo que sigue.
+
