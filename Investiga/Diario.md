@@ -9,11 +9,16 @@
 ### 8:00 – 12:30
 Reunión de apertura y asignación: La jornada comenzó con una charla de Don Carlos, quien nos explicó detalladente letodología de trabajo que íbos a implementar. Acto seguido, nos asignó la tarea de investigar a fondo ciertos temas clave que abordaremos más adelante en el proyecto.Investigación en equipo: Inmediatente después de la reunión, mi compañera Daniela López y yo nos pusimos a trabajar juntos. Investigos y desarrollos de forma exhaustiva cada uno de los temas planteados, logrando culminar con éxito toda la documentación requerida antes del mediodía.Estudio técnico inicial: Dediqué una parte de lañana a reforzar conceptos fundentales de redes y desarrollo de software:Modelo Cliente-Servidor: Repasé la arquitectura técnica y los protocolos que permiten la comunicación directa entre las aplicaciones y los servidores en internet.Inteligencia Artificial: Analicé a fondo el panora actual de la IA, evaluando de forma crítica sus principales pros y contras en la sociedad moderna.
 
+Actividad 2 :
+## 1:30 – 6:00
+
 Soporte técnico y diagnóstico de hardware: A partir de la 1:30, Daniela y yo nos enfocos en el área técnica revisando tres computadoras que presentaban problemas. Tras abrirlas y exinarlas, elaboros el diagnóstico oficial de la jornada: las tres máquinas compartían fallas graves en el disco duro, el CPU y lemoria. Adicionalmente, revisos un periférico externo y determinos que la cámara no era compatible con la computadora.Práctica de desarrollo: Continué con mi capacitación práctica en herrientas de progración:Control de versiones con Git: Revisé comandos y flujos de trabajo para asegurar el código, garantizando un guardado correcto del historial sin riesgo de pérdida de datos.Desarrollo MAUI: Exploré el entorno de desarrollo multiplataforma de Microsoft para entender la creación de aplicaciones nativas desde una base de código única.Cierre del día: Finalicé la jornada organizando detalladente todo lo aprendido y documentando las actividades en este registro.
 
 Dato del día (Curiosidad Tecnológica) Hoy me dio curiosidad saber quién estaba detrás de la aplicación de inteligencia artificial "Dolla" y me llevé una gran sorpresa sobre cómo una sola letra cbia por completo el panora tecnológico:Dola AI: Si se busca el asistente inteligente diseñado para sincronizar y organizar el calendario mediante cmandos de voz en WhatsApp o Telegr, los fundadores son Robert Zheng y Haochuan G. Es increíble ver cómo la IA automatiza la agenda diaria con un simple mensaje.Doola: Por otra parte, si nos referimos a la plataforma empresarial que utiliza IA para constituir empresas legalmente en Estados Unidos y gestionar el soporte fiscal, su fundador es Arjun Mahadevan.Este hallazgo me dejó reflexionando sobre la velocidad a la que avanza la tecnología; un error de ortografía te lleva de un asistente de productividad personal a una suite avanzada de servicios corporativos internacionales.
 
  ### 9:00 a 11:30 
+ 
+ Actividad 3 :
  
 Al llegar a casa en la noche, me puse a trabajar en lo que nos pidió el profesor Don Carlos Mike.
 
@@ -24,11 +29,11 @@ Preparé toda la información necesaria para la nueva aplicación o trabajo que 
 Revisé bien los puntos para que todo quedara claro y completo, tal como lo pidió.
 
 
-## 2 de septiembre de 2026
+## 2 de septiembre 
 
  ### 8:00 a 12:30
 
-- Actividad 2 :
+- Actividad 1 :
 
 Comencé a organizar y componer el archivo principal del proyecto.
 
@@ -40,13 +45,14 @@ Aseguré que el archivo quedara adecuadente estructurado para facilitar el traba
 
 ###  12:30 a 5:00
 
-- Actividad 3 :
+- Actividad 2 :
 
 Agregué más texto y detalle a cada sección para que la información quedara completa y bien explicada.
 
 El cuestionario todavía no se ha elaborado; lo terminaré de hacer en la noche.
 
 ### 9:00 a 12:30
+
 
 Elaboré y redacté las respuestas del cuestionario sobre Blazor, explicando cada concepto con palabras sencillas y ejemplos prácticos.
 
