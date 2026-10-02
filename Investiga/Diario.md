@@ -361,3 +361,15 @@ Empecé a las 8:00 de mañana trabajando en el planteiento de nuestra aplicació
 Primero trabajé en la parte del video: estuve armando y editando el cierre, el texto final y todo lo que va a aparecer. Cuidé que se viera limpio, claro y bien ordenado, con las frases y el diseño que combina con la aplicación AsisGru.
 
 Después, pasé a escribir mi diario en las hojas: anoté todo lo que llevo hecho, lo que avancé con la app, las ideas que tengo y cada detalle de lo que estoy realizando. Lo fui escribiendo poco a poco para que quede completo y ordenado.
+
+
+
+## 2 de octubre
+
+### 8:00 a 2:30
+ 
+Empecé rehaciendo los videos de promoción, trabajando en ellos con cuidado y detalle. Después le pedí ayuda a mi compañera Daniela para que los revisara y me ayudara a componerlos bien. Terminé mi propio video a las 2:30 de la tarde; lo hice en PowerPoint, cuidando que todo quedara claro, ordenado y bonito.
+
+### 2:30 5:00 
+
+Seguí trabajando junto con Daniela y empezamos a arreglar nuestro documento. Revisamos todo, corregimos lo que hacía falta y lo acomodamos bien. Fuimos avanzando poco a poco hasta dejarlo completo y ordenado. Terminamos todo a las 5:00 de la tarde.
