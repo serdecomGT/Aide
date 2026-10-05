@@ -54,7 +54,7 @@ Aseguré que el archivo quedara adecuadente estructurado para facilitar el traba
 
 Agregué más texto y detalle a cada sección para que la información quedara completa y bien explicada.
 
-El cuestionario todavía no se ha elaborado; lo terminaré de hacer en la noche.
+El cuestionario todavía no se ha elaborado; lo terminaré de hacer en la noche.Continué practicando con los datos ingresados y revisé los resultados obtenidos,Retomé los ejercicios anteriores y practiqué diferentes formas de visualizar la información almacenada.
 
 ### 21:00 a 23:30
 
@@ -104,11 +104,16 @@ Durante la jornada nos dedicos a repasar y ensayar todos los temas que teníos p
 
 En este período me dediqué a trabajar en el tema de SQLite y bases de datos. Estudié y practiqué los conceptos fundentales de las bases de datos, su estructura y el manejo de SQLite. Revisé cómo crear, consultar y administrar bases de datos, así como las operaciones básicas que se pueden realizar con este sistema. Avancé en la comprensión de cómo organizar y almacenar información de manera ordenada y eficiente.
 
+13:30 — 17:00
+
+Practicamos algunos comandos básicos y observamos cómo se ejecutaban las instrucciones.
+Ingresé algunos datos de prueba y comprobé que se registraran correctamente.
+
 ## 7 de septiembre de 2026
 
 - Actividad 1 :
   
-### llegada 10:00
+###  10:00 a 12:30
 
 El día de hoy llegué a las 10:00, ya que tuve un inconveniente en el cino: estaban construyendo unas carreteras y detuvieron el bus por ese motivo. Para compensar el tiempo que me faltó, me comprometo a recuperar las horas trabajando desde mi casa al llegar, de manera que no se atrase nada de lo que tengo que hacer.
 
@@ -205,14 +210,13 @@ Me dediqué a elaborar los listados de organizaciones de Guatemale retiré antes
 
 En la noche retomé el trabajo y seguí buscando y completando los listados que me faltaban, agregando más organizaciones con su información correspondiente.
 
-## 14 de septiembre de 2026
+## 14 de septiembre 
+### 9:00 – 12:30
 
 Llegué un poco tarde hoy. Me retrasé porque tenía que estar en la casa para recibir mis cosas de alimentación e higiene que me vinieron a entregar, y no podía salir sin recibirlas.
 
-### 8:00 – 12:30
-
 - Actividad 1 :
-
+ 
 Me dediqué a organizar y elaborar los listados de organizaciones de Guatemala. Busqué y verifiqué los correos electrónicos de cada una, asegurándome de que estuvieran vigentes y bien escritos.
 
 ### 14:30 – 16:30
@@ -227,13 +231,21 @@ Mañana y pasado mañana desarrollaré los documentos adicionales que me indique
 
 Seguiré completando la información y los envíos pendientes.
 
-## 15 de septiembre de 2026
+## 15 de septiembre d
 
 - Actividad 1 :
  
 Dia festivo
 
-## 17 de septiembre de 2026
+
+## 16 de septiembre 
+
+- Actividad 1 :
+ 
+Dia festivo
+
+
+## 17 de septiembre 
 
  ### 8:00 a 12:40 
  
