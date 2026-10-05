@@ -30,13 +30,13 @@
 
  ### 8:00 a 12:30
 
--Comencé a organizar y componer el archivo principal del proyecto.
+- Comencé a organizar y componer el archivo principal del proyecto.
 
--Estructuré el contenido usando viñetas para que todo quedara claro y ordenado por temas.
+- Estructuré el contenido usando viñetas para que todo quedara claro y ordenado por temas.
 
--Organicé y agregué la información de cada uno de los temas: Blazor, C#, arquitectura Cliente-Servidor, diagnóstico de computadoras, Git, Inteligencia Artificial, Markdown y MAUI.
+- Organicé y agregué la información de cada uno de los temas: Blazor, C#, arquitectura Cliente-Servidor, diagnóstico de computadoras, Git, Inteligencia Artificial, Markdown y MAUI.
 
--Aseguré que el archivo quedara adecuadente estructurado para facilitar el trabajo.
+- Aseguré que el archivo quedara adecuadente estructurado para facilitar el trabajo.
 
 ###  13:30 a 17:00
 
@@ -48,66 +48,60 @@
 
 - Actividad 3 :
 
--Elaboré y redacté las respuestas del cuestionario sobre Blazor, explicando cada concepto con palabras sencillas y ejemplos prácticos.
+- Elaboré y redacté las respuestas del cuestionario sobre Blazor, explicando cada concepto con palabras sencillas y ejemplos prácticos.
 
--Continué con el cuestionario de C#, cubriendo desde los conocimientos básicos hasta la progración orientada a objetos.
+- Continué con el cuestionario de C#, cubriendo desde los conocimientos básicos hasta la progración orientada a objetos.
 
--Trabajé en el cuestionario de Arquitectura Cliente-Servidor, detallando cómo se comunican los sistemas, los protocolos y sus componentes.
+- Trabajé en el cuestionario de Arquitectura Cliente-Servidor, detallando cómo se comunican los sistemas, los protocolos y sus componentes.
 
--Finalicé con el cuestionario de Git y GitHub, organizando los comandos, flujos de trabajo y formas de colaborar en equipo.
+- Finalicé con el cuestionario de Git y GitHub, organizando los comandos, flujos de trabajo y formas de colaborar en equipo.
 
--Estructuré todo el contenido de forma clara y ordenada, asegurándome de que cada respuesta se entendiera bien y reflejara lo aprendido.
+- Estructuré todo el contenido de forma clara y ordenada, asegurándome de que cada respuesta se entendiera bien y reflejara lo aprendido.
 
 ## 3 septiembre de 2026
 
 ### Hora de llegada: 10:00
 
--El día de hoy llegué a las 10:00, ya que antes de venir tuve que hacer un depósito y eso me tomó más tiempo del que esperaba. Para no quedarme atrás con mis tareas, me comprometo a recuperar el tiempo trabajando un poco más al terminar la jornada o desde mi casa, y así cumplir con todo lo que me corresponde
+- El día de hoy llegué a las 10:00, ya que antes de venir tuve que hacer un depósito y eso me tomó más tiempo del que esperaba. Para no quedarme atrás con mis tareas, me comprometo a recuperar el tiempo trabajando un poco más al terminar la jornada o desde mi casa, y así cumplir con todo lo que me corresponde
 
 ### 10:00 — 12:30
 
--Me dediqué a organizar y completar los temas que tenía pendientes de sesiones anteriores. Revisé cuáles eran los puntos que me faltaban y los fui trabajando uno por uno para tener todo al día y bien ordenado sobre los cusestionarios.m#-* ♥
+- Me dediqué a organizar y completar los temas que tenía pendientes de sesiones anteriores. Revisé cuáles eran los puntos que me faltaban y los fui trabajando uno por uno para tener todo al día y bien ordenado sobre los cusestionarios.m#-* ♥
 
 ### 13:30 — 17:00
 
--En este horario estoy trabajando en lo que te falto .Estoy revisando cada pregunta y respondiendo las encuestas y cuestionarios uno por uno, asegurándome de que cada respuesta quede clara y con mis propias palabras. tbien tuvimos una reunion sobre que es la inteligencia artifical
+- En este horario estoy trabajando en lo que te falto .Estoy revisando cada pregunta y respondiendo las encuestas y cuestionarios uno por uno, asegurándome de que cada respuesta quede clara y con mis propias palabras. tbien tuvimos una reunion sobre que es la inteligencia artifical
 
 ## 4 de septiembre 
 8:00 a 17:00
 
--Ensayo y exposición de temas
+- Ensayo y exposición de temas
 
--Durante la jornada nos dedicos a repasar y ensayar todos los temas que teníos progrados para exponer. Revisos cada punto, organizos las ideas y practicos la forma de presentar la información con claridad y orden. Al finalizar, realizos la exposición ante el grupo, compartiendo lo que habíos preparado y respondiendo las dudas que surgieron. Fue un día de mucho aprendizaje y práctica, y nos ayudó a sentirnos más seguros al momento de hablar frente a los demás.
+- Durante la jornada nos dedicos a repasar y ensayar todos los temas que teníos progrados para exponer. Revisos cada punto, organizos las ideas y practicos la forma de presentar la información con claridad y orden. Al finalizar, realizos la exposición ante el grupo, compartiendo lo que habíos preparado y respondiendo las dudas que surgieron. Fue un día de mucho aprendizaje y práctica, y nos ayudó a sentirnos más seguros al momento de hablar frente a los demás.
 
 ## 6 de septiembre  
 ### 8:00 – 12:45
 
--En este período me dediqué a trabajar en el tema de SQLite y bases de datos. Estudié y practiqué los conceptos fundentales de las bases de datos, su estructura y el manejo de SQLite. Revisé cómo crear, consultar y administrar bases de datos, así como las operaciones básicas que se pueden realizar con este sistema. Avancé en la comprensión de cómo organizar y almacenar información de manera ordenada y eficiente.
+- En este período me dediqué a trabajar en el tema de SQLite y bases de datos. Estudié y practiqué los conceptos fundentales de las bases de datos, su estructura y el manejo de SQLite. Revisé cómo crear, consultar y administrar bases de datos, así como las operaciones básicas que se pueden realizar con este sistema. Avancé en la comprensión de cómo organizar y almacenar información de manera ordenada y eficiente.
 
 13:30 — 17:00
 
--Practicamos algunos comandos básicos y observamos cómo se ejecutaban las instrucciones.
+- Practicamos algunos comandos básicos y observamos cómo se ejecutaban las instrucciones.
 Ingresé algunos datos de prueba y comprobé que se registraran correctamente.
 
 ## 7 de septiembre de 2026
 
 ###  10:00 a 12:30
 
--El día de hoy llegué a las 10:00, ya que tuve un inconveniente en el cino: estaban construyendo unas carreteras y detuvieron el bus por ese motivo. Para compensar el tiempo que me faltó, me comprometo a recuperar las horas trabajando desde mi casa al llegar, de manera que no se atrase nada de lo que tengo que hacer.
+- El día de hoy llegué a las 10:00, ya que tuve un inconveniente en el cino: estaban construyendo unas carreteras y detuvieron el bus por ese motivo. Para compensar el tiempo que me faltó, me comprometo a recuperar las horas trabajando desde mi casa al llegar, de manera que no se atrase nada de lo que tengo que hacer.
 
 ###  14:00 a 17:00 
 
--Continué organizando el trabajo estructurando los módulos en los que se dividirá la aplicación: configuración de organizaciones y grupos, registro de integrantes, manejo de categorías, progración de actividades, marcado de asistencia y generación de reportes con filtro por fechas.
-
-También definí las consultas que se van a usar parostrar la información: quién asistió a cada actividad, cuántas veces asistió cada persona por categoría, el total de asistencias por integrante y la cantidad de asistentes agrupados por categoría.
-
-Después ordené los pasos que se van a seguir para desarrollar el proyecto: desde crear el archivo de la base de datos y configurar el proyecto en Visual Studio, hasta probar que todo funcione bien antes de entregar el trabajo. Revisé tbién las definiciones de conceptos clave como qué es Visual Studio y para qué sirve, para tener claros los fundentos del proyecto.
-
-Al final del día, revisé todo lo avanzado para asegurar que la información esté completa, ordenada y lista para continuar con la siguiente etapa.
+ - Continué organizando el trabajo estructurando los módulos en los que se dividirá la aplicación: configuración de organizaciones y grupos, registro de integrantes, manejo de categorías, progración de actividades, marcado de asistencia y generación de reportes con filtro por fechas.También definí las consultas que se van a usar parostrar la información: quién asistió a cada actividad, cuántas veces asistió cada persona por categoría, el total de asistencias por integrante y la cantidad de asistentes agrupados por categoría.Después ordené los pasos que se van a seguir para desarrollar el proyecto: desde crear el archivo de la base de datos y configurar el proyecto en Visual Studio, hasta probar que todo funcione bien antes de entregar el trabajo. Revisé tbién las definiciones de conceptos clave como qué es Visual Studio y para qué sirve, para tener claros los fundentos del proyecto.Al final del día, revisé todo lo avanzado para asegurar que la información esté completa, ordenada y lista para continuar con la siguiente etapa.
 
 ### 21:00 a 00:45 
 
--Comencé a trabajar .Lo primero que hice fue descargar el instalador de Visual Studio desde el sitio oficial de Microsoft. Una vez descargado, ejecuté el programa  y seguí los pasos de instalación: acepté los términos de licencia y seleccioné las cargas de trabajo necesarias para desarrollar en C# y .NET MAUI, que son las herrientas que se van a utilizar para la aplicación de control de asistenciientras se completaba la instalación, me dediqué a investigar qué es Visual Studio y para qué sirve. Aprendí que es un entorno de desarrollo integrado que reúne todo lo necesario para escribir, probar y publicar progras desde un solo lugar. Tbién investigué qué lenguajes de progración soporta y la diferencia entre Visual Studio y Visual Studio Code, para tener claro cuál es la herrienta adecuada para este proyecto.
+- Comencé a trabajar .Lo primero que hice fue descargar el instalador de Visual Studio desde el sitio oficial de Microsoft. Una vez descargado, ejecuté el programa  y seguí los pasos de instalación: acepté los términos de licencia y seleccioné las cargas de trabajo necesarias para desarrollar en C# y .NET MAUI, que son las herrientas que se van a utilizar para la aplicación de control de asistenciientras se completaba la instalación, me dediqué a investigar qué es Visual Studio y para qué sirve. Aprendí que es un entorno de desarrollo integrado que reúne todo lo necesario para escribir, probar y publicar progras desde un solo lugar. Tbién investigué qué lenguajes de progración soporta y la diferencia entre Visual Studio y Visual Studio Code, para tener claro cuál es la herrienta adecuada para este proyecto.
 
 Cuando terminó la instalación, abrí el progra para verificar que se hubiera instalado correctente y quedé listo para empezar a crear el proyecto en la siguiente sesión.
 
@@ -118,7 +112,7 @@ Cuando terminó la instalación, abrí el progra para verificar que se hubiera i
 
 -Comencé a realizando el mantenimiento y arreglo de una computadora. Revisé su funcioniento general y procedí a desinstalar todas aquellas aplicaciones que ya no funcionaban correctente o que no se utilizaban, para liberar espacio en el disco y mejorar el rendimiento del equipo.
 
--Después me dediqué a la instalación de Visual Studio. Descargué el instalador desde el sitio oficial, ejecuté el progra y seleccioné los componentes necesarios para el desarrollo en C# y .NET MAUI, que es lo que se va a utilizar para la aplicación de control de asistenciientras se completaba la instalación, revisé los requisitos del sistema y verifiqué que el equipo cumpliera con todo lo necesario.
+- Después me dediqué a la instalación de Visual Studio. Descargué el instalador desde el sitio oficial, ejecuté el progra y seleccioné los componentes necesarios para el desarrollo en C# y .NET MAUI, que es lo que se va a utilizar para la aplicación de control de asistenciientras se completaba la instalación, revisé los requisitos del sistema y verifiqué que el equipo cumpliera con todo lo necesario.
 
 ###  13:30 a 17:00 
 
@@ -155,7 +149,7 @@ En el cino de regreso me llaron del trabajo para tratar información importante,
 
 8:00 – 11:30
 
--Me dediqué a elaborar los listados de organizaciones de Guatemale retiré antes de la hora porque sentí un dolor fuerte en la pierna , así que fui al centro de salud para que me revisaran.
+- Me dediqué a elaborar los listados de organizaciones de Guatemale retiré antes de la hora porque sentí un dolor fuerte en la pierna , así que fui al centro de salud para que me revisaran.
 
 ### 17:00 – 21:30
 
@@ -180,7 +174,7 @@ Mañana y pasado mañana desarrollaré los documentos adicionales que me indique
 Seguiré completando la información y los envíos pendientes.
 
 ## 15 de septiembre  
--Dia festivo
+- Dia festivo
 
 
 ## 16 de septiembre 
