@@ -91,7 +91,7 @@ Me dediqué a organizar y completar los temas que tenía pendientes de sesiones 
 En este horario estoy trabajando en lo que te falto .Estoy revisando cada pregunta y respondiendo las encuestas y cuestionarios uno por uno, asegurándome de que cada respuesta quede clara y con mis propias palabras. tbien tuvimos una reunion sobre que es la inteligencia artifical
 
 ## 4 de septiembre 
-
+8:00 a 17:00
 - Actividad 1 : Ensayo y exposición de temas
 
 Durante la jornada nos dedicos a repasar y ensayar todos los temas que teníos progrados para exponer. Revisos cada punto, organizos las ideas y practicos la forma de presentar la información con claridad y orden. Al finalizar, realizos la exposición ante el grupo, compartiendo lo que habíos preparado y respondiendo las dudas que surgieron. Fue un día de mucho aprendizaje y práctica, y nos ayudó a sentirnos más seguros al momento de hablar frente a los demás.
