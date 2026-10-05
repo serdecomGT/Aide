@@ -1,7 +1,7 @@
 
 
 
-## DIARIO DE PRACTICAS - IDANIA AIDE RUBIO BARRIOS ESTUDIANTE DE 5TO BACHILLERATO EN CIENCIAS Y LETRAS CON ORIENTACION EN COMPUTACION EN LA ESCUELA NORMAL DE MAESTRAS DE ESDUCACION PARA EL HOGAR HUMBERTO MIRANDA FUENTES    
+## DIARIO DE PRACTICAS - IDANIA AIDE RUBIO BARRIOS ESTUDIANTE DE 5TO BACHILLERATO EN CIENCIAS Y LETRAS CON ORIENTACION EN COMPUTACION EN LA ESCUELA NORMAL DE MAESTRAS DE EDUCACION PARA EL HOGAR HUMBERTO MIRANDA FUENTES    
 
 ## 1 de septiembre de 2026
   
@@ -81,7 +81,7 @@ El día de hoy llegué a las 10:00, ya que antes de venir tuve que hacer un dep�
 ### 10:00 — 12:30
 
 - Actividad 2 :
-- 
+
 Me dediqué a organizar y completar los temas que tenía pendientes de sesiones anteriores. Revisé cuáles eran los puntos que me faltaban y los fui trabajando uno por uno para tener todo al día y bien ordenado sobre los cusestionarios.m#-* ♥
 
 ### 13:30 — 17:00
