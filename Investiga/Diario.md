@@ -325,3 +325,9 @@ Después, pasé a escribir mi diario en las hojas: anoté todo lo que llevo hech
 
 
 ## 5 de octubre  2026
+
+## 8:00  - 12:00 
+Trabajé en los contenidos para los videos promocionales de Asisgrup. Organicé las ideas, escribí diferentes versiones y revisé todo para que quede claro qué es la aplicación y para qué sirve. También le dimos estilo a nuestro diario, ordenando todo para que se vea bien y se entienda perfectamente. Hice ajustes hasta dejar todo listo.
+
+### 8:00 – 12:00
+Terminé de preparar todo. Envié los videos y los compartí con mis amigos. Ellos me dieron su apoyo y me animaron a seguir adelante. Seguí trabajando con dedicación para que Asisgrup se conozca bien.
