@@ -4,16 +4,18 @@
 ## DIARIO DE PRACTICAS - IDANIA AIDE RUBIO BARRIOS ESTUDIANTE DE 5TO BACHILLERATO EN CIENCIAS Y LETRAS CON ORIENTACION EN COMPUTACION EN LA ESCUELA NORMAL DE MESTRAS DE ESDUCION PARA EL HOGAR HUMBERTO MIRANDA FUENTES    
 
 ## 1 de septiembre de 2026
-
-- Actividad 1 :
   
 ### 8:00 – 12:30
 
+- Actividad 1 :
+ 
 Reunión de apertura y asignación: La jornada comenzó con una charla de Don Carlos, quien nos explicó detalladente letodología de trabajo que íbos a implementar. Acto seguido, nos asignó la tarea de investigar a fondo ciertos temas clave que abordaremos más adelante en el proyecto.Investigación en equipo: Inmediatente después de la reunión, mi compañera Daniela López y yo nos pusimos a trabajar juntos. Investigos y desarrollos de forma exhaustiva cada uno de los temas planteados, logrando culminar con éxito toda la documentación requerida antes del mediodía.Estudio técnico inicial: Dediqué una parte de lañana a reforzar conceptos fundentales de redes y desarrollo de software:Modelo Cliente-Servidor: Repasé la arquitectura técnica y los protocolos que permiten la comunicación directa entre las aplicaciones y los servidores en internet.Inteligencia Artificial: Analicé a fondo el panora actual de la IA, evaluando de forma crítica sus principales pros y contras en la sociedad moderna.
 
-Actividad 2 :
+
 
 ### 1:30 – 6:00
+
+- Actividad 2 :
 
 Soporte técnico y diagnóstico de hardware: A partir de la 1:30, Daniela y yo nos enfocos en el área técnica revisando tres computadoras que presentaban problemas. Tras abrirlas y exinarlas, elaboros el diagnóstico oficial de la jornada: las tres máquinas compartían fallas graves en el disco duro, el CPU y lemoria. Adicionalmente, revisos un periférico externo y determinos que la cámara no era compatible con la computadora.Práctica de desarrollo: Continué con mi capacitación práctica en herrientas de progración:Control de versiones con Git: Revisé comandos y flujos de trabajo para asegurar el código, garantizando un guardado correcto del historial sin riesgo de pérdida de datos.Desarrollo MAUI: Exploré el entorno de desarrollo multiplataforma de Microsoft para entender la creación de aplicaciones nativas desde una base de código única.Cierre del día: Finalicé la jornada organizando detalladente todo lo aprendido y documentando las actividades en este registro.
 
@@ -21,7 +23,7 @@ Dato del día (Curiosidad Tecnológica) Hoy me dio curiosidad saber quién estab
 
  ### 21:00 a 23:30 
  
- Actividad 3 :
+  - Actividad 3 :
  
 Al llegar a casa en la noche, me puse a trabajar en lo que nos pidió el profesor Don Carlos Mike.
 
@@ -68,7 +70,7 @@ Finalicé con el cuestionario de Git y GitHub, organizando los comandos, flujos 
 
 Estructuré todo el contenido de forma clara y ordenada, asegurándome de que cada respuesta se entendiera bien y reflejara lo aprendido.
 
-## septiembre de 2026
+## 3 septiembre de 2026
 
 ### Hora de llegada: 10:00
 
@@ -126,7 +128,7 @@ Al final del día, revisé todo lo avanzado para asegurar que la información es
 
 - Actividad 3 :
   
-Comencé a trabajar .Lo primero que hice fue descargar el instalador de Visual Studio desde el sitio oficial de Microsoft. Una vez descargado, ejecuté el progra y seguí los pasos de instalación: acepté los términos de licencia y seleccioné las cargas de trabajo necesarias para desarrollar en C# y .NET MAUI, que son las herrientas que se van a utilizar para la aplicación de control de asistenciientras se completaba la instalación, me dediqué a investigar qué es Visual Studio y para qué sirve. Aprendí que es un entorno de desarrollo integrado que reúne todo lo necesario para escribir, probar y publicar progras desde un solo lugar. Tbién investigué qué lenguajes de progración soporta y la diferencia entre Visual Studio y Visual Studio Code, para tener claro cuál es la herrienta adecuada para este proyecto.
+Comencé a trabajar .Lo primero que hice fue descargar el instalador de Visual Studio desde el sitio oficial de Microsoft. Una vez descargado, ejecuté el programa  y seguí los pasos de instalación: acepté los términos de licencia y seleccioné las cargas de trabajo necesarias para desarrollar en C# y .NET MAUI, que son las herrientas que se van a utilizar para la aplicación de control de asistenciientras se completaba la instalación, me dediqué a investigar qué es Visual Studio y para qué sirve. Aprendí que es un entorno de desarrollo integrado que reúne todo lo necesario para escribir, probar y publicar progras desde un solo lugar. Tbién investigué qué lenguajes de progración soporta y la diferencia entre Visual Studio y Visual Studio Code, para tener claro cuál es la herrienta adecuada para este proyecto.
 
 Cuando terminó la instalación, abrí el progra para verificar que se hubiera instalado correctente y quedé listo para empezar a crear el proyecto en la siguiente sesión.
 
@@ -190,7 +192,7 @@ Durante este tiempo, investigué cada organización, anoté su nombre completo, 
 
 ## 11 de septiembre 
 
-8:00 – 11:30:
+8:00 – 11:30
 
 - Actividad 1 :
   
@@ -417,3 +419,6 @@ Empecé rehaciendo los videos de promoción, trabajando en ellos con cuidado y d
 
 - Actividad 2 :
 Seguí trabajando junto con Daniela y empezamos a arreglar nuestro documento. Revisamos todo, corregimos lo que hacía falta y lo acomodamos bien. Fuimos avanzando poco a poco hasta dejarlo completo y ordenado. Terminamos todo a las 5:00 de la tarde.
+
+
+## 5 de octubre 
