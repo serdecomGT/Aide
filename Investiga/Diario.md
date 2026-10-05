@@ -13,7 +13,7 @@ Reunión de apertura y asignación: La jornada comenzó con una charla de Don Ca
 
 
 
-### 1:30 – 6:00
+### 13:30 – 18:00
 
 - Actividad 2 :
 
@@ -48,7 +48,7 @@ Organicé y agregué la información de cada uno de los temas: Blazor, C#, arqui
 
 Aseguré que el archivo quedara adecuadente estructurado para facilitar el trabajo.
 
-###  12:30 a 5:00
+###  13:30 a 17:00
 
 - Actividad 2 :
 
@@ -84,7 +84,7 @@ El día de hoy llegué a las 10:00, ya que antes de venir tuve que hacer un dep�
 - 
 Me dediqué a organizar y completar los temas que tenía pendientes de sesiones anteriores. Revisé cuáles eran los puntos que me faltaban y los fui trabajando uno por uno para tener todo al día y bien ordenado sobre los cusestionarios.m#-* ♥
 
-### 1:30 — 5:00
+### 13:30 — 17:00
 
 - Actividad 3 :
 
@@ -112,7 +112,7 @@ En este período me dediqué a trabajar en el tema de SQLite y bases de datos. E
 
 El día de hoy llegué a las 10:00, ya que tuve un inconveniente en el cino: estaban construyendo unas carreteras y detuvieron el bus por ese motivo. Para compensar el tiempo que me faltó, me comprometo a recuperar las horas trabajando desde mi casa al llegar, de manera que no se atrase nada de lo que tengo que hacer.
 
-###  2:00 a 5:00 
+###  14:00 a 17:00 
 
 - Actividad 2 :
 
@@ -143,7 +143,7 @@ Comencé a realizando el mantenimiento y arreglo de una computadora. Revisé su 
 
 Después me dediqué a la instalación de Visual Studio. Descargué el instalador desde el sitio oficial, ejecuté el progra y seleccioné los componentes necesarios para el desarrollo en C# y .NET MAUI, que es lo que se va a utilizar para la aplicación de control de asistenciientras se completaba la instalación, revisé los requisitos del sistema y verifiqué que el equipo cumpliera con todo lo necesario.
 
-###  1:30 a 5:00 
+###  13:30 a 17:00 
 
 - Actividad 2 :
 
@@ -177,7 +177,8 @@ En el cino de regreso me llaron del trabajo para tratar información importante,
 
 Al iniciar la jornada a las 8:00, me dediqué a organizar y elaborar el listado de organizaciones no gubernentales (ONG) que operan en Guatemala. Recopilé los nombres de cada institución, su correo electrónico y su área de trabajo, verificando que la información fuera correcta y completa. Después de avanzar con esta tarea, nos preparos para salir a realizar la entrega de las impresoras que habíos recogido el día anterior. Nos traslados al lugar correspondiente, hicimos la entrega de cada equipo y confirmos que todo estuviera en orden y completo. Al terminar, regresos.
 
-###  3:00 – 5:00
+###  15:00 – 17:00
+
 - Actividad 2 :
   
 Al reiniciar las actividades a las 3:00, retomé la elaboración del listado de ONG. Continué investigando y agregando nuevas organizaciones que no estaban en la lista anterior, asegurándome de que no se repitieran y de que la información de contacto estuviera actualizada. Organicé los datos de manera ordenada para facilitar su consulta y uso posterior. Seguí trabajando en esto hasta finalizar mi horario.
@@ -198,7 +199,7 @@ Durante este tiempo, investigué cada organización, anoté su nombre completo, 
   
 Me dediqué a elaborar los listados de organizaciones de Guatemale retiré antes de la hora porque sentí un dolor fuerte en la pierna , así que fui al centro de salud para que me revisaran.
 
-### 5:00 – 9:30
+### 17:00 – 21:30
 
 - Actividad 2 :
 
@@ -214,7 +215,7 @@ Llegué un poco tarde hoy. Me retrasé porque tenía que estar en la casa para r
 
 Me dediqué a organizar y elaborar los listados de organizaciones de Guatemala. Busqué y verifiqué los correos electrónicos de cada una, asegurándome de que estuvieran vigentes y bien escritos.
 
-### 2:30 – 4:30
+### 14:30 – 16:30
 
 - Actividad 2 :
 
@@ -240,7 +241,7 @@ Dia festivo
 
 Me puse a trabajar en la lista de organizaciones. Fui pegando cada correo electrónico, asegurándome de que quedaran bien escritos y completos. Después agregué las imágenes correspondientes y comencé a enviar la información y los mensajes promocionales a cada uno. Revisé que todo se viera bien antes de mandarlo y fui avanzando uno por uno con cuidado.
 
- ###  1:40 a 5:00
+ ###  13:40 a 17:00
  
  - Actividad 1 :
  
@@ -254,13 +255,13 @@ Me puse a trabajar en la lista de organizaciones. Fui pegando cada correo electr
 
 ## 19 de septiembre 
 
-### 10:00 a 2:30
+### 10:00 a 14:30
 
 - Actividad 1 :
 
 Inicié mi jornada a las 10 de mañana  puse a analizar y reflexionar sobre un temuy importante: si la inteligencia artificial puede reemplazar mi trabajo de enviar correos promocionales a las ONG. En este tiempo identifiqué todo lo que la IA ya puede hacer por sí sola: buscar y organizar contactos, redactar borradores, enviar mensajes en gran cantidad, personalizar datos básicos y clasificar respuestas. Comprendí que toda la parte mecánica y repetitiva la hace más rápido que cualquier persona, y que si solo me dedico a eso, sí estaría en riesgo.
 
- ### 3:30 a 9:00 
+ ### 15:30 a 21:00 
  
  - Actividad 2 :
    
@@ -268,7 +269,7 @@ Retomé el trabajo a las 3:30 de la tarde. Seguí investigando todo lo que la IA
 
 ## 21 de septiembre 
 
-### 8:00 a 4:00
+### 8:00 a 16:00
 
 - Actividad 1 :
   
@@ -296,7 +297,7 @@ Empecé a las 8:00 de mañana . Entré al documento llado "más nombre de ONG co
 
 También en mañana estuve trabajando junto con mi compañera Daniela en lo del plan de desarrollo de la aplicación. Estuvimos viendo cómo lo vos a estructurar, compartimos ideas, platicos sobre cómo explicar todo el proceso, cómo se hizo la aplicación y cada paso que llevos. Pusimos en común lo que cada una pensaba para que el plan quede bien hecho y claro. Seguí avanzando con todo esto hasta las 12:43
 
-### 1:30 a 5:00
+### 13:30 a 17:00
 
 - Actividad 2 :
 
@@ -314,13 +315,13 @@ Avancé organizando todo en secciones claras: qué es, para qué sirve, cómo se
 
 ## 24 de septiembre 
 
-### 8:00 a 1:00
+### 8:00 a 13:00
 
 - Actividad 1 :
 
 Empecé a las 8:00 de mañana . Entré al documento con el listado de organizaciones y fui avanzando uno por uno. Copié el nombre de cada una, lo pegué en Facebook, busqué su página oficial y revisé su información para sacar el correo electrónico. Lo verifiqué que estuviera bien escrito y lo pegué en el formato correspondiente. Donde no encontré el correo lo anoté aparte para buscarlo después. Así estuve trabajando toda lañana hasta la 1:00
 
-###  1:30 a 5:00
+###  13:30 a 17:00
 
 - Actividad 2 :
   
@@ -334,7 +335,7 @@ Regresé a la 1:30 y continué con lisma tarea. Seguí buscando, confirmando y p
   
 Empecé a las 8:00 de mañana . Entré al documento con el listado de organizaciones y fui avanzando uno por uno. Copié el nombre de cada una, lo pegué en Facebook, busqué su página oficial y revisé su información para sacar el correo electrónico. Lo verifiqué que estuviera bien escrito y lo pegué en el formato correspondiente. Donde no encontré el correo lo anoté aparte para buscarlo después. Así estuve trabajando toda lañana hasta la 1:00
 
-### 1:30 a 5:00
+### 13:30 a 17:00
 
 - Actividad 2 :
   
@@ -342,7 +343,7 @@ Regresé a la 1:30 y continué con lisma tarea. Seguí buscando, confirmando y p
 
 ## 26 de septiembre 
 
- ### 6:00 a 11:30
+ ### 18:00 a 23:30
  
  - Actividad 1 :
 
@@ -365,32 +366,34 @@ Empecé a las 8:00 de mañana enviando los correos y todo lo que correspondía. 
   
 A partir de las 10:45 me puse a trabajar en la estructura y el funcioniento de un agente de inteligencia artificial. Fui organizando cada parte, explicando qué es, para qué sirve, cómo está formado y cómo funciona todo el proceso. Avancé hasta las 12:30 del mediodía.
 
-### 1:30 a terminar
+### 13:30 a terminar
 
 - Actividad 3 :
   
 Regresé a la 1:30 de la tarde y continué leyendo y desarrollando todo el tema. Lo escribí con mis propias palabras, explicando cada parte de la estructura tal cual yo lo entiendo, de forma clara y sencilla. Terminé de organizar y redactar todo el contenido.
 
 ## 29 de septiembre   
+
 ### 8:00 a 12:30
 
 - Actividad 1 :
 
 Inicié a las 8:00 de mañana. Seguí buscando información y leyendo sobre el tema, fui seleccionando lo más importante y lo puse de forma clara. Tbién en lañana vino el profesor, platicos un ratito sobre cómo iba avanzando todo, cómo íbos con las tareas y me dio indicaciones. Continué leyendo y organizando lo más relevante hasta las 12:30
 
-### 1:30 a 5:00
+### 13:30 a 17:00
 
 - Actividad 2 :
 Regresé a la 1:30 de la tarde. Fui a arreglar unas cosas y también seguí leyendo más a fondo el tema, porque entre más leía, más información importante encontraba y la fui agregando. Terminé de organizar todo y finalicé mi jornada a las 5:00
 
 ## 30 septiembre 
+
 ### 8:00 a 12:30
 
 - Actividad 1 :
 
 Empecé a las 8:00 de mañana trabajando en el planteiento de nuestra aplicación. Estuvimos definiendo cómo va a funcionar, qué va a llevar y cómo lo vos a organizar. A las 11:30 nos pusimos con mi compañera Daniela a ver unos videos sobre las promociones que vos a lanzar, para revisar cómo se ven y qué necesitos ajustar. Seguimos avanzando con todo esto hasta las 12:30 del mediodía.
 
- ### 1:30 a 4:00 
+ ### 13:30 a 16:00 
  
  - Actividad 2 :
  Regresé a la 1:30 de la tarde y continuos con lo mismo. Seguimos trabajando hasta terminar todo lo que teníos pendiente. Me retiré un poquito antes de las 4:00 porque tengo que prepararme pari mudanza de casa. Dejé todo organizado y listo para lo que sigue.
@@ -409,13 +412,13 @@ Después, pasé a escribir mi diario en las hojas: anoté todo lo que llevo hech
 
 ## 2 de octubre
 
-### 8:00 a 2:30
+### 8:00 a 14:30
 
 - Actividad 1 :
  
 Empecé rehaciendo los videos de promoción, trabajando en ellos con cuidado y detalle. Después le pedí ayuda a mi compañera Daniela para que los revisara y me ayudara a componerlos bien. Terminé mi propio video a las 2:30 de la tarde; lo hice en PowerPoint, cuidando que todo quedara claro, ordenado y bonito.
 
-### 2:30 5:00 
+### 14:30 17:00 
 
 - Actividad 2 :
 Seguí trabajando junto con Daniela y empezamos a arreglar nuestro documento. Revisamos todo, corregimos lo que hacía falta y lo acomodamos bien. Fuimos avanzando poco a poco hasta dejarlo completo y ordenado. Terminamos todo a las 5:00 de la tarde.
