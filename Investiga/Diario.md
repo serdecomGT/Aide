@@ -326,16 +326,35 @@ Después, pasé a escribir mi diario en las hojas: anoté todo lo que llevo hech
 
 ## 5 de octubre  2026
 
-De 8:00 a. m. a 12:00 p. m.
-En la mañana trabajé en mi diario. Le di estilo, lo ordené bien y revisé que todo estuviera perfecto. Hice los ajustes necesarios para que quede claro y bien presentado. Aún no publicamos los videos, solo dejamos todo listo con mi compañera Daniela.
+### 8:00 - 12:00
+Le di estilo al diario, lo ordené bien y revisé que todo estuviera perfecto. Hice los ajustes necesarios para que quede claro y bien presentado. Aún no publicamos los videos, solo dejamos todo listo con mi compañera Daniela.
 
-De 13:30 a 16:00
-En la tarde subí y publiqué los 2 videos que hicimos con Daniela. Los compartí con mis amigos, compañeros y conocidos. Los publiqué en Facebook, Instagram, WhatsApp y TikTok.
+### 13:30 - 16:00
 
-🔗 Enlaces de los videos:
+- En la tarde subí y publiqué los 2 videos promocionales de AsisGru. Los compartí con mis amigos, compañeros y conocidos. Los publiqué en Facebook, Instagram, TikTok y  WhatsApp.
 
-1. https://www.facebook.com/share/v/1DtPvqUQQ8/?mibextid=wwXIfr
+🔗 Enlaces de la publicación de los videos:
 
-2.https://www.facebook.com/share/v/1DK3BLpr4U/?mibextid=wwXIfr
+[https://www.facebook.com/share/v/1DtPvqUQQ8/?mibextid=wwXIfr
+
+https://www.facebook.com/share/v/1DK3BLpr4U/?mibextid=wwXIfr](https://vt.tiktok.com/ZSbCkCho3/
+
+https://vt.tiktok.com/ZSbCkQDxD/
+
+https://www.instagram.com/reel/DeHtcFSpOo33hsBXlp8p2P-OthSiaqmFN1RoWg0/?stkn=MW42NjJvMGFoZWZxcA==
+
+https://www.instagram.com/reel/DeHtcFSpOo33hsBXlp8p2P-OthSiaqmFN1RoWg0/?stkn=MW42NjJvMGFoZWZxcA==
+
+https://www.facebook.com/share/v/1DtPvqUQQ8/?mibextid=wwXIfr
+
+https://www.facebook.com/share/v/1DK3BLpr4U/?mibextid=wwXIfr)
 
 Todo quedó compartido y listo para que más personas conozcan Asisgrup.
+
+### 16:00 - 17:00
+
+- Evaluación de práctica supervisada y convivencia empresarial.
+
+## 6 y 7 de octubre  2026
+- Por actividades de la empresa fuera del departamento de Quetzaltenango, la práctica supervisada se dio por finalizada de forma anticipada sin perjuicio para las señoritas de práctica.
+
