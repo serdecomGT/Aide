@@ -231,7 +231,7 @@ Mañana y pasado mañana desarrollaré los documentos adicionales que me indique
 
 Seguiré completando la información y los envíos pendientes.
 
-## 15 de septiembre d
+## 15 de septiembre 
 
 - Actividad 1 :
  
