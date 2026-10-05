@@ -325,7 +325,7 @@ Describí paso a paso todo el proceso que realizo: desde abrir el documento con 
 
 Avancé organizando todo en secciones claras: qué es, para qué sirve, cómo se hace y cómo me ayudaí sin dejar de ser yo quien controla el trabajo. Fui completando la información poco a poco, agregando ejemplos reales de lo que hago todos los días. Terminé de redactar y organizar todo a las 11:40 de la noche.
 
-## 24 de septiembre 
+### 24 de septiembre 
 
 ### 8:00 a 13:00
 
