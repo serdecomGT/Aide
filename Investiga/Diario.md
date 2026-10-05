@@ -13,13 +13,13 @@ Reunión de apertura y asignación: La jornada comenzó con una charla de Don Ca
 
 Actividad 2 :
 
-## 1:30 – 6:00
+### 1:30 – 6:00
 
 Soporte técnico y diagnóstico de hardware: A partir de la 1:30, Daniela y yo nos enfocos en el área técnica revisando tres computadoras que presentaban problemas. Tras abrirlas y exinarlas, elaboros el diagnóstico oficial de la jornada: las tres máquinas compartían fallas graves en el disco duro, el CPU y lemoria. Adicionalmente, revisos un periférico externo y determinos que la cámara no era compatible con la computadora.Práctica de desarrollo: Continué con mi capacitación práctica en herrientas de progración:Control de versiones con Git: Revisé comandos y flujos de trabajo para asegurar el código, garantizando un guardado correcto del historial sin riesgo de pérdida de datos.Desarrollo MAUI: Exploré el entorno de desarrollo multiplataforma de Microsoft para entender la creación de aplicaciones nativas desde una base de código única.Cierre del día: Finalicé la jornada organizando detalladente todo lo aprendido y documentando las actividades en este registro.
 
 Dato del día (Curiosidad Tecnológica) Hoy me dio curiosidad saber quién estaba detrás de la aplicación de inteligencia artificial "Dolla" y me llevé una gran sorpresa sobre cómo una sola letra cbia por completo el panora tecnológico:Dola AI: Si se busca el asistente inteligente diseñado para sincronizar y organizar el calendario mediante cmandos de voz en WhatsApp o Telegr, los fundadores son Robert Zheng y Haochuan G. Es increíble ver cómo la IA automatiza la agenda diaria con un simple mensaje.Doola: Por otra parte, si nos referimos a la plataforma empresarial que utiliza IA para constituir empresas legalmente en Estados Unidos y gestionar el soporte fiscal, su fundador es Arjun Mahadevan.Este hallazgo me dejó reflexionando sobre la velocidad a la que avanza la tecnología; un error de ortografía te lleva de un asistente de productividad personal a una suite avanzada de servicios corporativos internacionales.
 
- ### 9:00 a 11:30 
+ ### 21:00 a 23:30 
  
  Actividad 3 :
  
@@ -54,7 +54,7 @@ Agregué más texto y detalle a cada sección para que la información quedara c
 
 El cuestionario todavía no se ha elaborado; lo terminaré de hacer en la noche.
 
-### 9:00 a 12:30
+### 21:00 a 23:30
 
 - Actividad 3 :
 
@@ -122,7 +122,7 @@ Después ordené los pasos que se van a seguir para desarrollar el proyecto: des
 
 Al final del día, revisé todo lo avanzado para asegurar que la información esté completa, ordenada y lista para continuar con la siguiente etapa.
 
-### 9:00 a 12:45 
+### 21:00 a 00:45 
 
 - Actividad 3 :
   
@@ -151,7 +151,7 @@ Continué con la organización del proyecto, definiendo los módulos en los que 
 
 Después, basándome en lo que ya había avanzado mi compañera Daniela, continué organizando los módulos de la aplicación: configuración de organizaciones y grupos, gestión de integrantes, manejo de categorías, registro de actividades, marcado de asistencia y generación de reportes con filtro por rango de fechas.
 
-### 8:00 – 1:40
+### 19:00 – 1:00
 
 - Actividad 3 :
   
@@ -180,7 +180,7 @@ Al iniciar la jornada a las 8:00, me dediqué a organizar y elaborar el listado 
   
 Al reiniciar las actividades a las 3:00, retomé la elaboración del listado de ONG. Continué investigando y agregando nuevas organizaciones que no estaban en la lista anterior, asegurándome de que no se repitieran y de que la información de contacto estuviera actualizada. Organicé los datos de manera ordenada para facilitar su consulta y uso posterior. Seguí trabajando en esto hasta finalizar mi horario.
 
-###  9:00 – 12:30
+###  21:00 – 00:30
 
 - Actividad 3 :
 
@@ -204,19 +204,17 @@ En la noche retomé el trabajo y seguí buscando y completando los listados que 
 
 ## 14 de septiembre de 2026
 
-- Actividad 1
-
 Llegué un poco tarde hoy. Me retrasé porque tenía que estar en la casa para recibir mis cosas de alimentación e higiene que me vinieron a entregar, y no podía salir sin recibirlas.
 
 ### 8:00 – 12:30
 
-- Actividad 2 :
+- Actividad 1 :
 
 Me dediqué a organizar y elaborar los listados de organizaciones de Guatemala. Busqué y verifiqué los correos electrónicos de cada una, asegurándome de que estuvieran vigentes y bien escritos.
 
 ### 2:30 – 4:30
 
-- Actividad 3 :
+- Actividad 2 :
 
 Continué buscando más organizaciones y sus datos de contacto. Después inicié el envío de los promocionales a los correos recopilados. Hasta el momento envié 10 promocionales.
 
@@ -302,7 +300,7 @@ También en mañana estuve trabajando junto con mi compañera Daniela en lo del 
 
 Regresé a la 1:30 y continué recolectando los correos de las organizaciones de lismanera. Terminé esa parte a las 3:20 Después seguí trabajando en el plan de la aplicación, organizando todo lo que platicos y acordos con Daniela. A partir de las 3:47 seguí avanzando con lo que faltaba de la recopilación y del plan, y finalicé mi jornada a las 5:00
 
-### 6:49 a 11:40
+### 18:49 a 23:40
 
 - Actividad 3 :
   
