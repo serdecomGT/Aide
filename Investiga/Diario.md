@@ -1,10 +1,10 @@
-## DIARIO DE PRACTICAS - IDANIA AIDE RUBIO BARRIOS ESTUDIANTE DE 5TO BACHILLERATO EN CIENCIAS Y LETRAS CON ORIENTACION EN COMPUTACION EN LA ESCUELA NORMAL DE MAESTRAS DE EDUCACION PARA EL HOGAR HUMBERTO MIRANDA FUENTES    
+## DIARIO DE PRACTICAS EN RECURSO SOPORTE - IDANIA AIDE RUBIO BARRIOS ESTUDIANTE DE 5TO BACHILLERATO EN CIENCIAS Y LETRAS CON ORIENTACIÓN EN COMPUTACIÓN EN LA ESCUELA NORMAL DE MAESTRAS DE EDUCACIÓN PARA EL HOGAR HUMBERTO MIRANDA FUENTES    
 
 ## 1 de septiembre de 2026
   
 ### 8:00 – 12:30
 
-- Reunión de apertura y asignación: La jornada comenzó con una charla de Don Carlos, quien nos explicó detalladente letodología de trabajo que íbos a implementar. Acto seguido, nos asignó la tarea de investigar a fondo ciertos temas clave que abordaremos más adelante en el proyecto.Investigación en equipo: Inmediatente después de la reunión, mi compañera Daniela López y yo nos pusimos a trabajar juntos. Investigos y desarrollos de forma exhaustiva cada uno de los temas planteados, logrando culminar con éxito toda la documentación requerida antes del mediodía.Estudio técnico inicial: Dediqué una parte de lañana a reforzar conceptos fundentales de redes y desarrollo de software:Modelo Cliente-Servidor: Repasé la arquitectura técnica y los protocolos que permiten la comunicación directa entre las aplicaciones y los servidores en internet.Inteligencia Artificial: Analicé a fondo el panora actual de la IA, evaluando de forma crítica sus principales pros y contras en la sociedad moderna.
+- Reunión de apertura y asignación: La jornada comenzó con una charla de Don Carlos, quien nos explicó detalladamente lA Metodologíamde trabajo que íbamos a implementar. Acto seguido, nos asignó la tarea de investigar a fondo ciertos temas clave que abordaremos más adelante en el proyecto.Investigación en equipo: Inmediatamente después de la reunión, mi compañera Daniela López y yo nos pusimos a trabajar juntos. Investigos y desarrollos de forma exhaustiva cada uno de los temas planteados, logrando culminar con éxito toda la documentación requerida antes del mediodía.Estudio técnico inicial: Dediqué una parte de lañana a reforzar conceptos fundentales de redes y desarrollo de software:Modelo Cliente-Servidor: Repasé la arquitectura técnica y los protocolos que permiten la comunicación directa entre las aplicaciones y los servidores en internet.Inteligencia Artificial: Analicé a fondo el panora actual de la IA, evaluando de forma crítica sus principales pros y contras en la sociedad moderna.
 
 ### 13:30 – 18:00
 
