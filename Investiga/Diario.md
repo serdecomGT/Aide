@@ -343,5 +343,5 @@ Todo quedó compartido y listo para que más personas conozcan AsisGru.
 - Evaluación de práctica supervisada y convivencia empresarial.
 
 ## 6 y 7 de octubre  2026
-- Por actividades de la empresa fuera del departamento de Quetzaltenango, la práctica supervisada se dio por finalizada de forma anticipada sin perjuicio para las señoritas de práctica.
+- Por actividades de la empresa fuera del departamento de Quetzaltenango, la práctica supervisada se dio por finalizada de forma anticipada al finalizar la jornada laboral del 5 de octubre de 2026, sin perjuicio para las señoritas de práctica.
 
